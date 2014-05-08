@@ -3,52 +3,48 @@ layout: default
 title: Accueil
 ---
 
-#1
-{% for post in site.categories[Programmation] %}
-     ---
-    <li>{{ post.title }}</li>
-{% endfor %}
-#2
-{% for post in site.categories['Programmation'] %}
----
-    <li>{{ post.title }}</li>
-{% endfor %}
-
-#3
-{% for post in site.categories.Programmation %}
----
-    <li>{{ post.title }}</li>
-{% endfor %}
-
-
-#2
-{% for post in site.categories["Programmation"] %}
----
-    <li>{{ post.title }}</li>
-{% endfor %}
-
 {%  for post in paginator.posts %}
-  <h3><a href="{{ post.permalink }}">{{ post.title }}</a></h3>
-  <p class="author">
-    <span class="author">{{  post.author.name }}</span>
-    <span class="date">{{  post.date | date_to_long_string }}</span>
-  </p>
+  <div style="margin-bottom: 50px;">
+  <h2><a href="{{ post.permalink }}">{{ post.title }}</a></h2>
+  <div style="margin: 15px 0px;">
+    <span style="color: gray; font-weight: bold">{{  post.date | date: "%d/%m/%Y" }}</span>
+    <div class="pull-right" >
+    {% for category in post.categories %}
+      <span class="label label-info">{{category}}</span>
+    {% endfor %}
+  </div>
+</div>
   <div class="content">
     {{  post.content }}
   </div>
+   <div style="margin-top: 15px;">
+    
+    <a class="badge" href="{{ site.url }}{{ post.url }}#disqus_thread">Pas de commentaires</a>
+    
+   </div>
+ </div>
 {%  endfor %}
 
 
-<div class="pagination">
+<ul class="pagination pagination-lg">
 {% if paginator.previous_page %}
-    <a href="/@" class="previous">Page précédente</a>
-{%  else %}
-    <span class="previous">Page précédente</span>
+    <li><a href="/page{{paginator.previous_page}}">&laquo;</a></li>
 {%  endif %}
-  <span class="page_number ">Page:  sur </span>
 {%  if paginator.next_page %}
-    <a href="/#" class="next">Page suivante</a>
-{%  else %}
-    <span class="next">Page suivante</span>
+  <li><a href="/page{{paginator.next_page}}" >&raquo;</a></li>
 {%  endif %}
-</div>
+
+{% for page in (1..paginator.total_pages) %}
+{% if page == paginator.page %}
+<li class="active"><span>{{paginator.page}} <span class="sr-only">(current)</span></li>
+{% elsif page == 1 %}
+    <li><a href="/">{{page}}</a></li>
+ {% else %}
+    <li><a href="/page{{page}}">{{page}}</a></li>
+  {%  endif %}
+{% endfor %}
+</ul>
+
+
+
+
