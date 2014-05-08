@@ -1,0 +1,29 @@
+
+.social-badges a {
+	font-size: 120%;
+	margin-right: 15px;
+    color: grey;	
+}
+
+.social-badges img {
+	margin-right: 5px;
+}
+
+.social-badges ul {   
+    padding-left: 0px;
+}
+
+.social-badges li {
+	list-style: none outside none;
+	display: inline;
+	
+}
+
+.page-header h1 a, .page-header h1 a:hover{
+    text-decoration: none;
+    color: black;   
+}
+
+h2 a ,h2 a:hover{
+    text-decoration: none;
+}
