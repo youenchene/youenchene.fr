@@ -7,7 +7,7 @@ title: Accueil
   <div style="margin-bottom: 50px;">
   <h2><a href="{{ post.permalink }}">{{ post.title }}</a></h2>
   <div style="margin: 15px 0px;">
-    <span style="color: gray; font-weight: bold">{{  post.date | date: "%d/%m/%Y" }}</span>
+    <span class="label label-default">{{  post.date | date: "%d/%m/%Y" }}</span>
     <div class="pull-right" >
     {% for category in post.categories %}
       <span class="label label-info">{{category}}</span>
