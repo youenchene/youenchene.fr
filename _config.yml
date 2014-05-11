@@ -23,6 +23,7 @@ paginate: 5
 #production_url : http://www.codeursenseine.com
 #url: http://127.0.0.1:4000
 url : http://www.youenchene.fr
+production_url : http://www.youenchene.fr
 
 
 gems:
