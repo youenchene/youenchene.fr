@@ -2,11 +2,11 @@
 # For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile"]
-auto: true
-pygments: true
+#auto: true
+#pygments: true
 permalink: /:year/:month/:title.html
-title : Yet Another Blog
-description: "Programmation, entreprenariat, domotique et retrogaming."
+title : Yet Another Entrepreneur Blog
+description: "Je suis Youen Chéné, CTO chez <a href=\"http://www.creativedata.fr\">Creative Data</a>, ici, je parle programmation, entreprenariat, domotique et retrogaming."
 
 paginate: 5
 
