@@ -1,4 +1,4 @@
-# This is the default format. 
+# This is the default format.
 # For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile"]
@@ -6,14 +6,14 @@ exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile"]
 #pygments: true
 permalink: /:year/:month/:title.html
 title : Yet Another Entrepreneur Blog
-description: "Je suis Youen Chéné, CTO chez <a href=\"http://www.creativedata.fr\">Creative Data</a>, ici, je parle programmation, entreprenariat, domotique et retrogaming."
+description: "Je suis Youen Chéné, CTO chez <a href=\"http://www.saagie.com\">Saagie</a>, ici, je parle programmation, entreprenariat, domotique et retrogaming."
 
 paginate: 5
 
 
 
 # The production_url is only used when full-domain names are needed
-# such as sitemap.txt 
+# such as sitemap.txt
 # Most places will/should use BASE_PATH to make the urls
 #
 # If you have set a CNAME (pages.github.com) set your custom domain here.
