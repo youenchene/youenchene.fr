@@ -28,3 +28,4 @@ production_url : http://www.youenchene.fr
 
 gems:
   - jekyll-sitemap
+  - jekyll-paginate
