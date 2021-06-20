@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>devoxx on Yet Another Entrepreneur Blog</title><link>http://www.youenchene.fr/categories/devoxx/</link><description>Yet Another Entrepreneur Blog (devoxx)</description><generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Mon, 30 Mar 2015 12:00:00 +0000</lastBuildDate><atom:link href="http://www.youenchene.fr/categories/devoxx/feed.xml" rel="self" type="application/rss+xml"/><item><title>Devoxx Belgium 2014 (2)</title><link>http://www.youenchene.fr/2015/08/DevoxxBelgium2014(2).html</link><pubDate>Mon, 30 Mar 2015 12:00:00 +0000</pubDate><guid>http://www.youenchene.fr/2015/08/DevoxxBelgium2014(2).html</guid><description>&lt;p>&lt;em>Note : gros retard sur mon blog, je profite de l'acalmie du mois d'Août pour le mettre à jour. Quelques articles un peu décalés dans le temps...&lt;/em>&lt;/p>
+&lt;p>Le résumé de la deuxième journée à Devoxx Belgique.&lt;/p>
+&lt;h3>Keynote - Google Material design&lt;/h3>
+&lt;p>La journée a commencé avec une revue des principes de material design. Il faut que je vérifie une chose, coté web est-ce qu'on aura un framework à bootstrap permettant une intégration facile?&lt;/p>
+&lt;h3>Angular at scale&lt;/h3>
+&lt;p>Une présentation bizarre, elle aurait pu se résumer en 3 slides.&lt;/p>
+&lt;p>Ils ont présenté comment ils ont unifié les aspects présentations et comportement des composants en développant et documentant à la bootstrap une bibliothèque de directives/composants avec une grosse participation de spécialiste en ergonomie.&lt;/p>
+&lt;p>Ainsi, les développeurs d'applications font un mashups des composants existants et ne réinvente pas la roue à chaque fois.&lt;/p>
+&lt;p>Ils ont insisté sur l'utilisation d'outillage (les classiques grunt et bower) et sur la mise en places de test automatisés sur les composants (karma).&lt;/p>
+&lt;p>Et c'est tout, rien sur l'organisation des projets, sur comment techniquement tu partages les directives. je suis donc resté sur ma fin.&lt;/p>
+&lt;div class="row">
+&lt;div class="col-md-8">
+&lt;h3>Growth Hacking&lt;/h3>
+&lt;p>Je suis ensuite passé sur la track startup par une présentation sur comment hacker la croissance de sa société.&lt;/p>
+&lt;p>Pour cela, avant de se lancer dans la croissance, il est nécessaire que :&lt;/p>
+&lt;ul>
+&lt;li>le produit doit être bon avant de lancer une grosse compagne de publicité,&lt;/li>
+&lt;li>l'idée n'est rien, tout est dans l'exécution,&lt;/li>
+&lt;li>le marketing doit capter la valeur généré par l'exécution&lt;/li>
+&lt;/ul>
+&lt;p>A ce moment, il est nécessaire de trouver des techniques de "rase campagne" sur chaque étape du tunnel de vente :&lt;/p>
+&lt;ul>
+&lt;li>acquisition,&lt;/li>
+&lt;li>activation,&lt;/li>
+&lt;li>retention,&lt;/li>
+&lt;li>revenue,&lt;/li>
+&lt;li>referal.&lt;/li>
+&lt;/ul>
+&lt;p>Ensuite à vous de trouver les techniques nécessaire pour développer votre boite. Voici des exemples :&lt;/p>
+&lt;ul>
+&lt;li>Hotmail avait une petite phrase automatique à la fin de chaque mail,&lt;/li>
+&lt;li>AirBNB as utiliser différents hacks comme l'embauche de photographes professionnels et la publication automatique sur craiglist),&lt;/li>
+&lt;li>Booking.com met la pression sur les utilisateur en affichant le nombre de personnes regardant la chambre d'hôtel (chiffre bidon),&lt;/li>
+&lt;li>Ebay a forcé ses utilisateurs à utiliser paypal.&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;div class="col-md-4">
+&lt;div class="text-center">
+&lt;img src="http://www.youenchene.fr/assets/img_posts/devoxx14-growth.jpg" class="img-responsive img-thumbnail" style="max-width: 80%;"/>
+&lt;br/>&lt;em>Equilibre entre produit et marketing&lt;/em>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="row">
+&lt;div class="col-md-8">
+&lt;h3>Testing in agile context&lt;/h3>
+&lt;p>Un retour intéressant, du leader d'une équipe de test/QA dans un monde ou le développement agile est la norme.&lt;/p>
+&lt;p>Il a du gérer le changement d'un monde en cycle en V ou ils avaient le temps de préparer un cahcier de test, de tout couvrir et de donner une couverture de test manuel vers un monde ou les livraisons sont très itératifs et ils n'ont plus le temps de tout couvrir.&lt;/p>
+&lt;p>Il a du mettre en place les changement suivants :&lt;/p>
+&lt;ul>
+&lt;li>le test n'est plus une phase du projet mais un processus continu,&lt;/li>
+&lt;li>la QA s'est dilué dans les équipes de développements.&lt;/li>
+&lt;li>réduire au maximum le délai de feedback sur chaque développement,&lt;/li>
+&lt;li>en conséquence les développeurs doivent d'abord corriger les bugs,&lt;/li>
+&lt;li>et les testeurs doivent rester raisonnable, conçis et se baser sur des critères d'acceptance.&lt;/li>
+&lt;/ul>
+&lt;p>Le principal chantier est toujours l'automatisation des tests (cf le cône versus la pyramide).&lt;/p>
+&lt;/div>
+&lt;div class="col-md-4">
+&lt;div class="text-center">
+&lt;img src="http://watirmelon.files.wordpress.com/2012/01/softwaretestingicecreamconeantipattern.png" class="img-responsive img-thumbnail" style="max-width: 80%;"/>
+&lt;br/>&lt;em>Le cône (Anti-pattern)&lt;/em>
+&lt;/div>
+&lt;div class="text-center">
+&lt;img src="http://watirmelon.files.wordpress.com/2012/01/idealautomatedtestingpyramid.png" class="img-responsive img-thumbnail" style="max-width: 80%;"/>
+&lt;br/>&lt;em>La pyramide (Cible idéal)&lt;/em>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="row">
+&lt;div class="col-md-8">
+&lt;h3>Startup need money&lt;/h3>
+&lt;p>Retour dans la track startup, avec une courte conférence sur comment monter une startup :&lt;/p>
+&lt;ul>
+&lt;li>trouver un problème à régler,&lt;/li>
+&lt;li>vérifier que vous êtes la bonne personne pour le résoudre,&lt;/li>
+&lt;li>trouver une équipe.&lt;/li>
+&lt;/ul>
+&lt;p>A un moment donné, vous aurez besoin d'investisseur si vous avez besoin de booster la croissance de la startup :&lt;/p>
+&lt;ul>
+&lt;li>les investisseurs ne poussent pas dans les arbres il faut aller les chercher,&lt;/li>
+&lt;li>juger aussi vos investisseurs en tant que personnes vous aurez à collaborer par la suite,&lt;/li>
+&lt;li>la croissance et le confort ne sont pas compatibles,&lt;/li>
+&lt;li>prenez du recul, restez cool et garder votre sens de l'humour.&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;div class="col-md-4">
+&lt;div class="text-center">
+&lt;img src="http://www.youenchene.fr/assets/img_posts/devoxx14-dream.jpg" class="img-responsive img-thumbnail" style="max-width: 80%;"/>
+&lt;br/>&lt;em>Don't forget to dream&lt;/em>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="row">
+&lt;div class="col-md-8">
+&lt;h3>Founders Dilemmas&lt;/h3>
+&lt;p>Autre rapide présentation sur le dilèmne des fondateurs de société. En effet, il devra en permanence arbitrer entre décision qui lui permettra de garder le contrôle ou de potentiellement augmenter le gain possible.&lt;/p>
+&lt;p>En effet, plus le fondateur souhaite garder le contrôle, moins cela permettra d'optimiser les rentrées d'argent. Cela commence par l'arrivé de co-fondateurs et d'associés, puis par l'arrivée d'investisseurs.&lt;/p>
+&lt;/div>
+&lt;div class="col-md-4">
+&lt;div class="text-center">
+&lt;img src="http://www.youenchene.fr/assets/img_posts/devoxx14-dilemmas.jpg" class="img-responsive img-thumbnail" style="max-width: 80%;"/>
+&lt;br/>&lt;em>Richesse versus Contrôle&lt;/em>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;h3>San francisco&lt;/h3>
+&lt;p>Une présentation qui donne les dernières informations de la silicon valley :&lt;/p>
+&lt;ul>
+&lt;li>plus que jamais une grosse densité pour réseauter,&lt;/li>
+&lt;li>les bon développeurs sont chères, c'est très difficile de maintenir en équipe stable,&lt;/li>
+&lt;li>les investisseurs ne sont plus intéressés par le services et les produit "on premise", il veulent du SaaS,&lt;/li>
+&lt;li>les investisseurs veulent savoir qui détient les données,&lt;/li>
+&lt;li>lever des fonds : un énorme travail, un monde différent,&lt;/li>
+&lt;li>les coachs et conseillers (advisors) sont très importants,&lt;/li>
+&lt;li>l'aspect réseau et conseil des investisseurs est très importants,&lt;/li>
+&lt;li>le business à l'international est compliqué.&lt;/li>
+&lt;/ul>
+&lt;h3>Woorank&lt;/h3>
+&lt;p>Un autre retour de startup, une autre vision.&lt;/p>
+&lt;p>Cette fois ci, on est en mode organique avec une approche à base de bout de ficelles (bootstratp) et d'approche MVP (Minium Viable Product) :&lt;/p>
+&lt;ul>
+&lt;li>pas mal de service au début pour s'auto financer,&lt;/li>
+&lt;li>vente en marque blanche pour booster la croissance,&lt;/li>
+&lt;li>augmentation des tarifs au moment ou toute l'équipe est passé à temps complet sur le produit,&lt;/li>
+&lt;li>embaucher sur github et les hackathons.&lt;/li>
+&lt;/ul>
+&lt;p>Techniquement, une architecture micro services a été mise en place (avec la complexité de déploiement que cela incombe). Il passent maintenant à une deuxième version de l'architecture (traitement temps réel...)&lt;/p></description></item><item><title>Devoxx Belgium 2014 (1)</title><link>http://www.youenchene.fr/2014/11/DevoxxBelgium2014(1).html</link><pubDate>Sun, 16 Nov 2014 12:00:00 +0000</pubDate><guid>http://www.youenchene.fr/2014/11/DevoxxBelgium2014(1).html</guid><description>&lt;p xmlns="http://www.w3.org/1999/html">Voici le retour de ma première journée à Devoxx Belgique.&lt;/p>
+&lt;div class="row">
+&lt;div class="col-md-8">
+&lt;h3>Keynotes&lt;/h3>
+&lt;p>Devoxx s'étends au fur et à mesure sur l'ensemble de l'europe. Après Anvers, Paris et Londres, en juin prochain il y aura un devoxx pologne à Cracovie (krakow).&lt;/p>
+&lt;p>Red Hat digère ses différents rachats et nous propose un PAAS (platform de développement dans les nuages). Au programme de programmation d'application mobile et un middleware basé sur activemq et camel (donc du rachat de fuse source) avec à priori un éditeur en ligne.&lt;/p>
+&lt;p>Oracle ramène peu à peu Java dans son objectif initial des années 90 ... dans l'embarqué : microcontrolleur, internet des objets, voitures...&lt;/p>
+&lt;/div>
+&lt;div class="col-md-4">
+&lt;div class="text-center">
+&lt;img src="http://www.youenchene.fr/assets/img_posts/devoxx14-gareanvers.jpg" class="img-responsive img-thumbnail" style="max-width: 80%;"/>
+&lt;br/>&lt;em>La gare d'Anvers&lt;/em>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="row">
+&lt;div class="col-md-8">
+&lt;h3>Apache Mesos / Cluster&lt;/h3>
+&lt;p>Une présentation de mesos par un petit français &lt;a href="http://twitter.com/samklr">@samklr&lt;/a>. Mesos est un manageur de conteneurs qui fourni une API utilisable par un orchestrateur de jobs.&lt;/p>
+&lt;p>Cela permet de passer outre les limites du partionning statique et de lisser et optimiser l'utilisation des ressources des serveurs. On va pouvoir ainsi balancer la charge des jobs sur des contenaires dédiés.&lt;/p>
+&lt;p>Mesos est de la fondation apache et a été mis à l'épreuve du feu de Twitter &amp; AirBnB. Il est testable sur la plateforme de google si j'ai bien compris.&lt;/p>
+&lt;p>Le système de containeur s'est d'abord basé sur LXC pour aller ensuite vers c-groups. Zookeeper est utilisé pour la gestion de la haute disponibilité. Cette année le support de docker a été ajout, ainsi les 2 systèmes de containers peuvent cohabiter derrière l'API de Mesos.&lt;/p>
+&lt;p>Dans les type containeurs, on a tous un écosystème. Example Marathon pour des services qui se lance dans la durée (exemple un site web). A contrario l'orateur ne conseille pas d'héberger de base de données dans les containeurs. &lt;/p>
+&lt;p>Plus d'information : &lt;a href="http://mesos.apache.org/gettingstarted/">Mesos&lt;/a> &lt;a href="http://mesosphere.com">Mesosphere&lt;/a>&lt;/p>
+&lt;/div>
+&lt;div class="col-md-4">
+&lt;div class="text-center">
+&lt;img src="http://www.youenchene.fr/assets/img_posts/devoxx14-mesos.jpg" class="img-responsive img-thumbnail" style="max-width: 80%;"/>
+&lt;br/>&lt;em>L'architecture globale de mesos&lt;/em>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="row">
+&lt;div class="col-md-8">
+&lt;h3>Chet Haase - Process, Process, Process&lt;/h3>
+&lt;p>Une session "détente" qui démontre par l'absurde la bétise de pas mal de sociétés et des boites de conseils. Les qualités de Stand up de Chet Haase font tout le travail.&lt;/p>
+&lt;/div>
+&lt;div class="col-md-4">
+&lt;div class="text-center">
+&lt;img src="http://www.youenchene.fr/assets/img_posts/devoxx14-bugs.jpg" class="img-responsive img-thumbnail" style="max-width: 80%;"/>
+&lt;br/>&lt;em>Plus il y a de lignes de codes, plus il y a de bugs, il faut donc écrire moins de code&lt;/em>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="row">
+&lt;div class="col-md-8">
+&lt;h3>Probably, Definitively, Maybe&lt;/h3>
+&lt;p>C'est la présentation qui pique avec beaucoups de théorie mathématiques :&lt;/p>
+&lt;ul>
+&lt;li>la description des différentes variantes de le l'algo de classification de Bayes,&lt;/li>
+&lt;li>la prise de décision avec le modèle de Markov,&lt;/li>
+&lt;li>les filtres de kalman qui est très robuste et utilisés par la Nasa et l'armée depuis longtemps.&lt;/li>
+&lt;/ul>
+&lt;p>La présentation aurait gagné à être accessible en mettant 50% de théorie et 50% d'exemple. Le trop de théorie m'a rappelé la prépa et l'école d'ingénieur.&lt;/p>
+&lt;/div>
+&lt;div class="col-md-4">
+&lt;div class="text-center">
+&lt;img src="http://www.youenchene.fr/assets/img_posts/devoxx14-ml.jpg" class="img-responsive img-thumbnail" style="max-width: 80%;"/>
+&lt;br/>&lt;em>Slide en mode tableau noir pour bien te rappeler l'école&lt;/em>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="row">
+&lt;div class="col-md-8">
+&lt;h3>Web performance tuning&lt;/h3>
+&lt;p>C'est la session qui m'a le plus intéressé. Au final très peu de technique, mais une description très clair d'une approche d'amélioration des performances d'une application web.&lt;/p>
+&lt;p>La première chose c'est de s'entendre avec les utilisateurs sur ce qui est lent. Cela demande des efforts des 2 cotés pour avoir un langage commun. Du coté utilisateur, il faut partir du "c'est lent" à combien, quelle unité et quelles attentes. Du coté développeur, ne pas partir trop tôt dans une mauvaise direction, prendre la donnée et résoudre les vrais goulots d'étranglement&lt;/p>
+&lt;p>L'approche est globalement la suivante :&lt;/p>
+&lt;ol>
+&lt;li>Collecter les données (et prendre uniquement ce que l'on a besoin)&lt;/li>
+&lt;ul>
+&lt;li>Réseau : tester dans les 2 sens et prendre en compte les accès externes.&lt;/li>
+&lt;li>Serveur : utiliser les commandes linux.&lt;/li>
+&lt;li>JVM: paramètre du garbage collectors.&lt;/li>
+&lt;li>Containeur : attention aux sessions.&lt;/li>
+&lt;li>Cache : obligatoire mais à utiliser avec attention.y&lt;/li>
+&lt;li>Application : attention aux sérialisation en chaîne, ne pas se focaliser sur les requête longues, prendre en compte les volumes de requêtes.&lt;/li>
+&lt;li>Base de données, api externe : mesurer&lt;/li>
+&lt;li>Note 1 : une autre paire de yeux.&lt;/li>
+&lt;li>Note 2 : tout le monde ment, vérifier avec des données.&lt;/li>
+&lt;/ul>
+&lt;li>Analyser :&lt;/li>
+&lt;ul>
+&lt;li>Ne pas se baser sur les préjugés (réseau parfait et stable etc...)&lt;/li>
+&lt;li>ne pas oublier les solutions altyernatives&lt;/li>
+&lt;/ul>
+&lt;li>Retirer les goulots d'étranglement&lt;/li>
+&lt;ul>
+&lt;li>aller au dela de votre zone de confort : infra, réseau, virtualisation.&lt;/li>
+&lt;li>Ne pas copier bêtement des réglages de jvm et d'un poste de blog.&lt;/li>
+&lt;li>Aller chercher ce qu'il y aderrière les méthdoes opbjets que vous utiliser (exemple : JPA/Hibernate, arraylist et linked list).&lt;/li>
+&lt;/ul>
+&lt;/ol>
+&lt;p>Enfin lorsque que vous fournissez une API, vous ne pouvez prévoir comment elle va vraiment être utilisé, rendez-la configurable. Surtout fournissez des résultats de test de performance pour des scénarios précis.&lt;/p>
+&lt;/div>
+&lt;div class="col-md-4">
+&lt;div class="text-center">
+&lt;img src="http://www.youenchene.fr/assets/img_posts/devoxx14-perf.jpg" class="img-responsive img-thumbnail" style="max-width: 80%;"/>
+&lt;br/>&lt;em>Step out of your confort zone&lt;/em>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="row">
+&lt;div class="col-md-8">
+&lt;h3>Modern App Architecture&lt;/h3>
+&lt;p>Un talk un peu bizarre, la forme, l'humour, les anecdotes, l'énergie était très bonne, par contre c'était un peu vide et le vrai contenu à la fin est passé trop rapidement.&lt;/p>
+&lt;p>On a eu un historique des archiectures web :&lt;/p>
+&lt;ol>
+&lt;li>Le projet Xanadu : un web avant l'heure (1970) qui est sortie à la fin des années 2000 et qui s'est avéré être juste mauvais.&lt;/li>
+&lt;li>L'époque des pages statiques (geocities, mygale..).&lt;/li>
+&lt;li>Les serveur simple (cgi).&lt;/li>
+&lt;li>Les applications lourdes sur navigateurs (applet, flash, active-x).&lt;/li>
+&lt;li>Les serveurds complexes (jsp, jsf, php, ror, asp.net, tous les framework mvc web).&lt;/li>
+&lt;li>L'apparition des apis (http, soap) qui coincide avec l'arrivé du mobile&lt;/li>
+&lt;/ol>
+&lt;p>Une définition de architecture est la suivante : ensemble des réponse que les développeurs vont poser lors du développement.&lt;/p>
+&lt;p>Attention aux hypothèses fausses sur lesquels se repose de nombreuses architectures d'entreprise (cf illustration).&lt;/p>
+&lt;p>Une architecture web moderne est maintenant une plateforme orienté développement sur laquel on a des objets métiers et un jeu de services à documenter propre au métier adressé.&lt;/p>
+&lt;p>Cette architecture doit pouvoir s'adapter au mobile et au web dès le premier jour&lt;/p>
+&lt;p>Sur les choix technologiques, c'est à vous de travailler en fonction du besoin (http, jms, hadoop, etc...)&lt;/p>
+&lt;/div>
+&lt;div class="col-md-4">
+&lt;div class="text-center">
+&lt;img src="http://www.youenchene.fr/assets/img_posts/devoxx14-modernarch.jpg" class="img-responsive img-thumbnail" style="max-width: 80%;"/>
+&lt;br/>&lt;em>Les fausses opinions sur lesquelles se base beaucoup trop d'architectures&lt;/em>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="row">
+&lt;div class="col-md-8">
+&lt;h3>ING / Transformation d'une DSI&lt;/h3>
+&lt;p>La journée s'est terminé par une keynote du CIO/DSI de chez ING direct. Il a expliqué comment il a transformé une DSI moribonde en une DSI qui tire le métiers vers de nouvelles pratiques avec leur client. Agilité, automatisation, dev ops et maintenant cloud privé ont participé à cette conduite du changement. Le mec va même jusqu'à présenter une slide d'architecture avec les technos cool du moment pour dire qu'il recrute les meilleurs ingénieurs possible. La performance est d'autant intéressante, qu'il est aveugle (on me l'a dit après) et que c'est le speakers qui a subit le plus de problèmes techniques (sono, vidéo). Une chose encore inimaginable en france ([troll]quoique il était plus visionnaire que de nombreux DSI français...[/troll]).&lt;/p>
+&lt;p>Point notable et qu'on retrouvera dans plusieurs présentations, &lt;strong>c'est la nouvelle séparation entre exploitation et développement&lt;/strong>. Il est basé sur modèle PaaS. L'exploitation est responsable de l'infrastructure, des OS et des serveurs d'app et de leur monitoring. De l'autre coté, les développeurs sont responsables du contenu(des applications), de son déploiement et de son monitoring.&lt;/p>
+&lt;/div>
+&lt;div class="col-md-4">
+&lt;div class="text-center">
+&lt;img src="http://www.youenchene.fr/assets/img_posts/devoxx14-ing.jpg" class="img-responsive img-thumbnail" style="max-width: 80%;"/>
+&lt;br/>&lt;em>Ron Van Kemenade, le DSI d'ING&lt;/em>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="row">
+&lt;div class="col-md-8">
+&lt;h3>Soirées et autours de Devoxx&lt;/h3>
+&lt;p>Devoxx est aussi un lieu de rencontre des différentes communautés : par pays, langue, technologies, associations. On y rencontre donc pas mal de personne qu'on suit sur twitter ("attends c'est lui @romaintaz ...").&lt;/p>
+&lt;p>L'autre particularité, c'est que dans la génération des 30-40 ans il y a beaucoups de profils aux trajectoires alternatives (c'est à dire pas les 5 ans d'université et ou prepa/ecole ingé). Et la motivation et le travail a fait qu'ils sont maintenant dans les leaders technique d'une communauté.&lt;/p>
+&lt;/div>
+&lt;div class="col-md-4">
+&lt;div class="text-center">
+&lt;img src="http://www.youenchene.fr/assets/img_posts/devoxx14-kellies.jpg" class="img-responsive img-thumbnail" style="max-width: 80%;"/>
+&lt;br/>&lt;em>Le repère des &lt;strike>frenchies&lt;/strike> francophones au Kelly's&lt;/em>
+&lt;/div>
+&lt;/div>
+&lt;/div></description></item></channel></rss>

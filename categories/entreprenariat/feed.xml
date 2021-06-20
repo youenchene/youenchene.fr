@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>entreprenariat on Yet Another Entrepreneur Blog</title><link>http://www.youenchene.fr/categories/entreprenariat/</link><description>Yet Another Entrepreneur Blog (entreprenariat)</description><generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Mon, 30 Mar 2015 12:00:00 +0000</lastBuildDate><atom:link href="http://www.youenchene.fr/categories/entreprenariat/feed.xml" rel="self" type="application/rss+xml"/><item><title>Devoxx Belgium 2014 (2)</title><link>http://www.youenchene.fr/2015/08/DevoxxBelgium2014(2).html</link><pubDate>Mon, 30 Mar 2015 12:00:00 +0000</pubDate><guid>http://www.youenchene.fr/2015/08/DevoxxBelgium2014(2).html</guid><description>&lt;p>&lt;em>Note : gros retard sur mon blog, je profite de l'acalmie du mois d'Août pour le mettre à jour. Quelques articles un peu décalés dans le temps...&lt;/em>&lt;/p>
+&lt;p>Le résumé de la deuxième journée à Devoxx Belgique.&lt;/p>
+&lt;h3>Keynote - Google Material design&lt;/h3>
+&lt;p>La journée a commencé avec une revue des principes de material design. Il faut que je vérifie une chose, coté web est-ce qu'on aura un framework à bootstrap permettant une intégration facile?&lt;/p>
+&lt;h3>Angular at scale&lt;/h3>
+&lt;p>Une présentation bizarre, elle aurait pu se résumer en 3 slides.&lt;/p>
+&lt;p>Ils ont présenté comment ils ont unifié les aspects présentations et comportement des composants en développant et documentant à la bootstrap une bibliothèque de directives/composants avec une grosse participation de spécialiste en ergonomie.&lt;/p>
+&lt;p>Ainsi, les développeurs d'applications font un mashups des composants existants et ne réinvente pas la roue à chaque fois.&lt;/p>
+&lt;p>Ils ont insisté sur l'utilisation d'outillage (les classiques grunt et bower) et sur la mise en places de test automatisés sur les composants (karma).&lt;/p>
+&lt;p>Et c'est tout, rien sur l'organisation des projets, sur comment techniquement tu partages les directives. je suis donc resté sur ma fin.&lt;/p>
+&lt;div class="row">
+&lt;div class="col-md-8">
+&lt;h3>Growth Hacking&lt;/h3>
+&lt;p>Je suis ensuite passé sur la track startup par une présentation sur comment hacker la croissance de sa société.&lt;/p>
+&lt;p>Pour cela, avant de se lancer dans la croissance, il est nécessaire que :&lt;/p>
+&lt;ul>
+&lt;li>le produit doit être bon avant de lancer une grosse compagne de publicité,&lt;/li>
+&lt;li>l'idée n'est rien, tout est dans l'exécution,&lt;/li>
+&lt;li>le marketing doit capter la valeur généré par l'exécution&lt;/li>
+&lt;/ul>
+&lt;p>A ce moment, il est nécessaire de trouver des techniques de "rase campagne" sur chaque étape du tunnel de vente :&lt;/p>
+&lt;ul>
+&lt;li>acquisition,&lt;/li>
+&lt;li>activation,&lt;/li>
+&lt;li>retention,&lt;/li>
+&lt;li>revenue,&lt;/li>
+&lt;li>referal.&lt;/li>
+&lt;/ul>
+&lt;p>Ensuite à vous de trouver les techniques nécessaire pour développer votre boite. Voici des exemples :&lt;/p>
+&lt;ul>
+&lt;li>Hotmail avait une petite phrase automatique à la fin de chaque mail,&lt;/li>
+&lt;li>AirBNB as utiliser différents hacks comme l'embauche de photographes professionnels et la publication automatique sur craiglist),&lt;/li>
+&lt;li>Booking.com met la pression sur les utilisateur en affichant le nombre de personnes regardant la chambre d'hôtel (chiffre bidon),&lt;/li>
+&lt;li>Ebay a forcé ses utilisateurs à utiliser paypal.&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;div class="col-md-4">
+&lt;div class="text-center">
+&lt;img src="http://www.youenchene.fr/assets/img_posts/devoxx14-growth.jpg" class="img-responsive img-thumbnail" style="max-width: 80%;"/>
+&lt;br/>&lt;em>Equilibre entre produit et marketing&lt;/em>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="row">
+&lt;div class="col-md-8">
+&lt;h3>Testing in agile context&lt;/h3>
+&lt;p>Un retour intéressant, du leader d'une équipe de test/QA dans un monde ou le développement agile est la norme.&lt;/p>
+&lt;p>Il a du gérer le changement d'un monde en cycle en V ou ils avaient le temps de préparer un cahcier de test, de tout couvrir et de donner une couverture de test manuel vers un monde ou les livraisons sont très itératifs et ils n'ont plus le temps de tout couvrir.&lt;/p>
+&lt;p>Il a du mettre en place les changement suivants :&lt;/p>
+&lt;ul>
+&lt;li>le test n'est plus une phase du projet mais un processus continu,&lt;/li>
+&lt;li>la QA s'est dilué dans les équipes de développements.&lt;/li>
+&lt;li>réduire au maximum le délai de feedback sur chaque développement,&lt;/li>
+&lt;li>en conséquence les développeurs doivent d'abord corriger les bugs,&lt;/li>
+&lt;li>et les testeurs doivent rester raisonnable, conçis et se baser sur des critères d'acceptance.&lt;/li>
+&lt;/ul>
+&lt;p>Le principal chantier est toujours l'automatisation des tests (cf le cône versus la pyramide).&lt;/p>
+&lt;/div>
+&lt;div class="col-md-4">
+&lt;div class="text-center">
+&lt;img src="http://watirmelon.files.wordpress.com/2012/01/softwaretestingicecreamconeantipattern.png" class="img-responsive img-thumbnail" style="max-width: 80%;"/>
+&lt;br/>&lt;em>Le cône (Anti-pattern)&lt;/em>
+&lt;/div>
+&lt;div class="text-center">
+&lt;img src="http://watirmelon.files.wordpress.com/2012/01/idealautomatedtestingpyramid.png" class="img-responsive img-thumbnail" style="max-width: 80%;"/>
+&lt;br/>&lt;em>La pyramide (Cible idéal)&lt;/em>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="row">
+&lt;div class="col-md-8">
+&lt;h3>Startup need money&lt;/h3>
+&lt;p>Retour dans la track startup, avec une courte conférence sur comment monter une startup :&lt;/p>
+&lt;ul>
+&lt;li>trouver un problème à régler,&lt;/li>
+&lt;li>vérifier que vous êtes la bonne personne pour le résoudre,&lt;/li>
+&lt;li>trouver une équipe.&lt;/li>
+&lt;/ul>
+&lt;p>A un moment donné, vous aurez besoin d'investisseur si vous avez besoin de booster la croissance de la startup :&lt;/p>
+&lt;ul>
+&lt;li>les investisseurs ne poussent pas dans les arbres il faut aller les chercher,&lt;/li>
+&lt;li>juger aussi vos investisseurs en tant que personnes vous aurez à collaborer par la suite,&lt;/li>
+&lt;li>la croissance et le confort ne sont pas compatibles,&lt;/li>
+&lt;li>prenez du recul, restez cool et garder votre sens de l'humour.&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;div class="col-md-4">
+&lt;div class="text-center">
+&lt;img src="http://www.youenchene.fr/assets/img_posts/devoxx14-dream.jpg" class="img-responsive img-thumbnail" style="max-width: 80%;"/>
+&lt;br/>&lt;em>Don't forget to dream&lt;/em>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="row">
+&lt;div class="col-md-8">
+&lt;h3>Founders Dilemmas&lt;/h3>
+&lt;p>Autre rapide présentation sur le dilèmne des fondateurs de société. En effet, il devra en permanence arbitrer entre décision qui lui permettra de garder le contrôle ou de potentiellement augmenter le gain possible.&lt;/p>
+&lt;p>En effet, plus le fondateur souhaite garder le contrôle, moins cela permettra d'optimiser les rentrées d'argent. Cela commence par l'arrivé de co-fondateurs et d'associés, puis par l'arrivée d'investisseurs.&lt;/p>
+&lt;/div>
+&lt;div class="col-md-4">
+&lt;div class="text-center">
+&lt;img src="http://www.youenchene.fr/assets/img_posts/devoxx14-dilemmas.jpg" class="img-responsive img-thumbnail" style="max-width: 80%;"/>
+&lt;br/>&lt;em>Richesse versus Contrôle&lt;/em>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;h3>San francisco&lt;/h3>
+&lt;p>Une présentation qui donne les dernières informations de la silicon valley :&lt;/p>
+&lt;ul>
+&lt;li>plus que jamais une grosse densité pour réseauter,&lt;/li>
+&lt;li>les bon développeurs sont chères, c'est très difficile de maintenir en équipe stable,&lt;/li>
+&lt;li>les investisseurs ne sont plus intéressés par le services et les produit "on premise", il veulent du SaaS,&lt;/li>
+&lt;li>les investisseurs veulent savoir qui détient les données,&lt;/li>
+&lt;li>lever des fonds : un énorme travail, un monde différent,&lt;/li>
+&lt;li>les coachs et conseillers (advisors) sont très importants,&lt;/li>
+&lt;li>l'aspect réseau et conseil des investisseurs est très importants,&lt;/li>
+&lt;li>le business à l'international est compliqué.&lt;/li>
+&lt;/ul>
+&lt;h3>Woorank&lt;/h3>
+&lt;p>Un autre retour de startup, une autre vision.&lt;/p>
+&lt;p>Cette fois ci, on est en mode organique avec une approche à base de bout de ficelles (bootstratp) et d'approche MVP (Minium Viable Product) :&lt;/p>
+&lt;ul>
+&lt;li>pas mal de service au début pour s'auto financer,&lt;/li>
+&lt;li>vente en marque blanche pour booster la croissance,&lt;/li>
+&lt;li>augmentation des tarifs au moment ou toute l'équipe est passé à temps complet sur le produit,&lt;/li>
+&lt;li>embaucher sur github et les hackathons.&lt;/li>
+&lt;/ul>
+&lt;p>Techniquement, une architecture micro services a été mise en place (avec la complexité de déploiement que cela incombe). Il passent maintenant à une deuxième version de l'architecture (traitement temps réel...)&lt;/p></description></item></channel></rss>

@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>conference on Yet Another Entrepreneur Blog</title><link>http://www.youenchene.fr/categories/conference/</link><description>Yet Another Entrepreneur Blog (conference)</description><generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Sat, 15 Aug 2015 12:00:00 +0000</lastBuildDate><atom:link href="http://www.youenchene.fr/categories/conference/feed.xml" rel="self" type="application/rss+xml"/><item><title>Retour sur Codeurs en Seine Edition 2014</title><link>http://www.youenchene.fr/2015/08/CodeursEnSeineEdition2014.html</link><pubDate>Sat, 15 Aug 2015 12:00:00 +0000</pubDate><guid>http://www.youenchene.fr/2015/08/CodeursEnSeineEdition2014.html</guid><description>&lt;img src="http://www.codeursenseine.com/assets/img/logo-codeurs-en-seine.png" class="pull-right"/>
+&lt;p>&lt;em>Note : gros retard sur mon blog, je profite de l'acalmie du mois d'Août pour le mettre à jour. Quelques articles un peu décalés dans le temps...&lt;/em>&lt;/p>
+&lt;p>Un rapide article pour revenir sur l'organisation de l'édition 2014 de &lt;a href="http://www.codeursenseine.com">Codeurs en Seine&lt;/a>.&lt;/p>
+&lt;p>Cette année on a fait un peu grossir la conférence, on est passé de 250 participants à 380 participants avec 4 sessions en parallèles.&lt;/p>
+&lt;p>Comme l'organisation était un plus rodé j'ai pu profiter de quelques conférences :&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=ri6I4Fnlmuo">KISS my A** par Emmanuel Lecharny&lt;/a> : c'est moi qui insisté pour faire venir le maître troll de la mailing liste des cast codeurs, on a eu du troll mais aussi du recul sur notre mission, nous programmeur, de gérer la complexité (avec ou sans framework).&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=VIQZazcOgGg">Management Hacking de Alexis Nicolas&lt;/a> : je suis son blog, j'ai été terriblement déçu par le contenu et la manière.&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=YYLWL5-_8_c">Java 8 par José Paumard&lt;/a> : du José Paumard, c'est propre, réglé à la seconde, intéressant et on comprends tout.&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=xE06k5f33-s">Scala par Xavier Buchiotty&lt;/a> : 45 mn de live coding sous vi sur la mise en place d'un DSL à partir de scala, grosse qualité, mais on a perdu quelques personnes dans la salle.&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=7OOXG5oaO6s">Google Glass par Alain Régnier&lt;/a> : maintenant limite un post-mortem, mais très bon show de Alain.&lt;/li>
+&lt;/ul>
+&lt;img src="https://farm8.staticflickr.com/7502/15720344837_d3aedcd076_h.jpg" width="300" class="pull-right img-responsive img-thumbnail""/>
+&lt;p>Dans les autres amphis à noter :&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=rt-9mPaYtKo&amp;list=PLbbYL6fWx8Wy5_TLTzo69MV7v4HKD3PvO&amp;index=5">Git++&lt;/a> : nos amis du chtit jug qu'on avais repéré à Devoxx France, a été la conférence la plus applaudie!&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=f9EAd0vsoPc">Bunkr&lt;/a> : Alexis Jamet a fait le show, la keynote a eu la meilleure note de la conférence.&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=MgPwbal1LaA">Christophe Porteneuve&lt;/a> : les 25 ans du javascript avec un développeurs web de la première heure, la track web a attaqué la journée très fort.&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=wGlen9OtalM">Machine Learning avec Stéphane Canu&lt;/a> : un chercheur star dans la conférence, on a pris le risque, on a pas été déçu!&lt;/li>
+&lt;/ul>
+&lt;p>A noter que j'ai refait &lt;a href="https://www.youtube.com/watch?v=EDDj1AHXGyc">mon quickie "Outils du Manager"&lt;/a>. J'ai fait une performance moyenne, difficile de faire conférencier et organisateur en même temps. Par contre, le contexte était particulier. Au 1er rang j'avais ma future équipe. Au 4ème rang, j'avais mon ancienne équipe (qui ne le savait pas encore).&lt;/p>
+&lt;p>Les vidéos sont sur &lt;a href="https://www.youtube.com/channel/UCWujmG5rANxJI0nHbMFs08w/playlists">la chaine youtube&lt;/a> et les slides sur &lt;a href="http://lanyrd.com/2014/codeurs2014/coverage/">Lanyrd&lt;/a>.&lt;/p></description></item><item><title>Devoxx Belgium 2014 (1)</title><link>http://www.youenchene.fr/2014/11/DevoxxBelgium2014(1).html</link><pubDate>Sun, 16 Nov 2014 12:00:00 +0000</pubDate><guid>http://www.youenchene.fr/2014/11/DevoxxBelgium2014(1).html</guid><description>&lt;p xmlns="http://www.w3.org/1999/html">Voici le retour de ma première journée à Devoxx Belgique.&lt;/p>
+&lt;div class="row">
+&lt;div class="col-md-8">
+&lt;h3>Keynotes&lt;/h3>
+&lt;p>Devoxx s'étends au fur et à mesure sur l'ensemble de l'europe. Après Anvers, Paris et Londres, en juin prochain il y aura un devoxx pologne à Cracovie (krakow).&lt;/p>
+&lt;p>Red Hat digère ses différents rachats et nous propose un PAAS (platform de développement dans les nuages). Au programme de programmation d'application mobile et un middleware basé sur activemq et camel (donc du rachat de fuse source) avec à priori un éditeur en ligne.&lt;/p>
+&lt;p>Oracle ramène peu à peu Java dans son objectif initial des années 90 ... dans l'embarqué : microcontrolleur, internet des objets, voitures...&lt;/p>
+&lt;/div>
+&lt;div class="col-md-4">
+&lt;div class="text-center">
+&lt;img src="http://www.youenchene.fr/assets/img_posts/devoxx14-gareanvers.jpg" class="img-responsive img-thumbnail" style="max-width: 80%;"/>
+&lt;br/>&lt;em>La gare d'Anvers&lt;/em>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="row">
+&lt;div class="col-md-8">
+&lt;h3>Apache Mesos / Cluster&lt;/h3>
+&lt;p>Une présentation de mesos par un petit français &lt;a href="http://twitter.com/samklr">@samklr&lt;/a>. Mesos est un manageur de conteneurs qui fourni une API utilisable par un orchestrateur de jobs.&lt;/p>
+&lt;p>Cela permet de passer outre les limites du partionning statique et de lisser et optimiser l'utilisation des ressources des serveurs. On va pouvoir ainsi balancer la charge des jobs sur des contenaires dédiés.&lt;/p>
+&lt;p>Mesos est de la fondation apache et a été mis à l'épreuve du feu de Twitter &amp; AirBnB. Il est testable sur la plateforme de google si j'ai bien compris.&lt;/p>
+&lt;p>Le système de containeur s'est d'abord basé sur LXC pour aller ensuite vers c-groups. Zookeeper est utilisé pour la gestion de la haute disponibilité. Cette année le support de docker a été ajout, ainsi les 2 systèmes de containers peuvent cohabiter derrière l'API de Mesos.&lt;/p>
+&lt;p>Dans les type containeurs, on a tous un écosystème. Example Marathon pour des services qui se lance dans la durée (exemple un site web). A contrario l'orateur ne conseille pas d'héberger de base de données dans les containeurs. &lt;/p>
+&lt;p>Plus d'information : &lt;a href="http://mesos.apache.org/gettingstarted/">Mesos&lt;/a> &lt;a href="http://mesosphere.com">Mesosphere&lt;/a>&lt;/p>
+&lt;/div>
+&lt;div class="col-md-4">
+&lt;div class="text-center">
+&lt;img src="http://www.youenchene.fr/assets/img_posts/devoxx14-mesos.jpg" class="img-responsive img-thumbnail" style="max-width: 80%;"/>
+&lt;br/>&lt;em>L'architecture globale de mesos&lt;/em>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="row">
+&lt;div class="col-md-8">
+&lt;h3>Chet Haase - Process, Process, Process&lt;/h3>
+&lt;p>Une session "détente" qui démontre par l'absurde la bétise de pas mal de sociétés et des boites de conseils. Les qualités de Stand up de Chet Haase font tout le travail.&lt;/p>
+&lt;/div>
+&lt;div class="col-md-4">
+&lt;div class="text-center">
+&lt;img src="http://www.youenchene.fr/assets/img_posts/devoxx14-bugs.jpg" class="img-responsive img-thumbnail" style="max-width: 80%;"/>
+&lt;br/>&lt;em>Plus il y a de lignes de codes, plus il y a de bugs, il faut donc écrire moins de code&lt;/em>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="row">
+&lt;div class="col-md-8">
+&lt;h3>Probably, Definitively, Maybe&lt;/h3>
+&lt;p>C'est la présentation qui pique avec beaucoups de théorie mathématiques :&lt;/p>
+&lt;ul>
+&lt;li>la description des différentes variantes de le l'algo de classification de Bayes,&lt;/li>
+&lt;li>la prise de décision avec le modèle de Markov,&lt;/li>
+&lt;li>les filtres de kalman qui est très robuste et utilisés par la Nasa et l'armée depuis longtemps.&lt;/li>
+&lt;/ul>
+&lt;p>La présentation aurait gagné à être accessible en mettant 50% de théorie et 50% d'exemple. Le trop de théorie m'a rappelé la prépa et l'école d'ingénieur.&lt;/p>
+&lt;/div>
+&lt;div class="col-md-4">
+&lt;div class="text-center">
+&lt;img src="http://www.youenchene.fr/assets/img_posts/devoxx14-ml.jpg" class="img-responsive img-thumbnail" style="max-width: 80%;"/>
+&lt;br/>&lt;em>Slide en mode tableau noir pour bien te rappeler l'école&lt;/em>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="row">
+&lt;div class="col-md-8">
+&lt;h3>Web performance tuning&lt;/h3>
+&lt;p>C'est la session qui m'a le plus intéressé. Au final très peu de technique, mais une description très clair d'une approche d'amélioration des performances d'une application web.&lt;/p>
+&lt;p>La première chose c'est de s'entendre avec les utilisateurs sur ce qui est lent. Cela demande des efforts des 2 cotés pour avoir un langage commun. Du coté utilisateur, il faut partir du "c'est lent" à combien, quelle unité et quelles attentes. Du coté développeur, ne pas partir trop tôt dans une mauvaise direction, prendre la donnée et résoudre les vrais goulots d'étranglement&lt;/p>
+&lt;p>L'approche est globalement la suivante :&lt;/p>
+&lt;ol>
+&lt;li>Collecter les données (et prendre uniquement ce que l'on a besoin)&lt;/li>
+&lt;ul>
+&lt;li>Réseau : tester dans les 2 sens et prendre en compte les accès externes.&lt;/li>
+&lt;li>Serveur : utiliser les commandes linux.&lt;/li>
+&lt;li>JVM: paramètre du garbage collectors.&lt;/li>
+&lt;li>Containeur : attention aux sessions.&lt;/li>
+&lt;li>Cache : obligatoire mais à utiliser avec attention.y&lt;/li>
+&lt;li>Application : attention aux sérialisation en chaîne, ne pas se focaliser sur les requête longues, prendre en compte les volumes de requêtes.&lt;/li>
+&lt;li>Base de données, api externe : mesurer&lt;/li>
+&lt;li>Note 1 : une autre paire de yeux.&lt;/li>
+&lt;li>Note 2 : tout le monde ment, vérifier avec des données.&lt;/li>
+&lt;/ul>
+&lt;li>Analyser :&lt;/li>
+&lt;ul>
+&lt;li>Ne pas se baser sur les préjugés (réseau parfait et stable etc...)&lt;/li>
+&lt;li>ne pas oublier les solutions altyernatives&lt;/li>
+&lt;/ul>
+&lt;li>Retirer les goulots d'étranglement&lt;/li>
+&lt;ul>
+&lt;li>aller au dela de votre zone de confort : infra, réseau, virtualisation.&lt;/li>
+&lt;li>Ne pas copier bêtement des réglages de jvm et d'un poste de blog.&lt;/li>
+&lt;li>Aller chercher ce qu'il y aderrière les méthdoes opbjets que vous utiliser (exemple : JPA/Hibernate, arraylist et linked list).&lt;/li>
+&lt;/ul>
+&lt;/ol>
+&lt;p>Enfin lorsque que vous fournissez une API, vous ne pouvez prévoir comment elle va vraiment être utilisé, rendez-la configurable. Surtout fournissez des résultats de test de performance pour des scénarios précis.&lt;/p>
+&lt;/div>
+&lt;div class="col-md-4">
+&lt;div class="text-center">
+&lt;img src="http://www.youenchene.fr/assets/img_posts/devoxx14-perf.jpg" class="img-responsive img-thumbnail" style="max-width: 80%;"/>
+&lt;br/>&lt;em>Step out of your confort zone&lt;/em>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="row">
+&lt;div class="col-md-8">
+&lt;h3>Modern App Architecture&lt;/h3>
+&lt;p>Un talk un peu bizarre, la forme, l'humour, les anecdotes, l'énergie était très bonne, par contre c'était un peu vide et le vrai contenu à la fin est passé trop rapidement.&lt;/p>
+&lt;p>On a eu un historique des archiectures web :&lt;/p>
+&lt;ol>
+&lt;li>Le projet Xanadu : un web avant l'heure (1970) qui est sortie à la fin des années 2000 et qui s'est avéré être juste mauvais.&lt;/li>
+&lt;li>L'époque des pages statiques (geocities, mygale..).&lt;/li>
+&lt;li>Les serveur simple (cgi).&lt;/li>
+&lt;li>Les applications lourdes sur navigateurs (applet, flash, active-x).&lt;/li>
+&lt;li>Les serveurds complexes (jsp, jsf, php, ror, asp.net, tous les framework mvc web).&lt;/li>
+&lt;li>L'apparition des apis (http, soap) qui coincide avec l'arrivé du mobile&lt;/li>
+&lt;/ol>
+&lt;p>Une définition de architecture est la suivante : ensemble des réponse que les développeurs vont poser lors du développement.&lt;/p>
+&lt;p>Attention aux hypothèses fausses sur lesquels se repose de nombreuses architectures d'entreprise (cf illustration).&lt;/p>
+&lt;p>Une architecture web moderne est maintenant une plateforme orienté développement sur laquel on a des objets métiers et un jeu de services à documenter propre au métier adressé.&lt;/p>
+&lt;p>Cette architecture doit pouvoir s'adapter au mobile et au web dès le premier jour&lt;/p>
+&lt;p>Sur les choix technologiques, c'est à vous de travailler en fonction du besoin (http, jms, hadoop, etc...)&lt;/p>
+&lt;/div>
+&lt;div class="col-md-4">
+&lt;div class="text-center">
+&lt;img src="http://www.youenchene.fr/assets/img_posts/devoxx14-modernarch.jpg" class="img-responsive img-thumbnail" style="max-width: 80%;"/>
+&lt;br/>&lt;em>Les fausses opinions sur lesquelles se base beaucoup trop d'architectures&lt;/em>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="row">
+&lt;div class="col-md-8">
+&lt;h3>ING / Transformation d'une DSI&lt;/h3>
+&lt;p>La journée s'est terminé par une keynote du CIO/DSI de chez ING direct. Il a expliqué comment il a transformé une DSI moribonde en une DSI qui tire le métiers vers de nouvelles pratiques avec leur client. Agilité, automatisation, dev ops et maintenant cloud privé ont participé à cette conduite du changement. Le mec va même jusqu'à présenter une slide d'architecture avec les technos cool du moment pour dire qu'il recrute les meilleurs ingénieurs possible. La performance est d'autant intéressante, qu'il est aveugle (on me l'a dit après) et que c'est le speakers qui a subit le plus de problèmes techniques (sono, vidéo). Une chose encore inimaginable en france ([troll]quoique il était plus visionnaire que de nombreux DSI français...[/troll]).&lt;/p>
+&lt;p>Point notable et qu'on retrouvera dans plusieurs présentations, &lt;strong>c'est la nouvelle séparation entre exploitation et développement&lt;/strong>. Il est basé sur modèle PaaS. L'exploitation est responsable de l'infrastructure, des OS et des serveurs d'app et de leur monitoring. De l'autre coté, les développeurs sont responsables du contenu(des applications), de son déploiement et de son monitoring.&lt;/p>
+&lt;/div>
+&lt;div class="col-md-4">
+&lt;div class="text-center">
+&lt;img src="http://www.youenchene.fr/assets/img_posts/devoxx14-ing.jpg" class="img-responsive img-thumbnail" style="max-width: 80%;"/>
+&lt;br/>&lt;em>Ron Van Kemenade, le DSI d'ING&lt;/em>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="row">
+&lt;div class="col-md-8">
+&lt;h3>Soirées et autours de Devoxx&lt;/h3>
+&lt;p>Devoxx est aussi un lieu de rencontre des différentes communautés : par pays, langue, technologies, associations. On y rencontre donc pas mal de personne qu'on suit sur twitter ("attends c'est lui @romaintaz ...").&lt;/p>
+&lt;p>L'autre particularité, c'est que dans la génération des 30-40 ans il y a beaucoups de profils aux trajectoires alternatives (c'est à dire pas les 5 ans d'université et ou prepa/ecole ingé). Et la motivation et le travail a fait qu'ils sont maintenant dans les leaders technique d'une communauté.&lt;/p>
+&lt;/div>
+&lt;div class="col-md-4">
+&lt;div class="text-center">
+&lt;img src="http://www.youenchene.fr/assets/img_posts/devoxx14-kellies.jpg" class="img-responsive img-thumbnail" style="max-width: 80%;"/>
+&lt;br/>&lt;em>Le repère des &lt;strike>frenchies&lt;/strike> francophones au Kelly's&lt;/em>
+&lt;/div>
+&lt;/div>
+&lt;/div></description></item><item><title>Conférence NWX 2014</title><link>http://www.youenchene.fr/2014/06/conference-nwx.html</link><pubDate>Sat, 28 Jun 2014 09:00:00 +0000</pubDate><guid>http://www.youenchene.fr/2014/06/conference-nwx.html</guid><description>&lt;p>Ce jeudi 26 a eu lieu l'édition 2014 de la conférence annuelle des &lt;a href="http://www.nwx.fr/">Normandy Web Expert&lt;/a>. Contrairement aux autres années, j'ai pu me libéré et tenir un stand pour le &lt;a href="http://www.normandyjug.org">normandy jug&lt;/a>, &lt;a href="http://www.codeursenseine.com"/>codeurs en seine&lt;/a> et devoxx 4 kids.&lt;/p>
+&lt;div class="text-center" style="margin-bottom: 20px;">
+&lt;img src="http://www.youenchene.fr/assets/img_posts/nwx2014_standjug.jpg" class="img-responsive img-thumbnail" style="max-width: 80%;"/>
+&lt;br/>&lt;em>On a inauguré notre roll-up doté d'un gros juggy&lt;/em>
+&lt;/div>
+&lt;h3>Généralités&lt;/h3>
+&lt;p>Sur les 341 inscrits entre 150 et 200 ont du venir (c'est le problème des conférences gratuites), il y avait 3 tracks en même temps : la plénière avec les gros invités, la e-commerce et la technique. J'ai passé 80% du temps dans la technique et le reste du temps j'ai "réseauté"" : le principal attrait de cette conférence est qu'elle mélange des personnes de différents profils.&lt;/p>
+&lt;p>Petite déception sur la keynote du nouveau président, un discours pas assez dynamique (disclaimer : j'ai eu un débat avec lui sur une partie du contenu et la forme). Rien que des slides avec juste des photos derrière lui pour illustrer les différentes actions comme salon e-commerce et codeurs en seine aurait aidé à la compréhension.&lt;/p>
+&lt;p>&lt;em>ERRATA: Romain Prat m'a indiqué que 250 badges avaient été retirés, c'est à dire que comme pour codeurs en seine pas mal de personnes sont venus juste pour quelques heures.&lt;/em>&lt;/p>
+&lt;h3>Les conférences techniques&lt;/h3>
+&lt;p>Nos comparses de codeurs en seine et notamment &lt;a href="https://twitter.com/Apollo_Net">Alexandre Ronsault&lt;/a> ont organisé un track web/technique (une première pour la conférence NWX). Au programme, on a eu du phonegap, de l'agilité, de l'ergonomie, du php bien écrit (..bon j'ai pas assisté à la conférence donc je n'ai pas pu vérifié ;-), de la mesure de performance et de la réflexion sur la conception avec le client.&lt;/p>
+&lt;p>Coté agilité, on a eu &lt;a href="https://twitter.com/nikosaillard">Nicolas Saillard&lt;/a>, a fait une rapide introduction à l'agilité en présentant rapidement scrum et kanban. Quelques inexactitudes, mais une bonne idée pour relancer le &lt;a href="http://www.normandyjug.org/naug/">NAUG&lt;/a>.&lt;/p>
+&lt;div class="text-center" style="margin-bottom: 20px;">
+&lt;img src="http://www.youenchene.fr/assets/img_posts/nwx2014_nikos_coaxys.jpg" class="img-responsive img-thumbnail" style="max-width: 80%;"/>
+&lt;br/>&lt;em>Nikos nous décrit son aventure dans la création de Coaxys&lt;/em>
+&lt;/div>
+&lt;p>&lt;a href="https://twitter.com/bertrandkeller">Bertrand Keller&lt;/a> nous a présenté une approche très pragmatique pour améliorer et mesurer les performances d'un site avec son client. Il a mis en place, via une page html statique, un suivi très simple pour historiser et partager les indicateurs clefs.&lt;/p>
+&lt;div class="text-center" style="margin-bottom: 20px;">
+&lt;img src="http://www.youenchene.fr/assets/img_posts/nwx2014_bertrand_mesuremoi.jpg" class="img-responsive img-thumbnail" style="max-width: 80%;"/>
+&lt;br/>&lt;em>Betrand montre l'historique des performances suite à ses actions sur une page&lt;/em>
+&lt;/div>
+&lt;p>Dans le milieu de l'après midi, on a eu, pour moi, la meilleure conférence de la journée avec &lt;a href="https://twitter.com/IvanDalmet">Ivan Dalmet&lt;/a>, designer chez Gabel. En 15 mn, il a présenté les principes d'ergonomie tout en donnant quelques astuces. Je sens qu'on va le revoir au JUG, à NWX ou à Codeurs en Seine en fin d'année.&lt;/p>
+&lt;div class="text-center" style="margin-bottom: 20px;">
+&lt;img src="http://www.youenchene.fr/assets/img_posts/nwx2014_affordance.jpg" class="img-responsive img-thumbnail" style="max-width: 80%;"/>
+&lt;br/>&lt;em>Clin d'oeil pour l'équipe de Masternaut Louviers&lt;/em>
+&lt;/div>
+&lt;p>Enfin, pour les non-initiés du monde des intégrateur web, Alexandre Ronsault nous a fait découvrir comment la conception se passe entre l'intégrateur et le client (...le .psd = le contrat...). Il a proposé quelques pistes d'intégration comme travailler le wireframe directement en html plutôt que de faire du balsamiq.&lt;/p>
+&lt;h3>Conclusion&lt;/h3>
+&lt;p>La journée s'est terminé par quelques conférences en plénière avec notamment celle de &lt;a href="https://twitter.com/emmanuel_assie">Emmanuel Assié&lt;/a> sur la pollution cachée que génère nos programmes informatiques. Par exemple, entre 2 développeurs on peut avoir un rapport de 1 à 10 selon la qualité du code. Je vous ferais un retour sur &lt;a href="http://www.amazon.fr/gp/product/2212135750/">ce livre&lt;/a> bientôt.&lt;/p>
+&lt;p>Enfin les politiques ont terminé avec discours très court! (ouf!)&lt;/p>
+&lt;p>Pour conclure, quelques idées à prendre pour codeurs en seine : 1/ prévoir des auto-collants pour l'aspect communautaire et marketing. 2/ l'idée du traiteur de donner des doggy-bag sur les restes du buffets.&lt;/p></description></item></channel></rss>
