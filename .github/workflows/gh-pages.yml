@@ -22,3 +22,6 @@ jobs:
         uses: chabad360/hugo-gh-pages@master
         with:
           githubToken: ${{ secrets.PERSONAL_TOKEN }}
+          cname: www.youenchene.fr
+          branch: hugo
+          args: --gc --minify --cleanDestinationDir
