@@ -3,7 +3,7 @@ name: Publish Site
 on:
   push:
     branches:
-      - hugo  # Set a branch to deploy
+      - hugo-src  # Set a branch to deploy
 
 jobs:
   build:
@@ -21,4 +21,3 @@ jobs:
           githubToken: ${{ secrets.GITHUB_TOKEN }}
           cname: www.youenchene.fr
           args: --gc --minify --cleanDestinationDir
-          
