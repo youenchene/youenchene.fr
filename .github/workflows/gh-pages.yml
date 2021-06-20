@@ -11,14 +11,14 @@ jobs:
 
     steps:
       - name: Checkout Repo
-      uses: actions/checkout@master
-      with:
-        submodules: true
-        
+        uses: actions/checkout@master
+        with:
+          submodules: true
+
       - name: Publish Site
-      uses: chabad360/hugo-gh-pages@master
-      with:
-        githubToken: ${{ secrets.PERSONAL_TOKEN }}
-        cname: www.youenchene.fr
-        branch: hugo
-        args: --gc --minify --cleanDestinationDir
+        uses: chabad360/hugo-gh-pages@master
+        with:
+          githubToken: ${{ secrets.PERSONAL_TOKEN }}
+          cname: www.youenchene.fr
+          branch: hugo
+          args: --gc --minify --cleanDestinationDir
