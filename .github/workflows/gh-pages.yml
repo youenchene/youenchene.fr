@@ -6,8 +6,9 @@ on:
       - hugo  # Set a branch to deploy
 
 jobs:
-  deploy:
+  build:
     runs-on: ubuntu-latest
+    
     steps:
       - name: Checkout Repo
       uses: actions/checkout@master
