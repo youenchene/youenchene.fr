@@ -20,4 +20,5 @@ jobs:
         with:
           githubToken: ${{ secrets.GITHUB_TOKEN }}
           cname: www.youenchene.fr
-          branch: hugo
+          args: --gc --minify --cleanDestinationDir
+          
