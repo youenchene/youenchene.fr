@@ -10,7 +10,6 @@ params:
   author: "Youen Chéné"
   #avatar: "/images/me.png" # used for microformats
   description: "Je suis Youen Chéné, ici, je parle Web, Sobriété Numérique, Programmation, Entreprenariat, domotique et retrogaming (Amiga)."
-  # Uncomment if you need this
   # images:
   #   - images/og-featured.png # relative path to "static" directory
   customCSS:
