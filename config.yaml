@@ -8,8 +8,8 @@ theme: anubis
 
 params:
   author: "Youen Chéné"
-  avatar: "/images/me.png" # used for microformats
-  description: "Je suis Youen Chéné, ici, je parle programmation, entreprenariat, domotique et retrogaming."
+  #avatar: "/images/me.png" # used for microformats
+  description: "Je suis Youen Chéné, ici, je parle Web, Sobriété Numérique, Programmation, Entreprenariat, domotique et retrogaming (Amiga)."
   # Uncomment if you need this
   # images:
   #   - images/og-featured.png # relative path to "static" directory
