@@ -600,3 +600,8 @@ ul.language-select > li, ul.footer-menu > li {
     font-size: 1.35em;
 }
 
+
+header extra a {
+    color: var(--link-color);
+}
+
