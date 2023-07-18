@@ -8,6 +8,7 @@ description: Récit militant sur ma participation au HCNE
 image: /post/images/hcne-bercy.jpg
 name: Youen Chene
 title: Voyage au pays du HCNE
+url: /2023/07/18/Voyage-au-Pays-du-HCNE.html
 updated: "2023-07-18 00:00:00"
 ---
 
