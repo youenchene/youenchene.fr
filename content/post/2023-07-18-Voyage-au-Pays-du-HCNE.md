@@ -3,12 +3,12 @@ author: Youen Chéné
 categories:
 - webvert
 - sobriété-numérique
-date: "2023-05-20T00:00:00Z"
+date: "2023-07-18T00:00:00Z"
 description: Récit militant sur ma participation au HCNE
 image: /post/images/hcne-bercy.jpg
 name: Youen Chene
 title: Voyage au pays du HCNE
-updated: "2023-05-20 00:00:00"
+updated: "2023-07-18 00:00:00"
 ---
 
 📢 Il y a 2 semaines a eu lieu à Bercy la remise du rapport du 2ème HCNE (Haut Comité au Numérique Coresponsable) dans le cadre de l'article 301 de la Loi Climat et Résilience ! J'y ai participé dans la continuité de ma nouvelle aventure : [Webvert](https://www.lewebvert.fr/).
