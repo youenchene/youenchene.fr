@@ -9,7 +9,10 @@ image: /post/images/hcne-bercy.jpg
 name: Youen Chene
 title: Voyage au pays du HCNE
 url: /2023/07/18/Voyage-au-Pays-du-HCNE.html
+post.url: /2023/07/18/Voyage-au-Pays-du-HCNE.html
 updated: "2023-07-18 00:00:00"
+guid: jekyll-20230718
+uuid: "20230718"
 ---
 
 📢 Il y a 2 semaines a eu lieu à Bercy la remise du rapport du 2ème HCNE (Haut Comité au Numérique Coresponsable) dans le cadre de l'article 301 de la Loi Climat et Résilience ! J'y ai participé dans la continuité de ma nouvelle aventure : [Webvert](https://www.lewebvert.fr/).
