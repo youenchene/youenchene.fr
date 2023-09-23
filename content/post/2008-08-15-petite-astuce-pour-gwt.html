@@ -13,10 +13,12 @@ description: null
 guid: tag:blogger.com,1999:blog-4413872543526237731.post-5994696453196136479
 title: Petite astuce pour GWT
 updated: "2008-08-15 10:09:53"
-url: /2008/08/petite-astuce-pour-gwt.html
+url: /2008/08/petite-astuce-pour-gwt
+aliases:
+- /2008/08/petite-astuce-pour-gwt.html
 uuid: "5994696453196136479"
 ---
 
-<div class="css-full-post-content js-full-post-content">
-<a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://groups.google.com/group/Google-Web-Toolkit/icon?v=2&amp;hl=fr"><img style="margin: 0pt 10px 10px 0pt; float: left; cursor: pointer; width: 57px; height: 57px;" src="http://groups.google.com/group/Google-Web-Toolkit/icon?v=2&amp;hl=fr" alt="" border="0" /></a>Un des problèmes de GWT, c'est le temps de compilation (de  3 à 7 mn selon son humeur pour fermiers d'à coté) quand on souhaite tester le résultat en mode déployé sur un serveur d'application (i.e. Tomcat).<br /><br />En suivant, les conseil de ce blog :  <a href="http://blog.bazoud.com/post/2008/07/31/Can-I-speed-up-the-GWT-compiler-Part-II">How to speed tup the GWT compiler</a> &amp; <a href="http://blog.bazoud.com/post/2008/07/31/Can-I-speed-up-the-GWT-compiler-Part-II">How to speed up the GWT compiler II</a>, j'ai réussi à passser à 1mn uniquement en ajoutant la ligne suivante à mon fichier MonModule.gwt.xml :<br /><pre>&lt;set-property name="user.agent" value="gecko1_8"/&gt;<br /></pre>Le projet est alors compilé uniquement pour firefox. Pour internet explorer il suffit de remplacer gecko1_8 par ie6.<br /><br />Bien, sur il ne faut oublier de commenter la ligne pour la version de production.
+<div >
+<a  href="http://groups.google.com/group/Google-Web-Toolkit/icon?v=2&amp;hl=fr"><img src="http://groups.google.com/group/Google-Web-Toolkit/icon?v=2&amp;hl=fr"  /></a>Un des problèmes de GWT, c'est le temps de compilation (de  3 à 7 mn selon son humeur pour fermiers d'à coté) quand on souhaite tester le résultat en mode déployé sur un serveur d'application (i.e. Tomcat).<br /><br />En suivant, les conseil de ce blog :  <a href="http://blog.bazoud.com/post/2008/07/31/Can-I-speed-up-the-GWT-compiler-Part-II">How to speed tup the GWT compiler</a> &amp; <a href="http://blog.bazoud.com/post/2008/07/31/Can-I-speed-up-the-GWT-compiler-Part-II">How to speed up the GWT compiler II</a>, j'ai réussi à passser à 1mn uniquement en ajoutant la ligne suivante à mon fichier MonModule.gwt.xml :<br /><pre>&lt;set-property name="user.agent" value="gecko1_8"/&gt;<br /></pre>Le projet est alors compilé uniquement pour firefox. Pour internet explorer il suffit de remplacer gecko1_8 par ie6.<br /><br />Bien, sur il ne faut oublier de commenter la ligne pour la version de production.
 </div>

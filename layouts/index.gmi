@@ -1,0 +1,15 @@
+# {{ .Site.Title }}
+
+> {{ .Site.Params.Description }}
+
+## Articles par années
+
+{{ range site.RegularPages.GroupByDate "2006" }}
+### {{ .Key }}
+{{ range .Pages.ByDate.Reverse }}
+=> {{ replace .RelPermalink "/gemini" "" }} {{ .Title }}
+{{- end }}
+{{ end }}
+
+
+=> https://www.youenchene.fr Youen Chene sur le web.

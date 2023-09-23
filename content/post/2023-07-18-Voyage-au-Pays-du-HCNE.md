@@ -8,8 +8,9 @@ description: Récit militant sur ma participation au HCNE
 image: /post/images/hcne-bercy.jpg
 name: Youen Chene
 title: Voyage au pays du HCNE
-url: /2023/07/18/Voyage-au-Pays-du-HCNE.html
-post.url: /2023/07/18/Voyage-au-Pays-du-HCNE.html
+url: /2023/07/18/Voyage-au-Pays-du-HCNE
+aliases :
+- /2023/07/18/Voyage-au-Pays-du-HCNE.html
 updated: "2023-07-18 00:00:00"
 guid: jekyll-20230718
 uuid: "20230718"
@@ -26,7 +27,6 @@ Il était composé de plusieurs groupes de travail (GT). C’est une approche po
 - GT5: le numérique pour décarboner les autres secteurs
 
 Chacun de ses groupes de travail était animé par des représentants de l’industrie du secteur (exemple : France Data Center pour le GT2, Numeum (ex-Syntec représentant les SSII/ESN et les éditeurs) et le Cigref (représentant les DSI) pour le GT3).
-
 
 ![Virginie Royer(Numeum) en train de présenter le Groupe de Travail 3 devant une assemblée comprenant Agnès Pannier-Runacher et Jean-Noël Barrot.](/post/images/hcne-bercy.jpg)
 
