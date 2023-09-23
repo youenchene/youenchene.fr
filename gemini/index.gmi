@@ -1,0 +1,129 @@
+# Yet Another Entrepreneur Blog
+
+> Je suis Youen Chéné, fondateur de Webvert, contributeur à Boavizta? advisor au Bear Studio. Ici, je parle Web, Sobriété Numérique, Programmation, Entreprenariat, Domotique et Rétrogaming (Amiga).
+
+## Articles par années
+
+
+### 2023
+
+=> /2023/07/18/Voyage-au-Pays-du-HCNE/index.gmi Voyage au pays du HCNE
+
+### 2017
+
+=> /2017/05/2017-05-14-SanFranscicoAndTheValley-Week2-3/index.gmi San Francisco and the Valley - Week 2 and 3
+=> /2017/05/2017-05-14-SanFranscicoAndTheValley-Week1/index.gmi San Francisco and the Valley - Week 1
+
+### 2015
+
+=> /2015/09/ImaCTObitch/index.gmi I'm a CTO bitch!
+=> /2015/08/CodeursEnSeineEdition2014/index.gmi Retour sur Codeurs en Seine Edition 2014
+=> /2015/08/DevoxxBelgium2014(2)/index.gmi Devoxx Belgium 2014 (2)
+
+### 2014
+
+=> /2014/11/DevoxxBelgium2014(1)/index.gmi Devoxx Belgium 2014 (1)
+=> /2014/10/LeretourduNaug/index.gmi Le retour du Normandy Agile User Group
+=> /2014/09/BureauDeboutEssai1/index.gmi Bureau Debout : Essai 1
+=> /2014/07/une-journee-a-seine-innopolis/index.gmi Une journée à Seine Innopolis
+=> /2014/06/conference-nwx/index.gmi Conférence NWX 2014
+=> /2014/06/domotique-intro/index.gmi Domotique - Petite introduction
+=> /2014/05/retour-devoxx-2014-(2)/index.gmi Retour Devoxx 2014 (2) - Coté intervenant
+=> /2014/05/retour-devoxx-2014-(1)/index.gmi Retour Devoxx 2014 (1)
+=> /2014/05/blog-reloaded/index.gmi Blog reloaded
+
+### 2011
+
+=> /2011/10/enfin-de-retour-avec-2-presentations/index.gmi Enfin de retour ... avec 2 présentations pour l'Agile Tour Rouen
+
+### 2010
+
+=> /2010/11/en-decembre-un-mois-charge-en/index.gmi En Décembre, un mois chargé en évènements sur Rouen
+=> /2010/10/paris-web-compte-rendu/index.gmi Paris-Web : Compte rendu
+=> /2010/10/web2connect-link-party/index.gmi Web2Connect : Link Party
+=> /2010/10/conferences-de-fin-dannee/index.gmi Conférences de fin d'année
+=> /2010/09/lagile-tour-passe-rouen-le-27-octobre/index.gmi L’agile tour passe à Rouen le 27 octobre 2010
+=> /2010/08/gwt-avance-code-splitting-et-gestion-de/index.gmi GWT Avancé : Code Splitting et gestion de l'historique
+=> /2010/07/nettoyage-dete-je-revends-de-nombreux/index.gmi Nettoyage d'été : je revends de nombreux livres orientés entreprises ou informatique
+=> /2010/07/lecture-de-vacances-price-minister/index.gmi Lecture de vacances : Price Minister - Toutes les entreprises ont été petites un jour
+=> /2010/07/ameliorer-sa-productivite-2-outils/index.gmi Améliorer sa productivité, 2 outils : Evernote et Dropbox
+=> /2010/05/9eme-reunion-soiree-speciale-soa-avec/index.gmi 9ème Réunion – Soirée spéciale SOA avec l’ESB Open Source Petals
+=> /2010/05/fermiers-da-cote-ouvre-top-agro-france/index.gmi Fermiers d'à côté ouvre Top-Agro France
+=> /2010/05/club-business-76/index.gmi Club Business 76
+=> /2010/04/renforcement-de-lequipe-de-driveo/index.gmi Renforcement de l'équipe de Driveo
+=> /2010/03/interview-par-ludovic-passamonti/index.gmi Interview par Ludovic Passamonti
+=> /2010/03/critique-du-livre-programmation-gwt-2/index.gmi Critique du livre Programmation GWT 2 de Sami Jaber
+=> /2010/02/sixieme-reunion-du-normandy-jug-scrum/index.gmi Sixième réunion du Normandy JUG : Scrum
+=> /2010/02/lectures-de-vacances-marketing-cloud/index.gmi Lectures de vacances : marketing, cloud computing, secrets de cons et science fiction
+=> /2010/01/5eme-reunion-du-normandy-jug-jee-6-et/index.gmi 5ème réunion du Normandy JUG : JEE 6 et Glassfish
+=> /2010/01/gwt-avance-event-bus-mvp-et-code/index.gmi GWT avancé : Event Bus, MVP et Code Splitting
+=> /2010/01/cinquieme-reunion-du-normandyjug-java/index.gmi Cinquième réunion du NormandyJUG : Java EE 6 et Glassfish V3
+
+### 2009
+
+=> /2009/12/le-web-09-les-conferences-et-les/index.gmi Le Web 09 : les conférences et les workshops
+=> /2009/12/le-web-09-une-journee-type/index.gmi Le Web 09 : une journée type
+=> /2009/12/normandy-jug-presentation-gwt-avance-et/index.gmi Normandy Jug : Présentation GWT Avancé et compte rendu rapide
+=> /2009/12/quatrieme-reunion-du-normandyjug/index.gmi Quatrième réunion du NormandyJUG : Androïd, GWT avancé, JSF - l'affiche
+=> /2009/11/quatrieme-reunion-du-normandyjug/index.gmi Quatrième réunion du NormandyJUG : Androïd, GWT avancé, JSF.
+=> /2009/11/annonce-du-programme-partenaire-de/index.gmi Annonce du programme partenaires de Driveo
+=> /2009/11/crash-de-serveur-et-retour-sur-le-nuage/index.gmi Crash de serveur et ... retour sur le nuage et les pieds sur terre
+=> /2009/11/3eme-reunion-normandy-jug-compte-rendu/index.gmi 3ème réunion Normandy Jug : compte rendu de la battle Maven versus (EasyAnt + Ivy + Gradle)
+=> /2009/10/gwt-avance-referencement/index.gmi GWT avancé : Référencement
+=> /2009/10/web2connect-2009-journee-de-networking/index.gmi Web2Connect 2009 : Journée de networking accélérée
+=> /2009/10/paris-web-2009-journee-2-la-qualite-dun/index.gmi Paris Web 2009 : Journée 2 - La qualité d'un projet provient des membres de son équipe
+=> /2009/10/paris-web-2009-journee-1-le-declin-de/index.gmi Paris Web 2009 : Journée 1 - Le déclin de Internet Explorer
+=> /2009/10/3eme-reunion-du-normandy-jug-builders/index.gmi 3ème réunion du Normandy JUG : Builders Battle
+=> /2009/09/affiche-normandy-jug-teamcity-et-aop/index.gmi Affiche Normandy JUG - TeamCity et AOP
+=> /2009/09/2eme-reunion-du-normandy-jug/index.gmi 2ème réunion du Normandy Jug
+=> /2009/08/du-producteur-au-consommateur-pour-les/index.gmi Du producteur au consommateur : pour les livres aussi
+=> /2009/08/agenda-entrepreneur-geek-des-mois-venir/index.gmi Agenda Entrepreneur / Geek des mois à venir
+=> /2009/08/amelioration-de-homepage-et-simulation/index.gmi Amélioration de homepage et simulation d'eye tracking avec feng-GUI
+=> /2009/07/retours-sur-le-rivierajug/index.gmi Retours sur le RivieraJug
+=> /2009/07/lecture-de-vacances-rattrapage-sur/index.gmi Lectures de vacances : rattrapage sur l'architecture de solutions Java avec Rod Johnson
+=> /2009/06/retour-sur-la-premiere-reunion-du/index.gmi Retour sur la première réunion du Normandy JUG
+=> /2009/06/un-standard-telephonique-low-cost-et/index.gmi Un standard téléphonique low cost et agile
+=> /2009/05/ouverture-de-driveo-la-gestion-facile/index.gmi Ouverture de Driveo : la gestion facile pour les auto écoles
+=> /2009/05/premiere-session-du-normandy-jug-et/index.gmi Première session du Normandy JUG (et autres rencontres).
+=> /2009/05/surveiller-son-application-web/index.gmi Surveiller son application web.
+=> /2009/05/ouverture-de-la-v2-de-fermiers-da-cote/index.gmi Ouverture de la V2 de fermiers d'à côté
+=> /2009/04/mettez-jour-vore-navigateur-si-vous/index.gmi Mettez votre navigateur à jour (si vous avez ie6 ou même ie7)
+=> /2009/04/ouverture-du-concours-sartup-academy-le/index.gmi Ouverture du concours Sartup Academy le 21 avril
+=> /2009/04/nouvelle-version-de-site-de-ys276/index.gmi Nouvelle version de site de YS276
+=> /2009/04/javacampparis-4-compte-rendu/index.gmi JavaCampParis #4 : Compte Rendu
+=> /2009/03/creation-du-normandy-jug/index.gmi Création du Normandy JUG
+=> /2009/03/de-la-simplicite-bordel/index.gmi De la simplicité ... bordel!
+=> /2009/02/salon-emarketing-et-soiree-connect/index.gmi Salon emarketing et soirée connect
+=> /2009/01/gwt-avance-panel-et-rendu-html/index.gmi GWT avancé : Panel et rendu HTML
+=> /2009/01/interview-sur-intruderstv/index.gmi Interview sur Intruders.TV
+=> /2009/01/cest-partie-pour-la-nouvelle-anne/index.gmi C'est partie pour la nouvelle année : Ouverture de la béta privée de Driveo
+
+### 2008
+
+=> /2008/12/outils-et-techno-web-top-in-out-de/index.gmi Outils et techno web : Top, In & Out de l'année 2008
+=> /2008/12/interview-sur-le-blog-de-maxime/index.gmi Interview sur le blog de Maxime Garrigues / Horizon Entrepreneur
+=> /2008/12/leweb08-la-confrence-pour-sintroduire/index.gmi LeWeb08: la conférence pour s'introduire dans le milieu de l'industrie du web.
+=> /2008/12/voici-un-article-trs-utile-du-blog-de/index.gmi Les canaux pour poster une annonce de stage
+=> /2008/12/logica-lance-un-concours-de-startup/index.gmi Logica lance un concours de startup.
+=> /2008/12/dernires-nouvelles/index.gmi Dernières nouvelles
+=> /2008/11/diner-entreprenautes-et-passage-rapide/index.gmi Diner Entreprenautes et passage rapide aux journées création et reprise d'entreprise de la CCI
+=> /2008/11/paris-web-2008-journe-2-browser-war/index.gmi Paris Web 2008 : Journée 2 - Browser War
+=> /2008/11/paris-web-08-journe-1-les-geeks-ont-du/index.gmi Paris Web 08 : journée 1 - Les geeks ont du coeur
+=> /2008/11/recherche-de-partenaires-pour-fermier/index.gmi Recherche de partenaires pour fermiers d'à côté
+=> /2008/10/ce-que-je-fais-en-ce-moment-chez-logica/index.gmi Ce que je fais en ce moment chez Logica
+=> /2008/10/cette-semaine-diner-entreprenautes-et/index.gmi Cette semaine: diner Entreprenautes et LesTerrassesIT
+=> /2008/10/retour-dexprience-14-mois-avec-gwt/index.gmi Retour d'expérience : 14 mois avec GWT
+=> /2008/10/journe-paperasse/index.gmi Journée paperasse
+=> /2008/09/un-site-utile-pour-composer-vos/index.gmi Un site utile pour composer vos annonces légales.
+=> /2008/09/google-developer-day-2008-rencontres/index.gmi Google Developer Day 2008 : rencontres autours du géant de l'internet
+=> /2008/09/zoom-sur-un-outil-demailing-message/index.gmi Zoom sur un outil d'emailing : message-business.com
+=> /2008/08/des-prsentations-voir/index.gmi Des présentations à voir.
+=> /2008/08/fermiers-d-cot-ouvert/index.gmi Fermiers d'à coté à ouvert !
+=> /2008/08/petite-astuce-pour-gwt/index.gmi Petite astuce pour GWT
+=> /2008/08/google-developer-day-2008-le-18/index.gmi Google Developer Day 2008 le 18 septembre sur paris
+=> /2008/08/mini-compte-rendu-de-la-terrasses-it-0/index.gmi Mini Compte Rendu de La Terrasses IT #0
+=> /2008/07/les-terrasses-it-0/index.gmi Les Terrasses IT #0
+
+
+
+=> https://www.youenchene.fr Youen Chene sur le web.

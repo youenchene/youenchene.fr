@@ -1,0 +1,28 @@
+# Google Developer Day 2008 le 18 septembre sur paris
+
+
+
+
+
+
+[
+
+=> http://code.google.com/events/developerday/2008/ Embedded Image: http://code.google.com/events/developerday/2008/ sur Paris le jeudi 18 septembre.
+Il parait que c'est très bonne occasion pour aller discuter avec les ingénieurs de google et d'en savoir plus sur les multiples projets de code.google.com (et en particulier sur GWT).
+
+Pour les inscription c'est ici [2].
+
+Et pour le souvenir les vidéos 2007 sont disponible sur ce channel Youtube [3].
+
+
+
+## References
+
+=> http://code.google.com/intl/fr_ALL/events/developerday/2008/home.html [2] ici (http://code.google.com/intl/fr_ALL/events/developerday/2008/home.html)
+=> http://www.youtube.com/googledeveloperday [3] channel Youtube (http://www.youtube.com/googledeveloperday)
+---
+
+
+=> /2008/08/petite-astuce-pour-gwt/index.gmi ← Suivant: Petite astuce pour GWT
+=> /2008/08/mini-compte-rendu-de-la-terrasses-it-0/index.gmi → Précédent: Mini Compte Rendu de La Terrasses IT #0
+=> / Revenir à l'accueil

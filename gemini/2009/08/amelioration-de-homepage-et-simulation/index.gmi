@@ -1,0 +1,38 @@
+# Amélioration de homepage et simulation d'eye tracking avec feng-GUI
+
+
+
+
+
+
+Sur les conseils de JF Ruiz [3] suite à une session d'accompagnement de la startup academy, j'ai retravaillé la page d'accueil de Driveo [4]. Il s'agit de rendre lisible le message et de créer des zones chaude d'attention sur la page.
+
+Pour les zones chaudes, j'ai utilisé Feng GUI [5] qui permet de simuler du "eye tracking" d'une image. Cela permet en un minimum de temps d'investissement d'avoir un premier retour sur les zones chaudes.
+
+Voici la première analyse avant les modifications :
+
+[
+
+=> /assets/external/1.bp.blogspot.com/_7LQ1EXHnw30/SobkJOS442I/AAAAAAAADG4/NGlV7_TjE1M/s1600-h/fengui-1.png Embedded Image: /assets/external/1.bp.blogspot.com/_7LQ1EXHnw30/SobkJOS442I/AAAAAAAADG4/NGlV7_TjE1M/s1600-h/fengui-1.png
+Ensuite, j'ai effectué divers modifications en voici le retour via Feng GUI :
+
+[
+
+=> /assets/external/4.bp.blogspot.com/_7LQ1EXHnw30/SobkNiA5D-I/AAAAAAAADHA/bFnwPDjLFqE/s1600-h/fengui-2.png Embedded Image: /assets/external/4.bp.blogspot.com/_7LQ1EXHnw30/SobkNiA5D-I/AAAAAAAADHA/bFnwPDjLFqE/s1600-h/fengui-2.pngAnoter que cela a permis d'ajouter le prix et le "call-to-action" (bouton d'inscription) dans les zones d'attentions. Enfin, le remplacement du logo par une copie d'écran de Driveo dans l'écran d'ordinateur a permis de créer la zone principale d'attention autour des messages importants.
+
+Feng-GUI  [6]est gratuit si souhaite l'utiliser 1 fois toutes les 5h (ou moisn en changeant d'IP). Par contre sur le site, il est impossible de souscrire à un pack ... mmmmhh pas terrible pour le business.
+
+
+
+## References
+
+=> http://www.webdeux.info/ [3] JF Ruiz (http://www.webdeux.info/)
+=> http://www.driveo.fr/ [4] Driveo (http://www.driveo.fr/)
+=> http://www.feng-gui.com/ [5] Feng GUI (http://www.feng-gui.com/)
+=> http://www.feng-gui.com/ [6] Feng-GUI  (http://www.feng-gui.com/)
+---
+
+
+=> /2009/08/agenda-entrepreneur-geek-des-mois-venir/index.gmi ← Suivant: Agenda Entrepreneur / Geek des mois à venir
+=> /2009/07/retours-sur-le-rivierajug/index.gmi → Précédent: Retours sur le RivieraJug
+=> / Revenir à l'accueil

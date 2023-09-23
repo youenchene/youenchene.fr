@@ -1,0 +1,84 @@
+# Le Web 09 : une journée type
+
+
+
+
+
+
+[
+
+=> http://www.leweb.net/sites/all/themes/leweb-leweb/logo.png Embedded Image: http://www.leweb.net/sites/all/themes/leweb-leweb/logo.pngVoici un premier article décrivant une journée dans la plus grande conférence européenne de l'industrie du web. Il sera suivi d'un deuxième article évoquant les conférences et les moments marquant de l'édition 2009.
+
+
+La préparation
+L'intérêt numero un de LeWeb [3], c'est le réseautage. Il est donc intéressant de passer un peu pour préparer la conférence. Seulement, vu la masse des participants (>2000) la tâches peut être très très longue.
+
+Pour abréger la chose j'ai donc pris juste le temps de noter les twitters des personnes que j'avais déjà croisé l'année dernière.
+
+Aller à LeWeb
+
+Quand on part de Rouen, d'abord se lever encore plus tôt et prendre la ligne Paris-Rouen avec ses retards chroniques. Et là, je n'ai pas été déçu du voyage (3h de retards cumulés sur les 2 jours)!
+
+Heureusement, le matin, dans le train, il y a Olivier Martineau [4] de 42 stores [5] pour te raconter comment c'est trop bien la silicon valley [6].
+
+Une matinée à LeWeb
+
+Commencer à LeWeb, c'est d'abord déposer manteau, écharpe et pull au vestiaire car contrairement à l'année dernière, le 104 était chauffé (voir trop chauffé).
+
+Ensuite, c'est échanger quelques bavardage avec des visages connus et moins connus en français et en anglais. Un anglais un peu rouillé pour ma part (mes dernières missions chez Logica était 100% en français et mes clients sur Driveo [12] #7 et Fermiers d'à côté [13] #8 aussi).
+
+La matinée se poursuit en picorant entre les morceaux de conférence, les workshops et les présentations de startups. A ce propos, l'exercice était assez difficile, elles n'avaient que 6 minutes pour se présenter au jury. Les slides étaient encore plus court qu'un message twitter, l'avantage est que les messages étaient claires et directes, mais ils ne fallait pas en louper une slide (genre celle qui explique ce que fait le produit).
+
+Le réseautage
+
+Le principale avantage de LeWeb, c'est la possibilité de réseauter et d'échanger des idées avec des acteurs du web du monde entier et en particulier du reste de l'Europe. En effet, c'est peut être un hasard mais j'ai surtout échangé avec des membres de startups des pays de l'est et de scandinavie.
+
+Cependant, je trouve que à LeWeb le networking reste plus difficile qu'aux Web2Connect [9] de JF Ruiz [10]. Il reste qu'il est indéniable que si les Web2Connect sont vraiment franco-français, Loic Lemeure [11], lui, réussit à regrouper quasiment 50 pays dans une même salle.
+
+Grande catastrophe de l'année dernière, le déjeuner, a pu être le meilleur moment de réseautage de la conférence.
+
+Sentir les tendances
+
+L'autre avantage c'est de sentir le vent de la silicon valley sur paris et d'en déduire les tendances actuelles.
+
+En résumé les tendances sont : twitter, twitter, twitter, facebook, twitter, twitter, androïd et ... twitter.
+
+Plus sérieusement, j'ai retenu les points suivants :
+et de nombreuses "feature-companies" autour du e-commerce et des réseaux sociaux.
+
+
+La fin d'après midi à Le Web
+
+Le problème à le Web, c'est que à partir de 15h30, on commence à être sur les genoux. On se pose alors devant les conférences pour finir tranquillement la journée. Je me suis même endormi à la conférence "Open Source Sex" (bon une prospection sur l'avenir du sexe à travers les romans et les films de science fiction c'est ... chiant).
+
+Conclusion
+
+La conférence m'a permis de pitcher mes projets actuels et de partager des commentaires ("it's such a niche" pour Driveo [12] #7 et "it's a very good idea" pour Fermiers d'à côté [13] #8), de préparer quelques partenariats (infos à venir très bientôt!).
+
+Enfin, à plusieurs reprises, des français expatriés m'ont dit qu'il fallait déménager dans la Silicon Valley en Californie : "Ca va tellement plus vite, tu es dans le réacteur du web!". En tout cas, j'ai au moins quelques études de marché à prévoir.
+
+[
+
+=> /assets/external/farm3.static.flickr.com/2712/4171431735_b00251ca82_b.jpg Embedded Image: /assets/external/farm3.static.flickr.com/2712/4171431735_b00251ca82_b.jpgPhoto par Kmeron
+
+
+
+## References
+
+=> http://www.leweb.net/ [3] LeWeb (http://www.leweb.net/)
+=> http://twitter.com/omartineau [4] Olivier Martineau (http://twitter.com/omartineau)
+=> http://www.42stores.com/ [5] 42 stores (http://www.42stores.com/)
+=> http://techtrip.fr/ [6] la silicon valley (http://techtrip.fr/)
+=> http://www.driveo.fr/ [7] Driveo (http://www.driveo.fr/)
+=> http://www.fermiersdacote.fr/ [8] Fermiers d'à côté (http://www.fermiersdacote.fr/)
+=> http://www.webdeux.info/category/webdeuxconnect [9] Web2Connect (http://www.webdeux.info/category/webdeuxconnect)
+=> http://twitter.com/jfruiz [10] JF Ruiz (http://twitter.com/jfruiz)
+=> http://loiclemeur.com/france/ [11] Loic Lemeure (http://loiclemeur.com/france/)
+=> http://www.driveo.fr/ [12] Driveo (http://www.driveo.fr/)
+=> http://www.fermiersdacote.fr/ [13] Fermiers d'à côté (http://www.fermiersdacote.fr/)
+---
+
+
+=> /2009/12/le-web-09-les-conferences-et-les/index.gmi ← Suivant: Le Web 09 : les conférences et les workshops
+=> /2009/12/normandy-jug-presentation-gwt-avance-et/index.gmi → Précédent: Normandy Jug : Présentation GWT Avancé et compte rendu rapide
+=> / Revenir à l'accueil

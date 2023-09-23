@@ -1,0 +1,74 @@
+# Retour d'expérience : 14 mois avec GWT
+
+
+
+
+
+
+[
+
+=> http://code.google.com/webtoolkit/ Embedded Image: http://code.google.com/webtoolkit/.
+
+GWT en quelques mots: 
+
+Vous programmez en java votre site web : c'est à dire l'affichage, les interactions, les échanges asynchrone avec le serveurs (AJAX).
+Ensuite, le compilateur de google créé un fichier html par navigateur et par langue avec un le code java script optimisé.
+Vous avez donc un site optimisé pour chaque navigateur sans se casser le tête sur du javascript.
+
+GWT pour quoi faire :
+
+Ce framework ajax est très adapté pour faire des applications webs (webapps) avec une interface riche. Les possibilité de construire une ergonomie adaptée à ses utilisateurs est donc possible sur un site web.
+
+Par contre, GWT n'est pas adapté pour diffuser du  contenu à référencer, en effet GWT génére du javascript et non du HTML lisible par les moteurs de recherches.
+
+La productivité :
+
+Pour le maquettage, le framework est moyen, il permet de faire des maquettes avec une gestion d'évènement pour se approcher au mieux de l'interface finale mais cela demande quand même un travail important.
+
+La première partie du développement est assez lente, en effet il faut créer le socle du site, c'est à dire l'ensembles des interfaces des classes et des listeners qui structure le site.
+
+La deuxième partie du développement est bien meilleure. Construire un site à partir d'un langage objet permet une réutilisation facile des composants. Cet effet commence à se faire sentir assez tôt.
+
+La productivité de la maintenance et de l'évolution est encore meilleure, l'effet de levier de la réutilisation est réellement un avantage.
+
+De plus, ces impressions correspondent aux différents retours de projets GWT exposés au Google Developer Day.
+
+Les mythes autour de GWT :
+
+La compatibilité entre navigateurs et les systèmes d'exploitation n'est pas total. D'une part il faut faire très attention à la partie CSS, d'autre part des petites choses ne fonctionneront pas de la même manière entre Internet Explorer et Firefox, les dernières version de GWT (1.5.x) corrigent beaucoups de petits problèmes ... mais ils en restent encore.
+
+GWT n'est pas comparable à un framework web comme Ruby On Rails, il faut savoir que GWT ne recouvrent le même périmètre. GWT va du clique de l'utilisateur à un service "Ajax" sur le serveur;  la gestion des régles métiers et de la persistence des données doit être implémentés à côté de GWT (en java avec du spring, ejb3, Ibatis, hibernate, ou en java ou en python (i.e. Ruby On Rails)). A titre de comparaison, Ruby On Rails va de la définition et le modèle de données à l'affichage du HTML sur la navigateur, mais il ne gèrent pas la couche javascript (interactions avancées avec l'utilisateur).
+
+Un des reproches que l'on fait souvent à GWT, est le manque de contrôle et de lisibilité sur ce qui est généré (son concurrent Wicket est plus transparent à ce niveau).  Il faut avouer que c'est le prix pour avoir du code optimisé par navigateur.
+
+Pour finir, le déploiement est la partie qui pose le moins de problème avec GWT, il suffit de déposer les fichier html, javascript, css et les images sur le serveurs. La partie la plus compliquée, c'est l'exploitation de la partie serveur pour le traitement de la requête asynchrone et là ca dépend de la technologie adopté (java, php, python).
+
+Ce qu'il manque encore à GWT :
+
+(Si quelqu'un de google tombe sur cet article)
+
+[
+
+=> /assets/external/1.bp.blogspot.com/_7LQ1EXHnw30/SOppIAbYv9I/AAAAAAAACUI/Dun_piEThVE/s1600-h/evolution_de_la_taille.png Embedded Image: /assets/external/1.bp.blogspot.com/_7LQ1EXHnw30/SOppIAbYv9I/AAAAAAAACUI/Dun_piEThVE/s1600-h/evolution_de_la_taille.pngUn lazy loading (chargement différé) au niveau du chargement de l'application (le fichier html avec plein de javascript illisible dedans), car plus on ajoute de fonctionnalités plus le premier chargement est long pour l'utilisateur. Actuellement fermiers d'à côté est à 640ko avec un code où il y a une bonne marge d'optimisation.
+
+Des widgets avancés stables (date picker, light box, color picker, etc..). Certains sont disponibles dans gwt-incubator [3], mais comme le nom l'indique ce n'est pas encore des versions finales. Il faut aussi noter que ceratins widget (un peu) complexe et inclus dans le framework de base ne sont pas encore très mature.
+
+Une meilleur intégration des services google dans GWT car pour le moment ce n'est pas le cas. L'intégration de GoogleMap et Gears (gestion du offline) avance à grand pas [4] mais pour les autres c'est plus compliqué (ou dela bidouille).
+
+Une conseil pour finir :
+
+Pour un maximum de productivité et de comptabilité avec les navigateurs, il faut coder au plus simple et éviter toute complexité inutile.
+Une tactique est de contraindre le moins possible l'interface dans GWT pour en déléguer un maximum au fichier CSS : moins de code (le navigateur bosse à votre place),  plus de maîtrise et plus de possibilité de construire des thèmes pour son application web.
+
+
+
+## References
+
+=> http://code.google.com/p/google-web-toolkit-incubator/ [3] gwt-incubator (http://code.google.com/p/google-web-toolkit-incubator/)
+=> http://code.google.com/p/gwt-google-apis/ [4] à grand pas (http://code.google.com/p/gwt-google-apis/)
+---
+
+
+=> /2008/10/cette-semaine-diner-entreprenautes-et/index.gmi ← Suivant: Cette semaine: diner Entreprenautes et LesTerrassesIT
+=> /2008/10/journe-paperasse/index.gmi → Précédent: Journée paperasse
+=> / Revenir à l'accueil

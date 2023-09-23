@@ -1,0 +1,40 @@
+# Web2Connect 2009 : Journée de networking accélérée
+
+
+
+
+
+
+[
+
+=> http://www.ziki.com/en/sebastienr+98 Embedded Image: http://www.ziki.com/en/sebastienr+98 fut une grosse journée de réseautage.
+
+A l'usine, jute à côté du stade de France, on nous accueillait dès 9h30 du matin pour une journée ou la carte de visite était indispensable.
+
+J'ai pu faire des points intermédiaires respectifs avec Stéphane [3] et Romain [4]. D'ailleurs avec Stéphane, je n'ai été que le 3ème à lui demander où en était Loomiz ;-) .
+
+
+La journée était aussi parsemée de conférences. Ce n'était ni le point fort, ni l'intérêt de l'événement. Mais cela permettait de se reposer (en particulier en début d'après midi). Elles ont permis de découvrir ipolo [5] qui montre que l'appstore de Apple est devenu le business plan de nombreuses startups en france et outre-atlantique. Elles ont aussi permis d'entendre que Adobe était un grand défenseur de l'Open Source (j'en reviens toujours pas !!!?!!) lors de la conférence "Développement Durable" (alors que les fenêtres étaient en simple vitrage).
+
+J'ai pu aussi découvrir le créateur de IJENKO (très bon produit, reste à se faire référencer par la grande distribution), Pascal de Saucissonsec.net [6], les créateurs de Jobfact [7] et même un consultant agile [8]. Cependant, vu que je me suis quasiment endormi à table le soir, j'ai du oublier quelques rencontres intéressantes...
+
+[
+
+=> /assets/external/3.bp.blogspot.com/_7LQ1EXHnw30/StStcaRDejI/AAAAAAAADPQ/Lnr9mfnAdsA/s1600-h/IMG_0293.jpg Embedded Image: /assets/external/3.bp.blogspot.com/_7LQ1EXHnw30/StStcaRDejI/AAAAAAAADPQ/Lnr9mfnAdsA/s1600-h/IMG_0293.jpg
+
+
+
+## References
+
+=> http://www.simplentrepreneur.com [3] Stéphane (http://www.simplentrepreneur.com)
+=> http://www.pubeco.com [4] Romain (http://www.pubeco.com)
+=> http://www.wipolo.com [5] ipolo (http://www.wipolo.com)
+=> http://www.saucissonsec.net/ [6] Saucissonsec.net (http://www.saucissonsec.net/)
+=> http://www.jobfact.com/ [7] Jobfact (http://www.jobfact.com/)
+=> http://twitter.com/LucBizeul [8] un consultant agile (http://twitter.com/LucBizeul)
+---
+
+
+=> /2009/10/gwt-avance-referencement/index.gmi ← Suivant: GWT avancé : Référencement
+=> /2009/10/paris-web-2009-journee-2-la-qualite-dun/index.gmi → Précédent: Paris Web 2009 : Journée 2 - La qualité d'un projet provient des membres de son équipe
+=> / Revenir à l'accueil

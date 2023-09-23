@@ -1,0 +1,99 @@
+# Paris-Web : Compte rendu
+
+
+
+
+
+
+[
+
+=> http://www.paris-web.fr/ Embedded Image: http://www.paris-web.fr/, une conférence qui associe les différents métiers du web comme l'ergonomie, la technique, l'accessibilité ou même la typographie. Dans l'article je vais mettre en avant les conférences qui m'ont intéressées et faire une rapide conclusion sur la conférence.
+
+
+
+Les conférences qui ont reçu mon attention 
+
+[
+
+=> /assets/external/1.bp.blogspot.com/_7LQ1EXHnw30/TMZ6U82FT6I/AAAAAAAADnU/fzX7Os2Iep0/s1600/5090468834_2725eff9cd.jpg Embedded Image: /assets/external/1.bp.blogspot.com/_7LQ1EXHnw30/TMZ6U82FT6I/AAAAAAAADnU/fzX7Os2Iep0/s1600/5090468834_2725eff9cd.jpgInternet sous surveillance : retours d'expérience de la réalité pour un web meilleur par Amélie Boucher
+Ce fut sans une des meilleurs conférences d'un point de vue pratique. Amélie nous a montré des vidéos de test utilisateurs avec eye-tracking (le suivi des yeux). Les vidéos montre qu'avec un peu de bon sens il est facile de corriger un site mais encore faut-il repérer ce qu'il ne va pas avec des tests utilisateurs. Les vidéos, [
+
+=> /assets/external/3.bp.blogspot.com/_7LQ1EXHnw30/TMZ5XufM4zI/AAAAAAAADnE/o6J7Uh-m5I4/s1600/5081398082_3c369228e2.jpg Embedded Image: /assets/external/3.bp.blogspot.com/_7LQ1EXHnw30/TMZ5XufM4zI/AAAAAAAADnE/o6J7Uh-m5I4/s1600/5081398082_3c369228e2.jpgtrès rigolote en passant, ont montré le fort impact du fold (la partie visible du site quand l'utilisateur plus ou moins débutant arrive dessus).
+
+
+Reusable code, for good or for awesome! par Jake Archibald
+L'anglais nous a fait le show avec ces métaphores décalés mais aussi sur le fond. La présentation présente les mauvaises et bonnes pratiques de création d'une API.
+La présentation [6]
+
+
+[
+
+=> /assets/external/1.bp.blogspot.com/_7LQ1EXHnw30/TMZ6wYYXgXI/AAAAAAAADnc/S-fxvjtoET0/s1600/5090498782_1164475dd2.jpg Embedded Image: /assets/external/1.bp.blogspot.com/_7LQ1EXHnw30/TMZ6wYYXgXI/AAAAAAAADnc/S-fxvjtoET0/s1600/5090498782_1164475dd2.jpgInnover de 9 à 5 par Olivier Thereaux
+Le titre de la conférence signifie innover pendant les heures de bureau. Elle présente la difficultés d'innover dans une société de service (temps d'innovation = temps non facturé au client). La solution proposée est d'innover sous le radar sur les périodes de creuses sur de petits projets pour en démontrer un premier ROI rapidement à ses managers.
+La présentation [7]
+
+
+[
+
+=> /assets/external/1.bp.blogspot.com/_7LQ1EXHnw30/TMZ56ehD7VI/AAAAAAAADnM/rN0CegLiXkY/s1600/5107952761_8b81aaf0ed.jpg Embedded Image: /assets/external/1.bp.blogspot.com/_7LQ1EXHnw30/TMZ56ehD7VI/AAAAAAAADnM/rN0CegLiXkY/s1600/5107952761_8b81aaf0ed.jpgHTML5 (notamment celle de Dave Shea)
+Il y a beaucoup (trop!) de présentation sur HTML5. S'il ne fallait n'en retenir qu'une c'est celle de Dave Shea, le monsieur qui a fait CSSZenGarden [8]. Elle mélange HTML5, CSS 3, exemple et recommandation d'utilisation.
+La présentation [9]
+
+
+
+Sinon, il y a eu aussi la présentation habituel de Christian Heilmann sur les mashups [10], une présentation plus psychologique sur la dynamique des équipes [11] et une petite présentation sur la structuration de fichiers CSS [12].
+
+Les conférences que j'ai loupé et que j'aurai aimé voir
+A Paris Web, il y a toujours 2 conférences en même temps, le 2ème jour, j'ai fait beaucoup de mauvais choix...
+
+Voici une liste des conférences à revoir bientôt sur le site de Paris-Web [13]: Comment un vigneron étranger utilise le web pour s'intégrer dans la France Rurale par  Ryan O'Connell [16]
+
+La liste de toutes les présentations [17].
+
+La conclusion
+
+
+Etant un profil un peu atypique pour Paris Web, je fais du web uniquement dans le cadre de Fermiers d'à côté et Driveo : je ne suis pas un intégrateur et je fais du GWT (j'y reviendrai plus tard), une petite partie des sujets ne me touche pas directement. Par contre, il y a toujours beaucoup à prendre coté CSS3, HTML5, accessibilité et ergonomie.
+
+La claque a été  moins forte que les 2 dernières années, il faut donc croire que je maîtrise de mieux en mieux les technologies du web ;-). Après, il y a toujours la même impression que mes CSS sont des champs de mines et que je n'aurai jamais le temps de faire plus de qualité. En effet, des idées d'améliorations continues, il y en avait plein dans les locaux d'IBM de Bois Colombes lors de Paris Web.
+
+Enfin, j'ai vérifié que GWT était un gros Troll à Paris Web. Malheureusement, je l'ai lancé sur twitter trop tard et je n'ai pas eu le temps de comprendre le rejet de Quentin Adam [18] qui veut mettre Javascript coté serveur et que j'ai reloupé au Web 2 Connect samedi dernier .
+
+
+Liens flickr :
+
+http://www.flickr.com/photos/neovov/5081398082/ [19]
+http://www.flickr.com/photos/nicolas-hoizey/5107952761/ [20]
+http://www.flickr.com/photos/franck-paul/5090468834/ [21]
+http://www.flickr.com/photos/franck-paul/5090498782/ [22]
+http://www.flickr.com/photos/hugues_m/4005856635/ [23]
+
+
+
+
+## References
+
+=> http://www.slideshare.net/jaffathecake/reusable-code-for-good-or-for-awesome [6] La présentation (http://www.slideshare.net/jaffathecake/reusable-code-for-good-or-for-awesome)
+=> http://www.slideshare.net/olivierthereaux/innover-de-9-5-paris-web-2010 [7] La présentation (http://www.slideshare.net/olivierthereaux/innover-de-9-5-paris-web-2010)
+=> http://www.csszengarden.com/ [8] CSSZenGarden (http://www.csszengarden.com/)
+=> http://www.mezzoblue.com/presentations/2010/parisweb/ [9] La présentation (http://www.mezzoblue.com/presentations/2010/parisweb/)
+=> http://www.slideshare.net/cheilmann/lets-interface [10] la présentation habituel de Christian Heilmann sur les mashups (http://www.slideshare.net/cheilmann/lets-interface)
+=> http://www.slideshare.net/cheekfille/au-boulot-les-cerveaux [11] une présentation plus psychologique sur la dynamique des équipes (http://www.slideshare.net/cheekfille/au-boulot-les-cerveaux)
+=> http://romy.tetue.net/methode-daisy [12] petite présentation sur la structuration de fichiers CSS (http://romy.tetue.net/methode-daisy)
+=> http://www.paris-web.fr/ [13] Paris-Web (http://www.paris-web.fr/)
+=> http://www.hemce.com/parisweb2010/davidrault_typo2010.ppt [14] La typographie comme outil de design par David Rault (http://www.hemce.com/parisweb2010/davidrault_typo2010.ppt)
+=> http://www.slideshare.net/Mitternacht/la-macrotypographie-de-la-page-web-5499736 [15] La macrotypographie de la page Web par Anne-Sophie Fradier  (http://www.slideshare.net/Mitternacht/la-macrotypographie-de-la-page-web-5499736)
+=> http://ovineyards.com/ [16] Ryan O'Connell (http://ovineyards.com/)
+=> http://www.hemce.com/blog/index.php/2010/10/18/paris-web-2010-les-presentations/ [17] La liste de toutes les présentations (http://www.hemce.com/blog/index.php/2010/10/18/paris-web-2010-les-presentations/)
+=> http://twitter.com/waxzce [18] Quentin Adam (http://twitter.com/waxzce)
+=> http://www.flickr.com/photos/neovov/5081398082/ [19] http://www.flickr.com/photos/neovov/5081398082/ (http://www.flickr.com/photos/neovov/5081398082/)
+=> http://www.flickr.com/photos/nicolas-hoizey/5107952761/ [20] http://www.flickr.com/photos/nicolas-hoizey/5107952761/ (http://www.flickr.com/photos/nicolas-hoizey/5107952761/)
+=> http://www.flickr.com/photos/franck-paul/5090468834/ [21] http://www.flickr.com/photos/franck-paul/5090468834/ (http://www.flickr.com/photos/franck-paul/5090468834/)
+=> http://www.flickr.com/photos/franck-paul/5090498782/ [22] http://www.flickr.com/photos/franck-paul/5090498782/ (http://www.flickr.com/photos/franck-paul/5090498782/)
+=> http://www.flickr.com/photos/hugues_m/4005856635/ [23] http://www.flickr.com/photos/hugues_m/4005856635/ (http://www.flickr.com/photos/hugues_m/4005856635/)
+---
+
+
+=> /2010/11/en-decembre-un-mois-charge-en/index.gmi ← Suivant: En Décembre, un mois chargé en évènements sur Rouen
+=> /2010/10/web2connect-link-party/index.gmi → Précédent: Web2Connect : Link Party
+=> / Revenir à l'accueil

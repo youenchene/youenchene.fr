@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>devoxx on Yet Another Entrepreneur Blog</title><link>https://www.youenchene.fr/categories/devoxx/</link><description>Yet Another Entrepreneur Blog (devoxx)</description><generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Mon, 30 Mar 2015 12:00:00 +0000</lastBuildDate><atom:link href="https://www.youenchene.fr/categories/devoxx/feed.xml" rel="self" type="application/rss+xml"/><item><title>Devoxx Belgium 2014 (2)</title><link>https://www.youenchene.fr/2015/08/DevoxxBelgium2014(2).html</link><pubDate>Mon, 30 Mar 2015 12:00:00 +0000</pubDate><guid>https://www.youenchene.fr/2015/08/DevoxxBelgium2014(2).html</guid><description>&lt;p>&lt;em>Note : gros retard sur mon blog, je profite de l'acalmie du mois d'Août pour le mettre à jour. Quelques articles un peu décalés dans le temps...&lt;/em>&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>devoxx on Yet Another Entrepreneur Blog</title><link>https://www.youenchene.fr/categories/devoxx/</link><description>Yet Another Entrepreneur Blog (devoxx)</description><generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Mon, 30 Mar 2015 12:00:00 +0000</lastBuildDate><atom:link href="https://www.youenchene.fr/categories/devoxx/feed.xml" rel="self" type="application/rss+xml"/><item><title>Devoxx Belgium 2014 (2)</title><link>https://www.youenchene.fr/2015/08/DevoxxBelgium2014(2)/</link><pubDate>Mon, 30 Mar 2015 12:00:00 +0000</pubDate><guid>https://www.youenchene.fr/2015/08/DevoxxBelgium2014(2)/</guid><description>&lt;p>&lt;em>Note : gros retard sur mon blog, je profite de l'acalmie du mois d'Août pour le mettre à jour. Quelques articles un peu décalés dans le temps...&lt;/em>&lt;/p>
 &lt;p>Le résumé de la deuxième journée à Devoxx Belgique.&lt;/p>
 &lt;h3>Keynote - Google Material design&lt;/h3>
 &lt;p>La journée a commencé avec une revue des principes de material design. Il faut que je vérifie une chose, coté web est-ce qu'on aura un framework à bootstrap permettant une intégration facile?&lt;/p>
@@ -36,7 +36,7 @@
 &lt;/div>
 &lt;div class="col-md-4">
 &lt;div class="text-center">
-&lt;img src="https://www.youenchene.fr/assets/img_posts/devoxx14-growth.jpg" class="img-responsive img-thumbnail" style="max-width: 80%;"/>
+&lt;img src="https://www.youenchene.fr/assets/img_posts/devoxx14-growth.jpg" class="img-responsive img-thumbnail" />
 &lt;br/>&lt;em>Equilibre entre produit et marketing&lt;/em>
 &lt;/div>
 &lt;/div>
@@ -58,11 +58,11 @@
 &lt;/div>
 &lt;div class="col-md-4">
 &lt;div class="text-center">
-&lt;img src="https://www.youenchene.fr/assets/external/watirmelon.files.wordpress.com/2012/01/softwaretestingicecreamconeantipattern.png" class="img-responsive img-thumbnail" style="max-width: 80%;"/>
+&lt;img src="https://www.youenchene.fr/assets/external/watirmelon.files.wordpress.com/2012/01/softwaretestingicecreamconeantipattern.png" class="img-responsive img-thumbnail" />
 &lt;br/>&lt;em>Le cône (Anti-pattern)&lt;/em>
 &lt;/div>
 &lt;div class="text-center">
-&lt;img src="https://www.youenchene.fr/assets/external/watirmelon.files.wordpress.com/2012/01/idealautomatedtestingpyramid.png" class="img-responsive img-thumbnail" style="max-width: 80%;"/>
+&lt;img src="https://www.youenchene.fr/assets/external/watirmelon.files.wordpress.com/2012/01/idealautomatedtestingpyramid.png" class="img-responsive img-thumbnail" />
 &lt;br/>&lt;em>La pyramide (Cible idéal)&lt;/em>
 &lt;/div>
 &lt;/div>
@@ -86,7 +86,7 @@
 &lt;/div>
 &lt;div class="col-md-4">
 &lt;div class="text-center">
-&lt;img src="https://www.youenchene.fr/assets/img_posts/devoxx14-dream.jpg" class="img-responsive img-thumbnail" style="max-width: 80%;"/>
+&lt;img src="https://www.youenchene.fr/assets/img_posts/devoxx14-dream.jpg" class="img-responsive img-thumbnail" />
 &lt;br/>&lt;em>Don't forget to dream&lt;/em>
 &lt;/div>
 &lt;/div>
@@ -99,7 +99,7 @@
 &lt;/div>
 &lt;div class="col-md-4">
 &lt;div class="text-center">
-&lt;img src="https://www.youenchene.fr/assets/img_posts/devoxx14-dilemmas.jpg" class="img-responsive img-thumbnail" style="max-width: 80%;"/>
+&lt;img src="https://www.youenchene.fr/assets/img_posts/devoxx14-dilemmas.jpg" class="img-responsive img-thumbnail" />
 &lt;br/>&lt;em>Richesse versus Contrôle&lt;/em>
 &lt;/div>
 &lt;/div>
@@ -125,7 +125,7 @@
 &lt;li>augmentation des tarifs au moment ou toute l'équipe est passé à temps complet sur le produit,&lt;/li>
 &lt;li>embaucher sur github et les hackathons.&lt;/li>
 &lt;/ul>
-&lt;p>Techniquement, une architecture micro services a été mise en place (avec la complexité de déploiement que cela incombe). Il passent maintenant à une deuxième version de l'architecture (traitement temps réel...)&lt;/p></description></item><item><title>Devoxx Belgium 2014 (1)</title><link>https://www.youenchene.fr/2014/11/DevoxxBelgium2014(1).html</link><pubDate>Sun, 16 Nov 2014 12:00:00 +0000</pubDate><guid>https://www.youenchene.fr/2014/11/DevoxxBelgium2014(1).html</guid><description>&lt;p xmlns="http://www.w3.org/1999/html">Voici le retour de ma première journée à Devoxx Belgique.&lt;/p>
+&lt;p>Techniquement, une architecture micro services a été mise en place (avec la complexité de déploiement que cela incombe). Il passent maintenant à une deuxième version de l'architecture (traitement temps réel...)&lt;/p></description></item><item><title>Devoxx Belgium 2014 (1)</title><link>https://www.youenchene.fr/2014/11/DevoxxBelgium2014(1)/</link><pubDate>Sun, 16 Nov 2014 12:00:00 +0000</pubDate><guid>https://www.youenchene.fr/2014/11/DevoxxBelgium2014(1)/</guid><description>&lt;p xmlns="http://www.w3.org/1999/html">Voici le retour de ma première journée à Devoxx Belgique.&lt;/p>
 &lt;div class="row">
 &lt;div class="col-md-8">
 &lt;h3>Keynotes&lt;/h3>
@@ -135,7 +135,7 @@
 &lt;/div>
 &lt;div class="col-md-4">
 &lt;div class="text-center">
-&lt;img src="https://www.youenchene.fr/assets/img_posts/devoxx14-gareanvers.jpg" class="img-responsive img-thumbnail" style="max-width: 80%;"/>
+&lt;img src="https://www.youenchene.fr/assets/img_posts/devoxx14-gareanvers.jpg" class="img-responsive img-thumbnail" />
 &lt;br/>&lt;em>La gare d'Anvers&lt;/em>
 &lt;/div>
 &lt;/div>
@@ -152,7 +152,7 @@
 &lt;/div>
 &lt;div class="col-md-4">
 &lt;div class="text-center">
-&lt;img src="https://www.youenchene.fr/assets/img_posts/devoxx14-mesos.jpg" class="img-responsive img-thumbnail" style="max-width: 80%;"/>
+&lt;img src="https://www.youenchene.fr/assets/img_posts/devoxx14-mesos.jpg" class="img-responsive img-thumbnail" />
 &lt;br/>&lt;em>L'architecture globale de mesos&lt;/em>
 &lt;/div>
 &lt;/div>
@@ -164,7 +164,7 @@
 &lt;/div>
 &lt;div class="col-md-4">
 &lt;div class="text-center">
-&lt;img src="https://www.youenchene.fr/assets/img_posts/devoxx14-bugs.jpg" class="img-responsive img-thumbnail" style="max-width: 80%;"/>
+&lt;img src="https://www.youenchene.fr/assets/img_posts/devoxx14-bugs.jpg" class="img-responsive img-thumbnail" />
 &lt;br/>&lt;em>Plus il y a de lignes de codes, plus il y a de bugs, il faut donc écrire moins de code&lt;/em>
 &lt;/div>
 &lt;/div>
@@ -182,7 +182,7 @@
 &lt;/div>
 &lt;div class="col-md-4">
 &lt;div class="text-center">
-&lt;img src="https://www.youenchene.fr/assets/img_posts/devoxx14-ml.jpg" class="img-responsive img-thumbnail" style="max-width: 80%;"/>
+&lt;img src="https://www.youenchene.fr/assets/img_posts/devoxx14-ml.jpg" class="img-responsive img-thumbnail" />
 &lt;br/>&lt;em>Slide en mode tableau noir pour bien te rappeler l'école&lt;/em>
 &lt;/div>
 &lt;/div>
@@ -222,7 +222,7 @@
 &lt;/div>
 &lt;div class="col-md-4">
 &lt;div class="text-center">
-&lt;img src="https://www.youenchene.fr/assets/img_posts/devoxx14-perf.jpg" class="img-responsive img-thumbnail" style="max-width: 80%;"/>
+&lt;img src="https://www.youenchene.fr/assets/img_posts/devoxx14-perf.jpg" class="img-responsive img-thumbnail" />
 &lt;br/>&lt;em>Step out of your confort zone&lt;/em>
 &lt;/div>
 &lt;/div>
@@ -248,7 +248,7 @@
 &lt;/div>
 &lt;div class="col-md-4">
 &lt;div class="text-center">
-&lt;img src="https://www.youenchene.fr/assets/img_posts/devoxx14-modernarch.jpg" class="img-responsive img-thumbnail" style="max-width: 80%;"/>
+&lt;img src="https://www.youenchene.fr/assets/img_posts/devoxx14-modernarch.jpg" class="img-responsive img-thumbnail" />
 &lt;br/>&lt;em>Les fausses opinions sur lesquelles se base beaucoup trop d'architectures&lt;/em>
 &lt;/div>
 &lt;/div>
@@ -261,7 +261,7 @@
 &lt;/div>
 &lt;div class="col-md-4">
 &lt;div class="text-center">
-&lt;img src="https://www.youenchene.fr/assets/img_posts/devoxx14-ing.jpg" class="img-responsive img-thumbnail" style="max-width: 80%;"/>
+&lt;img src="https://www.youenchene.fr/assets/img_posts/devoxx14-ing.jpg" class="img-responsive img-thumbnail" />
 &lt;br/>&lt;em>Ron Van Kemenade, le DSI d'ING&lt;/em>
 &lt;/div>
 &lt;/div>
@@ -274,7 +274,7 @@
 &lt;/div>
 &lt;div class="col-md-4">
 &lt;div class="text-center">
-&lt;img src="https://www.youenchene.fr/assets/img_posts/devoxx14-kellies.jpg" class="img-responsive img-thumbnail" style="max-width: 80%;"/>
+&lt;img src="https://www.youenchene.fr/assets/img_posts/devoxx14-kellies.jpg" class="img-responsive img-thumbnail" />
 &lt;br/>&lt;em>Le repère des &lt;strike>frenchies&lt;/strike> francophones au Kelly's&lt;/em>
 &lt;/div>
 &lt;/div>

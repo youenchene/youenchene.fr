@@ -1,0 +1,31 @@
+# Ouverture de la V2 de fermiers d'à côté
+
+
+
+
+
+
+
+[
+
+=> http://www.fermiersdacote.fr/ Embedded Image: http://www.fermiersdacote.fr/. Nous avons fait le choix de changer complètement l'interface pour chercher des produits et des producteurs pratiquant la vente directe.
+
+La recherche est maintenant très simple, elle vous rappellera sans doute celle de google. La carte est toujours présente : en cliquant sur afficher la carte et vous pourrez vous balader dessus et cliquez sur les points producteurs.
+
+Enfin, les pages de producteurs seront aussi mieux référencés sur les moteurs de recherches et donc mieux repérables dans Google. Les acteurs de la vente directe peuvent donc être plus visible : c'est l'objectif n°1 de Fermiers d'à côté [2].
+
+Bonus: La page de fan facebook de fermiers d'à côté [3] est aussi disponible. Nous y posterons des infos sur les producteurs qui attirent notre attention.
+
+
+
+
+## References
+
+=> http://www.fermiersdacote.fr/ [2] Fermiers d'à côté (http://www.fermiersdacote.fr/)
+=> http://www.facebook.com/pages/Fermiers-da-cote/110863644224 [3] fan facebook de fermiers d'à côté (http://www.facebook.com/pages/Fermiers-da-cote/110863644224)
+---
+
+
+=> /2009/05/surveiller-son-application-web/index.gmi ← Suivant: Surveiller son application web.
+=> /2009/04/mettez-jour-vore-navigateur-si-vous/index.gmi → Précédent: Mettez votre navigateur à jour (si vous avez ie6 ou même ie7)
+=> / Revenir à l'accueil

@@ -1,0 +1,72 @@
+# JavaCampParis #4 : Compte Rendu
+
+
+
+
+
+
+
+En transit entre 2 trains entre Roubaix et Rouen, j'ai fait un arrêt dans les locaux de Google pour vivre un morceau de JavaCampParis. Un morceau, car dans un agenda sans visibilité, j'ai du être un des derniers arrivés. Je n'ai assisté qu'à une seule session et malheureusement, j'ai manqué celle sur Spring 3.0. Il va falloir que je prenne le temps de faire la veille moi même...
+
+
+
+La session framework Ajax GWT, JQuery, Flex et autres
+
+Les discussions ont été sévères et parsemées d'idées préconçues sur les différents frameworks. La conclusion a été amené par Didier Girard qui est arrivé en fin de session : à Sfeir on recommande GWT pour les applications web (sans concept de pages) et JQuery pour les sites web (avec une navigation de pages en pages, d'articles en articles).
+
+Pour compléter cette conclusion, voici un récapitulatif rapide :
+
+GWT :
+(-) Pas fait pour un site de contenu (pas indexable par les moteurs de recherche).jQuery :
+(-) Boite à outil basique (d'après ce que j'ai compris).Flex :
+(-) Lourd (Ce n'est que mon avis).JavaFX :
+(-) Euh... c'est quoi la valeur ajouté.
+A cette liste, pour moi il manque Wicket, pour le touilleur express ce n'est qu'une technologie serveur. A vérifier avec les wickets boys du Normandy Jug.
+
+
+L'ambiance et la population
+
+La salle de pause et de buffet était casiment pleine, donc il n'y a avais pas beaucoup de difficulté pour joindre un groupe sans avoir son réseau dans les javaistes parisiens. 
+
+Ensuite, les buffets c'est toujours périlleux pour les maladroits comme moi. A quand les petites tables rondes pour poser le tout et pouvoir parler avec les mains ?
+
+Enfin, la population était composée de beaucoups d'indépendants et de petites sociétés de prestations, mais aussi de sociétés plus visible comme Sfeir et Octo. Après je n'ai pas eu le temps de discuter avec la concurrence de Logica (Cap Gémini) ... pour la prochaine fois.
+
+
+PS: Un merci à Luc Bizeul pour l'organisation et pour avoir pris le temps de faire entrer les retardataires...
+PS2: Un merci à Google pour avoir distribué des goodies et ainsi avoir libéré le buffet !
+
+
+
+
+
+
+  
+  
+  
+    Luc Bizeul
+  
+  
+  
+    2009-08-12T13:45:27.554Z
+  
+  
+  
+    Salut, la prochaine édition des JavaCampParis aura lieu le 27 août : http://barcamp.org/JavaCampParis5 en espérant t&#39;y voir, en attendant n&#39;hésite pas à diffuser l&#39;info :)
+
+Luc
+  
+  
+
+
+
+
+
+## References
+
+---
+
+
+=> /2009/04/nouvelle-version-de-site-de-ys276/index.gmi ← Suivant: Nouvelle version de site de YS276
+=> /2009/03/creation-du-normandy-jug/index.gmi → Précédent: Création du Normandy JUG
+=> / Revenir à l'accueil

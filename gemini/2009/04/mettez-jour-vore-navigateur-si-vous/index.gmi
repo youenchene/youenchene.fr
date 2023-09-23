@@ -1,0 +1,27 @@
+# Mettez votre navigateur à jour (si vous avez ie6 ou même ie7)
+
+
+
+
+
+
+[
+
+=> /assets/external/3.bp.blogspot.com/_7LQ1EXHnw30/SfKnXq082FI/AAAAAAAADB4/MzMgcF9uTMI/s1600-h/no-ie6_96.jpg Embedded Image: /assets/external/3.bp.blogspot.com/_7LQ1EXHnw30/SfKnXq082FI/AAAAAAAADB4/MzMgcF9uTMI/s1600-h/no-ie6_96.jpgC'est décidé, l'ensemble des internautes utilisant Internet Explorer 6 sur ce blog, driveo et fermiers d'à côté auront un bandeau qui s'affiche en haut de la page pour les inciter à télécharger et utiliser un navigateur moderne (Internet Explorer 8, FireFox, Chrome, Safari).
+
+La version original se trouve sur ie6update.com [2], elle est en anglais et ne pointe que vers Internet Explorer 8. J'ai réalisé une version française qui offre aussi le choix vers d'autres navigateurs (plus performant que Internet Explorer 8) : ie6update.1.0.0_french.zip [3].
+
+L'enjeux est important car cela permet aux dévelopeurs de créer des d'applications web plus interactives, plus sécurisées et plus accessibles. En effet, il faut savoir que Internet explorer 6 a 8 ans! Il est sortie en 2001 si je me souviens bien. En 2009, il est de plus en plus difficile d'en supporter les vieilles caractéristiques et cela sans compter le manque de vitesse d'exécution et d'affichage sur des sites webs récents:  tout le monde a quelque chose à gagner !
+
+
+
+## References
+
+=> http://ie6update.com/ [2] ie6update.com (http://ie6update.com/)
+=> http://cache.ys276.com/misc/ie6update.1.0.0_french.zip [3] ie6update.1.0.0_french.zip (http://cache.ys276.com/misc/ie6update.1.0.0_french.zip)
+---
+
+
+=> /2009/05/ouverture-de-la-v2-de-fermiers-da-cote/index.gmi ← Suivant: Ouverture de la V2 de fermiers d'à côté
+=> /2009/04/ouverture-du-concours-sartup-academy-le/index.gmi → Précédent: Ouverture du concours Sartup Academy le 21 avril
+=> / Revenir à l'accueil

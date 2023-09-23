@@ -1,0 +1,185 @@
+# San Francisco and the Valley - Week 1
+
+
+
+
+Me voici de  Retour sur mon blog après 2 première années en tant que CTO Saagie [15] (ex-Creative Data). Avec Arnaud Muller [16], le CEO, nous voila au sein du programme Impact USA de Business France [17] (ex UBI I/O) en plein coeur de San Francisco. J'y suis de passage pour quelques semaines pour appuyer les actions de Arnaud. Voici des impressions de la première semaine.
+
+
+## Le programme Impact USA
+Le programme est basé à Galvanize [18], un espace où on peut trouver un accélérateur de startup, du coworking, des bootcamp et des formations.
+Le programme aide en deux choses : via des ateliers et un(e) chargé(e) d'affaire. Dans les deux cas le plus important sont les mises en relations faites via ces moyens.
+Un bonus sur les ateliers qui permettent d'interagir avec des acteurs très expérimentés dans leur métier.
+
+    
+      
+          
+
+=> /assets/img_posts/sfw1/galvanize.jpg Embedded Image: /assets/img_posts/sfw1/galvanize.jpg
+          
+Réunion à Galvanize avec Arnaud et Sixtine la chargée d'affaire
+      
+    
+    
+      
+          
+
+=> /assets/img_posts/sfw1/rooftop.jpg Embedded Image: /assets/img_posts/sfw1/rooftop.jpg
+          
+Arnaud sur le rooftop de galvanize
+      
+    
+    
+      
+          
+
+=> /assets/img_posts/sfw1/dogs.jpg Embedded Image: /assets/img_posts/sfw1/dogs.jpg
+          
+Les chiens de l'open space
+      
+    
+
+
+## Le networking
+C'est notre principal activité sur place et c'est le lieu pour faire cela. Il est relativement facile de partir de zéro et de commencer à se faire un réseau de contacts. La diaspora Française fonctionne bien.
+Le premier effet est que comme c'est un sport national, c'est très intense. En une semaine, on a l'impression de progresser comme trois mois à Paris.
+On apprend des nouvelles choses au fur et à mesure des rendez vous. On retravaille le pitch et on recommence.
+Enfin, c'est une terre d'immigration. On va croiser énormément de nationalités : Canada, Taiwan, Allemagne, Suède, Irak...
+
+    
+      
+          
+
+=> /assets/img_posts/sfw1/estellemossely.jpg Embedded Image: /assets/img_posts/sfw1/estellemossely.jpg
+          
+Avec Estelle Mossely [19]
+      
+    
+    
+      
+          
+
+=> /assets/img_posts/sfw1/ctocloudera.jpg Embedded Image: /assets/img_posts/sfw1/ctocloudera.jpg
+          
+Avec le CTO de Cloudera
+      
+    
+
+## Les Meetups
+Etant organisateur de meetups et de conférences (Java User Group, Codeurs en Seine, NWX), je me suis empressé d'aller à un meetup dans la vallée.
+Première chose qui marque : l'abondance de meetups. Vous pouvez en faire un chaque soir, sans compter des bootcamps le week end, sur les thèmes que vous voulez.
+Deuxème chose qui marque : l'organisation du meetup. Il commencent à 18h-18H30. On a 30 mn pour manger au buffet et networker. Ensuite on a une ou deux conférences et ensuite en 15-20mn le meetup est vidé.
+Enfin, ils sont principalement organisés par les sociétés : Open Table User Group, GoPro user Group, Tibco User Group. Les "techno" user groups sont moins actifs (du moins en ce mois de mai). 
+J'ai été principalement marqué par GoPro User group sur l'évolution de leur stack big data. Par contre, les présentations sont un peu plus plan/plan par rapport à ce qu'on peut voir à Devoxx (pas de quentin adam avec plein de gif animés).
+
+
+  
+
+
+
+    
+      
+          
+
+=> /assets/img_posts/sfw1/meetup1.jpg Embedded Image: /assets/img_posts/sfw1/meetup1.jpg
+          
+Meet up GoPro
+      
+    
+    
+      
+          
+
+=> /assets/img_posts/sfw1/meetup2.jpg Embedded Image: /assets/img_posts/sfw1/meetup2.jpg
+          
+Meetup OpenTable
+      
+    
+    
+      
+          
+
+=> /assets/img_posts/sfw1/meetup3.jpg Embedded Image: /assets/img_posts/sfw1/meetup3.jpg
+          
+Les boissons
+      
+    
+    
+      
+          
+
+=> /assets/img_posts/sfw1/Meetup4.jpg Embedded Image: /assets/img_posts/sfw1/Meetup4.jpg
+          
+La demi heure pour manger et réseauter
+      
+    
+
+
+## La vie à San Francisco
+La ville et le temps sont très agréable en cette époque de l'année (juste un peu vent, nous sommes en bord de mer). Se balader sur Divisadero Street [20] ou sur les différents parcs fait passer de très bon moments.
+Par contre la vie est trés chère. C'est même encore plus chère du coté de Palo Alto. Il vaut mieux avoir un (très) bon salaire pour vivre la bas.
+
+
+    
+      
+          
+
+=> /assets/img_posts/sfw1/house.jpg Embedded Image: /assets/img_posts/sfw1/house.jpg
+          
+Maisons du quartier Alamo Square
+      
+    
+    
+      
+          
+
+=> /assets/img_posts/sfw1/dolorespark.jpg Embedded Image: /assets/img_posts/sfw1/dolorespark.jpg
+          
+Dimanche après midi à Dolores Park
+      
+    
+    
+      
+          
+
+=> /assets/img_posts/sfw1/concert.jpg Embedded Image: /assets/img_posts/sfw1/concert.jpg
+          
+Concert dans notre maison
+      
+    
+    
+    
+        
+
+=> /assets/img_posts/sfw1/bitbucket.jpg Embedded Image: /assets/img_posts/sfw1/bitbucket.jpg
+        
+On a les pubs pour parfum...
+    
+  
+
+
+
+
+    
+
+=> /assets/img_posts/sfw1/oceanbeach.jpg Embedded Image: /assets/img_posts/sfw1/oceanbeach.jpg
+    
+Ocean Beach
+
+
+
+
+## References
+
+=> https://www.saagie.com [15] Saagie (https://www.saagie.com)
+=> https://twitter.com/arnaudmu [16] Arnaud Muller (https://twitter.com/arnaudmu)
+=> http://www.impact-north-america.com/ [17] Impact USA de Business France (http://www.impact-north-america.com/)
+=> http://www.galvanize.com/ [18] Galvanize (http://www.galvanize.com/)
+=> https://fr.wikipedia.org/wiki/Estelle_Mossely [19] Estelle Mossely (https://fr.wikipedia.org/wiki/Estelle_Mossely)
+=> http://www.sanfranciscodays.com/divisadero/ [20] Divisadero Street (http://www.sanfranciscodays.com/divisadero/)
+---
+
+
+=> /2017/05/2017-05-14-SanFranscicoAndTheValley-Week2-3/index.gmi ← Suivant: San Francisco and the Valley - Week 2 and 3
+=> /2015/09/ImaCTObitch/index.gmi → Précédent: I'm a CTO bitch!
+=> / Revenir à l'accueil

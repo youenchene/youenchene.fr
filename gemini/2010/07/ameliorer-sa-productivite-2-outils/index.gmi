@@ -1,0 +1,33 @@
+# Améliorer sa productivité, 2 outils : Evernote et Dropbox
+
+
+
+
+
+
+Ce sont deux outils à la mode qui font le buzz depuis un bon moment chez les geeks. A force d'en entendre parler, de lire des tweets et des articles de blogs dessus, j'ai finalement testé et adopté ces deux très bonnes solutions.
+
+[
+
+=> https://www.jungledisk.com/ Embedded Image: https://www.jungledisk.com/.
+En effet, Dropbox est d'abord un écosystème très complet. Il est rempli aussi bien par la société Dropbox (qui fournit une application pour windows, mac, linux, iphone, ipad, Android etc...) que par les développeurs tiers. En effet de nombreuses applications (en particulier sur iPad) permettent d'accéder directement aux fichiers de sa dropbox.
+
+
+[
+
+=> http://www.evernote.com/ Embedded Image: http://www.evernote.com/. La solution permet de capturer/rédiger des prises de notes et de les synchroniser entre nos différents appareils (windows, mac, iphone, ipad, android, palm, blackberry, windows mobile, sony ericsson).
+A la suite la mort annoncé de Google Notebook [3], je n'avais plus vraiment d'outils pour les prises de notes et les captures de page web. Evernote est de bien meilleur qualité et a de l'avenir (modèle freemium et une API pour étendre son écosystème).
+
+A noter que le point commun entre ses 2 outils est qu'il ne s'agit pas d'un logiciel mais d'un écosystème ouvert à la twitter dont les données sont stockées chez le fournisseur de l'outil à la mode "cloud computing".
+
+
+
+## References
+
+=> http://www.google.com/notebook [3] Google Notebook (http://www.google.com/notebook)
+---
+
+
+=> /2010/07/lecture-de-vacances-price-minister/index.gmi ← Suivant: Lecture de vacances : Price Minister - Toutes les entreprises ont été petites un jour
+=> /2010/05/9eme-reunion-soiree-speciale-soa-avec/index.gmi → Précédent: 9ème Réunion – Soirée spéciale SOA avec l’ESB Open Source Petals
+=> / Revenir à l'accueil

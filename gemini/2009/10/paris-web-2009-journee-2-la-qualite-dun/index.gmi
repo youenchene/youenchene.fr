@@ -1,0 +1,46 @@
+# Paris Web 2009 : Journée 2 - La qualité d'un projet provient des membres de son équipe
+
+
+
+
+
+
+[
+
+=> http://www.paris-web.fr/ Embedded Image: http://www.paris-web.fr/, la deuxième journée a été assez exceptionnelle. Le seule regret c'est la manque de temps disponible pour que les orateurs puisse développerleur vision. C'est particulièrement vrai pour les conférences de Nicolle Sullivan et Stéphanie Troeth.
+
+Voici une série de points marquants de la journée :
+
+Améliorer la qualité produite par équipe est dépendante des membres de l'équipe et de leur collaboration. Elle n'est que peu dépendante du process, certifications ou des méthodes (ITIL, CMMI et autres trucs qui coûte souvent chère en consulting). Il se trouve que je suis de plus en plus d'accord avec ce point. (Being Agile, Being Good - Stéphanie Troeth [3]).
+
+Nicole Sullivan [4] a développé une vision très intéressante d'utilisation de CSS orienté objet. Le "framework" est disponible à cette adresse [5]. Dans tous j'ai quelques CSS très critique à refondre entièrement! De manière pragmatique c'est la session qui va le plus impacter mes travaux. Quoiqu'en dise les fans de canard du W3C.
+
+Ensuite, on  eu le droit à 3 shows : Une présentation très dynamique de Molly Holzshlag [6] de Opera sur les nouveautés de CSS3.
+
+Au niveau de la veille, c'était moins intéressant pour moi que l'année dernière (j'ai rattrapé pas mal de retard). Mais, cette conférence est surtout remarquable par les interactions, les débats et la liberté pour les orateurs dee faire une conférence ou on s'amuse et on se marre (Pas comme les conférences sur la SOA me précisent Julien et Michaël de chez Octo [7]). Il n'y qu'à voir les présentations de Christian Heilmann [8] et la standing ovation de conclusion.
+
+Les présentations :Being Agile, Being Good [9] de Stephanie Troeth.
+Concevoir un produit web c'est bien, faire en sorte qu'il soit accepté, c'est mieux ! [11] de Gautier Barrère et Alain Vagner.
+[
+
+=> /assets/external/3.bp.blogspot.com/_7LQ1EXHnw30/StNgZMtV7OI/AAAAAAAADO0/pRFmjmN5Dug/s1600-h/IMG_0287.JPG Embedded Image: /assets/external/3.bp.blogspot.com/_7LQ1EXHnw30/StNgZMtV7OI/AAAAAAAADO0/pRFmjmN5Dug/s1600-h/IMG_0287.JPG
+
+
+
+## References
+
+=> http://www.stephanietroeth.com/ [3] Stéphanie Troeth (http://www.stephanietroeth.com/)
+=> http://www.stubbornella.org/ [4] Nicole Sullivan (http://www.stubbornella.org/)
+=> http://wiki.github.com/stubbornella/oocss [5] Le "framework" est disponible à cette adresse (http://wiki.github.com/stubbornella/oocss)
+=> http://molly.com/ [6] Molly Holzshlag (http://molly.com/)
+=> http://www.octo.com/ [7] Octo (http://www.octo.com/)
+=> http://icant.co.uk/ [8] Christian Heilmann (http://icant.co.uk/)
+=> http://www.slideshare.net/stephtroeth/being-agile-being-good [9] Being Agile, Being Good (http://www.slideshare.net/stephtroeth/being-agile-being-good)
+=> http://www.slideshare.net/stubbornella/object-oriented-css [10] CSS peut-il être orienté objet (http://www.slideshare.net/stubbornella/object-oriented-css)
+=> http://www.slideshare.net/avagner/acceptation [11] Concevoir un produit web c'est bien, faire en sorte qu'il soit accepté, c'est mieux ! (http://www.slideshare.net/avagner/acceptation)
+---
+
+
+=> /2009/10/web2connect-2009-journee-de-networking/index.gmi ← Suivant: Web2Connect 2009 : Journée de networking accélérée
+=> /2009/10/paris-web-2009-journee-1-le-declin-de/index.gmi → Précédent: Paris Web 2009 : Journée 1 - Le déclin de Internet Explorer
+=> / Revenir à l'accueil

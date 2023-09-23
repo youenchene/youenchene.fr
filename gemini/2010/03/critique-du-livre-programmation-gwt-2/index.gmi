@@ -1,0 +1,43 @@
+# Critique du livre Programmation GWT 2 de Sami Jaber
+
+
+
+
+
+
+[
+
+=> http://www.amazon.fr/gp/product/2212125690?ie=UTF8&amp;tag=yetanotentrbl-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=2212125690 Embedded Image: http://www.amazon.fr/gp/product/2212125690?ie=UTF8&amp;tag=yetanotentrbl-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=2212125690 sortie en Janvier. Un article qui aurait du paraitre ce même mois, si La poste ne m'avais pas retenu le livre pendant un mois dans le centre de tri.
+
+
+Le livre Programmation GWT 2 : Développer des applications RIA et Ajax avec Google Web Toolkit [3]
+
+=> http://www.assoc-amazon.fr/e/ir?t=yetanotentrbl-21&amp;l=as2&amp;o=8&amp;a=2212125690 Embedded Image: http://www.assoc-amazon.fr/e/ir?t=yetanotentrbl-21&amp;l=as2&amp;o=8&amp;a=2212125690 est le premier livre qui expose les nouveautés de la dernière version GWT sortie en décembre 2009.
+
+Tout d'abord, le livre n'est pas vraiment piur les débutants qui souhaitent découvrir GWT, mais plutôt aux programmeurs ayant un minimum pratiqué le framework de Google. Non pas, que les chapitres d'introductions sont mauvais au contraire, mais que cela risque d'être trop dense et trop rapide.
+
+Le grand intérêt du livre est que les différents chapitres évoquent des points pratiques à réutiliser dans ses projets comme les bibliothèques de courbes et de graphiques, le drag &amp; drop, la gestion de l'historique, etc...
+
+L'autre point intéressant est la description des nouveautés de GWT 2.0 et des points très techniques comme le eRPC, le JSNI, JSON, la nouvelle gestion des CSS, les tests, le chargement à la demande, le modèle de placement CSS et l'UIBinder.
+
+Le chapitre  le plus attendu est le chapitre 15 sur les "Design pattern GWT", où il y a des sujets très utile comme les chargements incrémentales. J'ai découvert et adopté ce mode à travers ce livre, il permet permette de fluidifier l'affichage d'une longue liste d'élément sans bloquer la navigateur. Les patterns MVC et MVP sont aussi présentés (cf mon article précédent [4]). Il y a même une partie  sur la sécurité.
+
+Le problème de ce chapitre est qu'il est beaucoup trop court et que l'on reste sur sa faim. J'aurais aimé un chapitre par sous partie et pour permettre de développer chaque patron d'utilisation de GWT. De plus, j'aurais aussi aimé voir apparaitre les limites d'utilisation des patterns (par exemple UI Binder + un framework MVP).
+
+Il faut cependant garder à l'esprit que c'est le premier livre sur GWT qui va aussi loin.
+
+Vous l'aurez compris, en tant que programmeur GWT, je vous recommande fortement ce livre. Enfin, vous pouvez même écrire vos questions, remarques et contributions dans le wiki de l'ami Sami [5].
+
+
+
+## References
+
+=> http://www.amazon.fr/gp/product/2212125690?ie=UTF8&amp;tag=yetanotentrbl-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=2212125690 [3] Programmation GWT 2 : Développer des applications RIA et Ajax avec Google Web Toolkit (http://www.amazon.fr/gp/product/2212125690?ie=UTF8&amp;tag=yetanotentrbl-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=2212125690)
+=> http://www.youenchene.fr/2010/01/gwt-avance-event-bus-mvp-et-code.html [4] mon article précédent (http://www.youenchene.fr/2010/01/gwt-avance-event-bus-mvp-et-code.html)
+=> http://www.programmationgwt2.com/ [5] le wiki de l'ami Sami (http://www.programmationgwt2.com/)
+---
+
+
+=> /2010/03/interview-par-ludovic-passamonti/index.gmi ← Suivant: Interview par Ludovic Passamonti
+=> /2010/02/sixieme-reunion-du-normandy-jug-scrum/index.gmi → Précédent: Sixième réunion du Normandy JUG : Scrum
+=> / Revenir à l'accueil

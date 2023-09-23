@@ -1,0 +1,87 @@
+# Outils et techno web : Top, In & Out de l'année 2008
+
+
+
+
+
+
+Pour le dernier article de l'année, voici mon "classement" personnel des outils, technologies et applications web de l'année.
+
+Le classement est en 3 catégories : La catégorie "Top" qui confirme les bons outils que j'utilise depuis au moins 2007, la catégorie In qui liste les "nouveautés" appréciables de l'année et enfin la catégorie "Out" qui liste les déceptions et les mauvais choix.
+
+Top :
+
+Basecamp: une application web de gestion de projet et de partage de documents. La simplicité, la clareté et les petites nouveautés ajoutées par 37signals font que je l'utilise toujours et encore. Pour l'année 2009, un support du français et une intégration des Google Documents seraient le bienvenue.
+http://www.basecamphq.com [1]
+
+GWT: Le framework Ajax de Google commence à prendre de la maturité avec la version 1.5 (la version 1.4 étaient très limite...). Après un an et demi d'utilisation, la possibilité d'écrire une application web totalement en objet est très efficace et devient un accélérateur pour les phases de maintenance et de réutilisation de code.
+http://code.google.com/intl/fr/webtoolkit/ [2]
+
+
+In :
+
+Beanstalk: Un dépot Subversion clef en main (pour sauvegarder et gérer les versions de codes cources).En plus, il s'intègre dans basecamp. C'est très simple et très bien fait. Cela a du me faire gagner 4 à 5 jours de charges dans l'année.
+http://beanstalkapp.com [3]
+
+Twitter: L'application de micro blogging qui sert à faire de la veille technologique, prendre des nouvelles, appeler au secours, chatter, crier son malheur ou son bonheur. Découvert au mois de mars et maintenant indispensable.
+http://www.twitter.com [4]
+
+Google Documents: J'ai commencé à l'utiliser cette année, j'utilise la partie tableur et il s'améliore de mois en mois.
+http://www.google.com/doc/ [5]
+
+Keyyo: Une application de téléphonie IP simple et efficace. A partir de 5€/mois, il y a la possibilité d'avoir un numéro de téléphone normal (en 01, 02, 03, 04 ou 05) et à partir de 10 € il y a des forfaits illimités sur les fixes avec un en plus un numéro de fax. C'est stable et la qualité est correcte.
+http://www.keyyo.fr/ [6]
+
+Balsamiq Mockups: Enfin un outil pour gribouiller/maquetter des interfaces productif. Pas très chère, j'en donnerai des nouvelles dans quelques mois.
+http://www.balsamiq.com/products/mockups/ [7]
+
+Wordpress: La plateforme de blog, qui va me servir en tant que CMS pour réaliser les sites vitrines. Très agréable à installer et à configurer. Au passage,ce blog reste toujours sur blogger: il fait bien son (peu) de travail.
+http://www.wordpress.org [8]
+
+Spring: Le framework java de container léger : très productif et très agréable à utiliser. Aucun, mais vraiment aucun regret d'abandonner les EJB.
+http://www.springframework.org [9]
+
+Ibatis: Le framework de mapping Relationnel/Objet qui demande un peu de travail mais qui permet de contrôler ces requêtes au plus près. pas très connu, mais très efficace.
+http://ibatis.apache.org [10]
+
+
+Out :
+
+Skype: les coupures dès qu'une connexion internet est un peu faiblarde ont eu raison de la célèbre application de voix IP.
+http://www.skype.com [11]
+
+Zefyr: une application hébergée de comptabilité. Doublement des tarifs, un support lent et un peu limite dans la qualité des réponses et surtout la non possibilité d'automatiser des saisies : résiliation...
+http://www.zefyr.net [12]
+
+GWT Designer: Les interfaces WYSIWYG pour construire des interfaces c'est bien pour les démos mais après rien ne vaut que l'édition de codes sources en directe (avec l'autocomplémention sous éclipse quand même).
+http://www.instantiations.com/gwtdesigner/ [13]
+
+Joomla: De plus en plus utilisé par les entreprises mais Wordpress est tellement bon que je vais bientôt démarrer les migrations de mes quelques sites en joomla vers wordpress
+http://www.joomla.fr/ [14]
+
+Sans oublier, un bon réveillon et une bonne année 2009!
+
+
+
+## References
+
+=> http://www.basecamphq.com [1] http://www.basecamphq.com (http://www.basecamphq.com)
+=> http://code.google.com/intl/fr/webtoolkit/ [2] http://code.google.com/intl/fr/webtoolkit/ (http://code.google.com/intl/fr/webtoolkit/)
+=> http://beanstalkapp.com/ [3] http://beanstalkapp.com (http://beanstalkapp.com/)
+=> http://www.twitter.com [4] http://www.twitter.com (http://www.twitter.com)
+=> http://www.google.com/doc/ [5] http://www.google.com/doc/ (http://www.google.com/doc/)
+=> http://www.keyyo.fr/ [6] http://www.keyyo.fr/ (http://www.keyyo.fr/)
+=> http://www.balsamiq.com/products/mockups/ [7] http://www.balsamiq.com/products/mockups/ (http://www.balsamiq.com/products/mockups/)
+=> http://www.wordpress.org [8] http://www.wordpress.org (http://www.wordpress.org)
+=> http://www.springframework.org [9] http://www.springframework.org (http://www.springframework.org)
+=> http://ibatis.apache.org/ [10] http://ibatis.apache.org (http://ibatis.apache.org/)
+=> http://www.skype.com [11] http://www.skype.com (http://www.skype.com)
+=> http://www.zefyr.net [12] http://www.zefyr.net (http://www.zefyr.net)
+=> http://www.instantiations.com/gwtdesigner/ [13] http://www.instantiations.com/gwtdesigner/ (http://www.instantiations.com/gwtdesigner/)
+=> http://www.joomla.fr/ [14] http://www.joomla.fr/ (http://www.joomla.fr/)
+---
+
+
+=> /2009/01/cest-partie-pour-la-nouvelle-anne/index.gmi ← Suivant: C'est partie pour la nouvelle année : Ouverture de la béta privée de Driveo
+=> /2008/12/interview-sur-le-blog-de-maxime/index.gmi → Précédent: Interview sur le blog de Maxime Garrigues / Horizon Entrepreneur
+=> / Revenir à l'accueil

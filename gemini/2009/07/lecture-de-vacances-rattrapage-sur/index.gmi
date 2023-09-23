@@ -1,0 +1,62 @@
+# Lectures de vacances : rattrapage sur l'architecture de solutions Java avec Rod Johnson
+
+
+
+
+
+
+[
+
+=> http://www.springsource.com/ Embedded Image: http://www.springsource.com/) dans mes lectures de vacances.
+
+Les 2 livres "Wrox / expert one-on-one" sont intitulés :
+Expert One-On-One J2Ee Design and Development [4]
+
+=> http://www.assoc-amazon.fr/e/ir?t=yetanotentrbl-21&amp;l=as2&amp;o=8&amp;a=0764543857 Embedded Image: http://www.assoc-amazon.fr/e/ir?t=yetanotentrbl-21&amp;l=as2&amp;o=8&amp;a=0764543857
+Expert One-on-One J2EE Development without EJB [5]
+
+=> http://www.assoc-amazon.fr/e/ir?t=yetanotentrbl-21&amp;l=as2&amp;o=8&amp;a=0764558315 Embedded Image: http://www.assoc-amazon.fr/e/ir?t=yetanotentrbl-21&amp;l=as2&amp;o=8&amp;a=0764558315
+
+Si les 2 livres commencent à dater, il en reste au moins 70% de toujours valable. Le premier livre (2002/2003) prend sa source dans les difficultés des projets J2EE à base d'EJB de l'époque. Le deuxième livre sonne la fin des EJBs 2 et annonce les débuts prometteurs du framework Spring.
+
+Il faut savoir que je ne suis pas un fan des EJBs. Je me souviens avoir squizzé des EJBs dans une couche de l'architecture pour gagner en performance et en productivité (le forfait était très fortement dans le rouge...).
+De plus, j'utilise Spring pour Driveo et Fermiers d'à côté et le framework me le rend bien en terme de productivité.
+
+Il faut dire que l'aspect pragmatique et l'orientation vers la recouvrance d'objectif métiers de Rod Johnson rejoint très bien l'évolution de ma vision de l'architecture d'un système d'information. Enfin, son combat contre les ayatollah de l'informatique me ravi.
+
+Pour illustrer le propos, voici quelques reprises re-mixées à la Youen des 2 livres :
+L'approche UML/Génération de code n'as pas d'intérêt en terme de productivité. Cela reste une utopie (et ce n'est mon expérience qui va me dire le contraire). Par contre l'UML reste le meilleure langage d'analyse de la conception d'une application.
+
+Les DTO ne servent à rien et ne font que rajouter de la complexité à la communication entre les couches d'une application (DTO= object d'échange entre 2 couches d'une application). Pour Fermiers d'à côté, j'ai presque fini de migrer vers une version sans DTO. Pour Driveo, j'ai commencé sans DTO je n'ai aucun regret.
+Remarque Architecte SOA: ceçi n'est pas valable dans l'urbanisation d'un SI avec un ESB/EAI (avec en plus beaucoup de mode asynchrone). Les DTOs/Objets Pivots permettent un découplage fonctionnel très utile en terme de souplesse, de maintenance et d'évolution.
+
+Rod Johnson fournit enfin un discours cohérent sur le choix d'utiliser ou non les procédures stockées.Il faut dire que j'ai entendu tout et son contraire sur ce sujet. En voici les grandes lignes :
+Il est intéressant d'y placer une logique de persistence pour des raisons de performance et de simplicité. Ex: un éléments avec des sous éléments.
+Cela ne réduira forcément le volume de données nécessaire pour que la base de données soit le goulot d'étranglement.
+De plus cela permet :
+De mettre à jour plusieurs bases de données depuis une seule procédure stockée.
+On limite le  nombre d'appel parle réseau entre la base de données et le serveur d'application Java.
+On peut optimiser localement avec du code propre à la base de données.
+On peut réutiliser un historique.
+Enfin, Rod Johnson reste mesuré dans ces propos. Il souhaite éviter les positions de types procédures stockées interdits ou obligatoires. Il faut s'adapter au contexte.
+
+Les TDDs est la meilleure approche d'amélioration continue dans le développement d'applications. Le gain est énorme en terme de qualité de livrable et en maintenance. Mon "bon sens" d'ingénieur Arts et Métiers (j'en ai mangé des cours de méthodes et d'amélioration continue pour les lignes d'assemblage mécaniques) me dit qu'une approche TDD apportera de bien meilleurs résultats qu'un chef de projet ceinture noir en CMMI (On peut sans doute dire que je mélange les torchons et les serviettes mais d'un point de vue décideurs/productiviste on atteint le même objectif : réussir et optimiser la réalisation d'applications informatiques de manière répétée).
+Remarque Architecte SOA : dommage que dans le monde des ESB (TIbco, Web Method) on soit très mal outillé sur ce point.
+Du coup, j'ai re-priorisé ma roadmap de consolidation :
+Construction des test unitaires avec JUnit (afin de diminuer les non régressions sur les nouvelles versions de Driveo) pour passer vers un mode full TDD.
+Tuning (cache, recherche compass/lucene).
+Evaluation d'une migration de Ibatis vers Hibernate ou JDO. (Ca tombe bien tout est isolé dans une couche de DAOs).
+Du travail pour mon retour de vacances ! (En plus des nouvelles fonctionnalités et du développement commercial de Driveo).
+
+
+
+## References
+
+=> http://www.amazon.fr/gp/product/0764543857?ie=UTF8&amp;tag=yetanotentrbl-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=0764543857 [4] Expert One-On-One J2Ee Design and Development (http://www.amazon.fr/gp/product/0764543857?ie=UTF8&amp;tag=yetanotentrbl-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=0764543857)
+=> http://www.amazon.fr/gp/product/0764558315?ie=UTF8&amp;tag=yetanotentrbl-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=0764558315 [5] Expert One-on-One J2EE Development without EJB (http://www.amazon.fr/gp/product/0764558315?ie=UTF8&amp;tag=yetanotentrbl-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=0764558315)
+---
+
+
+=> /2009/07/retours-sur-le-rivierajug/index.gmi ← Suivant: Retours sur le RivieraJug
+=> /2009/06/retour-sur-la-premiere-reunion-du/index.gmi → Précédent: Retour sur la première réunion du Normandy JUG
+=> / Revenir à l'accueil

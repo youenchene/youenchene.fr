@@ -1,0 +1,30 @@
+# C'est partie pour la nouvelle année : Ouverture de la béta privée de Driveo
+
+
+
+
+
+
+[
+
+=> http://www.driveo.fr/ Embedded Image: http://www.driveo.fr/, une application web de gestion d'auto école.
+
+Au passage, si vous êtes une auto école et que vous souhaitez utiliser gratuitement la version béta de driveo [2], envoyez moi un email sur youen.chene@ys276.com [3].
+
+
+
+
+Enfin ce jour est aussi marqué par l'accueil d'un nouveau stagiaire : Romain (après le stage d'Hadrien en juin dernier). Romain va contribuer au développement des différents modules composant driveo et pourra ainsi mieux maîtriser les frameworks java utilisés par driveo (GWT, Spring et Ibatis).
+
+
+
+## References
+
+=> http://www.driveo.fr [2] version béta de driveo (http://www.driveo.fr)
+=> mailto:youen.chene@ys276.com [3] youen.chene@ys276.com (mailto:youen.chene@ys276.com)
+---
+
+
+=> /2009/01/interview-sur-intruderstv/index.gmi ← Suivant: Interview sur Intruders.TV
+=> /2008/12/outils-et-techno-web-top-in-out-de/index.gmi → Précédent: Outils et techno web : Top, In & Out de l'année 2008
+=> / Revenir à l'accueil

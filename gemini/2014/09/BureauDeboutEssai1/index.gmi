@@ -1,0 +1,57 @@
+# Bureau Debout : Essai 1
+
+
+
+
+
+    
+
+=> /assets/img_posts/si_bureaudebout.jpg Embedded Image: /assets/img_posts/si_bureaudebout.jpg
+
+Après la coupure estivale et le rush de la rentrée, voici un article de retour d'un 2ème passage à Seine Innopolis.
+
+J'ai été accueilli par Alex Ronsaut/ApolloNet [2] pour tester leurs bureaux debouts. Ce ne sont pas de bureaux debouts réglables à 500 ou 1000 € mais de simple tables fabriquées avec quelques planches. J'ai fait 2 séances d'une heure chacune (fin de matinée et début d'après midi) de tâches courtes : chat, mails, vérification d'hypothèses dans des documentations.
+Bilan : (au moins) la première fois c'est fatiguant. Je ne veux dire pas particulièrement le dos (qui était ma peur) mais globalement, le corps n'as pas l'habitude et ca se sent rapidement (surtout quand la nuit a été courte). D'un autre coté, j'avais l'impression d'être plus focalisé sur mes tâches.
+Chose curieuse, mes voisins de bureaux avait tendance à faire les 100 pas devant leur bureaux lorsqu'il avait un problème (de CSS la plupart du temps).
+A retenter dans la durée avec des tâches plus longue de type programmation et rédaction.
+Petites note technique de Alex Ronsault : en fonction de comment tu es foutu, quelques centimètres de différence sur la hauteur du bureau jouent énormément sur ton confort.
+C'est un sujet à la mode, voici quelques ressources :
+
+    Le bureau débout de chez ikea, [3]
+    le site de Bertrand Keller, [4]
+    bureau debout Do It Yourself, [5]
+    un autre avec des astuces, [6]
+    un autre, [7]
+    encore un autre, [8]
+    Et encore du ikea hacking pour finir. [9]
+
+
+Et d'autres ressources sur des approches encore plus innovante, marcher en travaillant (ou l'inverse) :
+
+    Le bureau de Linus Torvalds, [10]
+    le site Walking Working [11] initié par Benoit Pereira da Silva,
+    interview de Benoit Pereira da Silva sur Nip Dev, [12]
+    interview de Benoit Pereira da Silva sur NipSport. [13]
+
+
+
+## References
+
+=> http://apollonet.fr/ [2] Alex Ronsaut/ApolloNet (http://apollonet.fr/)
+=> http://www.ikea.com/fr/fr/catalog/products/S49022519/ [3] Le bureau débout de chez ikea, (http://www.ikea.com/fr/fr/catalog/products/S49022519/)
+=> http://hackdesk.spintoapp.com/ [4] le site de Bertrand Keller, (http://hackdesk.spintoapp.com/)
+=> http://www.instructables.com/id/Convertible-StandingSitting-Desk-for-200/ [5] bureau debout Do It Yourself, (http://www.instructables.com/id/Convertible-StandingSitting-Desk-for-200/)
+=> http://bureau-debout.com/fabriquer.html [6] un autre avec des astuces, (http://bureau-debout.com/fabriquer.html)
+=> www.laubergedelours.com/travailler-debout-le-pied/ [7] un autre, (www.laubergedelours.com/travailler-debout-le-pied/)
+=> http://masterblog.fr/test-bureau-debout/ [8] encore un autre, (http://masterblog.fr/test-bureau-debout/)
+=> http://quenouille.com/passage-bureau-debout/ [9] Et encore du ikea hacking pour finir. (http://quenouille.com/passage-bureau-debout/)
+=> https://www.youtube.com/watch?v=fuS-3HSnpq4 [10] Le bureau de Linus Torvalds, (https://www.youtube.com/watch?v=fuS-3HSnpq4)
+=> http://walkingworking.com/ [11] le site Walking Working (http://walkingworking.com/)
+=> http://nipcast.com/nipdev-21-developper-en-marchant-avec-un-drone/ [12] interview de Benoit Pereira da Silva sur Nip Dev, (http://nipcast.com/nipdev-21-developper-en-marchant-avec-un-drone/)
+=> http://nipcast.com/nipsports-016/ [13] interview de Benoit Pereira da Silva sur NipSport. (http://nipcast.com/nipsports-016/)
+---
+
+
+=> /2014/10/LeretourduNaug/index.gmi ← Suivant: Le retour du Normandy Agile User Group
+=> /2014/07/une-journee-a-seine-innopolis/index.gmi → Précédent: Une journée à Seine Innopolis
+=> / Revenir à l'accueil
