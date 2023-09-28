@@ -1,0 +1,44 @@
+# 9ème Réunion – Soirée spéciale SOA avec l’ESB Open Source Petals
+
+
+
+
+
+
+Le Mardi 15 juin, j'introduirai une présentation SOA et Open Source avec un consultant de la société PetalsLink (issue de Object Web) du côté de la vatine (Mont Saint Aignan / Rouen). En effet, le monde des suites SOA est en train d'être renouvelé par acteurs issus de l'Open Source et du monde Java. Ces nouvelles suites SOA  avec l'outillage Java ont la particularité de faire entrer les projets SOA dans un mode plus industriel avec les outillages de build et d'intégration continue.
+La  neuvième réunion du NormandyJUG !!!
+ ## Lieu : eXia / CESI [7] (à Mont  Saint Aignan) à partir de 19h00, le Mardi 15 Juin
+
+ 
+ Agrandir  le plan [8]
+ IMPORTANTL’entrée est entièrement gratuite et la soirée sera agrémentée d’un  buffet offert par le sponsor de la soirée “Logica  Business Consulting [9] #6”  :
+
+ Sans oublier “Petals Link” qui fait venir un  consultant depuis Grenoble :
+
+ et “Enovea” :
+
+ Et merci à JetBrains [10] ainsi  que eXo Platform [11] pour leurs  goodies!
+
+Un grand merci à nos speakers bénévoles, pour leur engagement dans  cette neuvième soirée qui nous espérons va vous satisfaire autant voir  plus que les huit précédentes !
+
+
+
+## References
+
+=> http://fr.wikipedia.org/wiki/Enterprise_Service_Bus [1] ESB (http://fr.wikipedia.org/wiki/Enterprise_Service_Bus)
+=> http://fr.wikipedia.org/wiki/Java_Business_Integration [2] JBI (http://fr.wikipedia.org/wiki/Java_Business_Integration)
+=> http://www.gibello.com/ [3] Pierre-Yves Gibello (http://www.gibello.com/)
+=> http://www.petalslink.com/ [4] PetalsLink (http://www.petalslink.com/)
+=> http://www.youenchene.fr/ [5] Youen Chéné (http://www.youenchene.fr/)
+=> http://www.logica.fr/soa/ [6] Logica  Business Consulting (http://www.logica.fr/soa/)
+=> http://www.exia.cesi.fr/ [7] eXia / CESI (http://www.exia.cesi.fr/)
+=> http://maps.google.fr/maps?ie=UTF8&amp;q=exia+cesi+rouen&amp;fb=1&amp;gl=fr&amp;hq=exia+cesi&amp;hnear=rouen&amp;cid=0,0,14303900307713815448&amp;ei=0hTcSueKGtK24QaUzsD1Bg&amp;ved=0CAsQnwIwAA&amp;t=h&amp;iwloc=A&amp;ll=49.476671,1.092023&amp;spn=0.006295,0.006295&amp;source=embed [8] Agrandir  le plan (http://maps.google.fr/maps?ie=UTF8&amp;q=exia+cesi+rouen&amp;fb=1&amp;gl=fr&amp;hq=exia+cesi&amp;hnear=rouen&amp;cid=0,0,14303900307713815448&amp;ei=0hTcSueKGtK24QaUzsD1Bg&amp;ved=0CAsQnwIwAA&amp;t=h&amp;iwloc=A&amp;ll=49.476671,1.092023&amp;spn=0.006295,0.006295&amp;source=embed)
+=> http://www.logica.fr/soa/ [9] Logica  Business Consulting (http://www.logica.fr/soa/)
+=> http://www.jetbrains.com/ [10] JetBrains (http://www.jetbrains.com/)
+=> http://www.exoplatform.com/ [11] eXo Platform (http://www.exoplatform.com/)
+---
+
+
+=> /2010/07/ameliorer-sa-productivite-2-outils/index.gmi ← Suivant: Améliorer sa productivité, 2 outils : Evernote et Dropbox
+=> /2010/05/fermiers-da-cote-ouvre-top-agro-france/index.gmi → Précédent: Fermiers d'à côté ouvre Top-Agro France
+=> / Revenir à l'accueil

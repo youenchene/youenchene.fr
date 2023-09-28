@@ -1,0 +1,70 @@
+# Conférence NWX 2014
+
+
+
+
+Ce jeudi 26 a eu lieu l'édition 2014 de la conférence annuelle des Normandy Web Expert [5]. Contrairement aux autres années, j'ai pu me libéré et tenir un stand pour le normandy jug [6], codeurs en seine [7] et devoxx 4 kids.
+
+
+
+=> /assets/img_posts/nwx2014_standjug.jpg Embedded Image: /assets/img_posts/nwx2014_standjug.jpg
+
+On a inauguré notre roll-up doté d'un gros juggy
+
+### Généralités
+Sur les 341 inscrits entre 150 et 200 ont du venir (c'est le problème des conférences gratuites), il y avait 3 tracks en même temps : la plénière avec les gros invités, la e-commerce et la technique. J'ai passé 80% du temps dans la technique et le reste du temps j'ai "réseauté"" : le principal attrait de cette conférence est qu'elle mélange des personnes de différents profils.
+Petite déception sur la keynote du nouveau président, un discours pas assez dynamique (disclaimer : j'ai eu un débat avec lui sur une partie du contenu et la forme). Rien que des slides avec juste des photos derrière lui pour illustrer les différentes actions comme salon e-commerce et codeurs en seine aurait aidé à la compréhension.
+ERRATA: Romain Prat m'a indiqué que 250 badges avaient été retirés, c'est à dire que comme pour codeurs en seine pas mal de personnes sont venus juste pour quelques heures.
+
+### Les conférences techniques
+Nos comparses de codeurs en seine et notamment Alexandre Ronsault [8] ont organisé un track web/technique (une première pour la conférence NWX). Au programme, on a eu du phonegap, de l'agilité, de l'ergonomie, du php bien écrit (..bon j'ai pas assisté à la conférence donc je n'ai pas pu vérifié ;-), de la mesure de performance et de la réflexion sur la conception avec le client.
+Coté agilité, on a eu Nicolas Saillard [9], a fait une rapide introduction à l'agilité en présentant rapidement scrum et kanban. Quelques inexactitudes, mais une bonne idée pour relancer le NAUG [10].
+
+
+
+=> /assets/img_posts/nwx2014_nikos_coaxys.jpg Embedded Image: /assets/img_posts/nwx2014_nikos_coaxys.jpg
+
+Nikos nous décrit son aventure dans la création de Coaxys
+
+Bertrand Keller [11] nous a présenté une approche très pragmatique pour améliorer et mesurer les performances d'un site avec son client. Il a mis en place, via une page html statique, un suivi très simple pour historiser et partager les indicateurs clefs.
+
+
+
+=> /assets/img_posts/nwx2014_bertrand_mesuremoi.jpg Embedded Image: /assets/img_posts/nwx2014_bertrand_mesuremoi.jpg
+
+Betrand montre l'historique des performances suite à ses actions sur une page
+
+Dans le milieu de l'après midi, on a eu, pour moi, la meilleure conférence de la journée avec Ivan Dalmet [12], designer chez Gabel. En 15 mn, il a présenté les principes d'ergonomie tout en donnant quelques astuces. Je sens qu'on va le revoir au JUG, à NWX ou à Codeurs en Seine en fin d'année.
+
+
+
+=> /assets/img_posts/nwx2014_affordance.jpg Embedded Image: /assets/img_posts/nwx2014_affordance.jpg
+
+Clin d'oeil pour l'équipe de Masternaut Louviers
+
+Enfin, pour les non-initiés du monde des intégrateur web, Alexandre Ronsault nous a fait découvrir comment la conception se passe entre l'intégrateur et le client (...le .psd =  le contrat...). Il a proposé quelques pistes d'intégration comme travailler le wireframe directement en html plutôt que de faire du balsamiq.
+### Conclusion
+La journée s'est terminé par quelques conférences en plénière avec notamment celle de Emmanuel Assié [13] sur la pollution cachée que génère nos programmes informatiques. Par exemple, entre 2 développeurs on peut avoir un rapport de 1 à 10 selon la qualité du code. Je vous ferais un retour sur ce livre [14] bientôt.
+Enfin les politiques ont terminé avec discours très court! (ouf!)
+Pour conclure, quelques idées à prendre pour codeurs en seine : 1/ prévoir des auto-collants pour l'aspect communautaire et marketing. 2/ l'idée du traiteur de donner des doggy-bag sur les restes du buffets.
+
+
+
+## References
+
+=> http://www.nwx.fr/ [5] Normandy Web Expert (http://www.nwx.fr/)
+=> http://www.normandyjug.org [6] normandy jug (http://www.normandyjug.org)
+=> http://www.codeursenseine.com [7] codeurs en seine (http://www.codeursenseine.com)
+=> https://twitter.com/Apollo_Net [8] Alexandre Ronsault (https://twitter.com/Apollo_Net)
+=> https://twitter.com/nikosaillard [9] Nicolas Saillard (https://twitter.com/nikosaillard)
+=> http://www.normandyjug.org/naug/ [10] NAUG (http://www.normandyjug.org/naug/)
+=> https://twitter.com/bertrandkeller [11] Bertrand Keller (https://twitter.com/bertrandkeller)
+=> https://twitter.com/IvanDalmet [12] Ivan Dalmet (https://twitter.com/IvanDalmet)
+=> https://twitter.com/emmanuel_assie [13] Emmanuel Assié (https://twitter.com/emmanuel_assie)
+=> http://www.amazon.fr/gp/product/2212135750/ [14] ce livre (http://www.amazon.fr/gp/product/2212135750/)
+---
+
+
+=> /2014/07/une-journee-a-seine-innopolis/index.gmi ← Suivant: Une journée à Seine Innopolis
+=> /2014/06/domotique-intro/index.gmi → Précédent: Domotique - Petite introduction
+=> / Revenir à l'accueil

@@ -1,0 +1,34 @@
+# Renforcement de l'équipe de Driveo
+
+
+
+
+
+
+[
+
+=> /assets/external/1.bp.blogspot.com/_7LQ1EXHnw30/S8SB6_XHtxI/AAAAAAAADeg/qrI8l9vf2Oc/s1600/logo_chroC_border.png Embedded Image: /assets/external/1.bp.blogspot.com/_7LQ1EXHnw30/S8SB6_XHtxI/AAAAAAAADeg/qrI8l9vf2Oc/s1600/logo_chroC_border.pngComme annoncé lors de mon interview par Ludovic Passamonti, l'équipe de Driveo s'est agrandie avec un responsable commercial.
+
+Et c'est un breton, Benoît Morin, l'ancien gérant de Dom Services Concept [2] (une société de service à la personne basé sur des processus développement durable) qui nous rejoint.
+
+Il est chargé du développement commercial de Driveo [3] et s'est déjà chargé entre autre de refaire les mailings (texte, processus de relance, etc...). On a même eu le temps d'avoir des débats avec des points de vues très orienté commercial versus développeur.
+
+L'agrandissement de l'équipe, va me permettre de me concentrer sur le développement de davantage de fonctionnalités et sur la qualité du logiciel de gestion d'auto-école en ligne [4] qu'est Driveo. Sauf que ... avec la multiplication des contacts clients, la roadmap a été bousculée et j'ai deux fois plus de fonctionnalités à développer.
+
+Dans tous les cas, c'est une année importante pour le développement de la société. Avec les contributions de Benoît, Driveo approche de la phase de maturité en s'améliorant de semaine en semaine.
+
+Sur ce, bienvenue à Benoît, le nouveau responsable commercial de Driveo!
+
+
+
+## References
+
+=> http://www.domservicesconcept.fr/ [2] Dom Services Concept (http://www.domservicesconcept.fr/)
+=> http://www.driveo.fr [3] Driveo (http://www.driveo.fr)
+=> http://www.driveo.fr [4] logiciel de gestion d'auto-école en ligne (http://www.driveo.fr)
+---
+
+
+=> /2010/05/club-business-76/index.gmi ← Suivant: Club Business 76
+=> /2010/03/interview-par-ludovic-passamonti/index.gmi → Précédent: Interview par Ludovic Passamonti
+=> / Revenir à l'accueil

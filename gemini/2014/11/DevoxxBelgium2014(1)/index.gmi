@@ -1,0 +1,196 @@
+# Devoxx Belgium 2014 (1)
+
+
+
+
+Voici le retour de ma première journée à Devoxx Belgique.
+
+    
+        ### Keynotes
+        Devoxx s'étends au fur et à mesure sur l'ensemble de l'europe. Après Anvers, Paris et Londres, en juin prochain il y aura un devoxx pologne à Cracovie (krakow).
+        Red Hat digère ses différents rachats et nous propose un PAAS (platform de développement dans les nuages). Au programme de programmation d'application mobile et un middleware basé sur activemq et camel (donc du rachat de fuse source) avec à priori un éditeur en ligne.
+        Oracle ramène peu à peu Java dans son objectif initial des années 90 ... dans l'embarqué : microcontrolleur, internet des objets, voitures...
+    
+    
+        
+            
+
+=> /assets/img_posts/devoxx14-gareanvers.jpg Embedded Image: /assets/img_posts/devoxx14-gareanvers.jpg
+            
+La gare d'Anvers
+        
+    
+
+
+    
+### Apache Mesos / Cluster
+Une présentation de mesos par un petit français @samklr [9]. Mesos est un manageur de conteneurs qui fourni une API utilisable par un orchestrateur de jobs.
+Cela permet de passer outre les limites du partionning statique et de lisser et optimiser l'utilisation des ressources des serveurs. On va pouvoir ainsi balancer la charge des jobs sur des contenaires dédiés.
+Mesos est de la fondation apache et a été mis à l'épreuve du feu de Twitter & AirBnB. Il est testable sur la plateforme de google si j'ai bien compris.
+Le système de containeur s'est d'abord basé sur LXC pour aller ensuite vers c-groups. Zookeeper est utilisé pour la gestion de la haute disponibilité. Cette année le support de docker a été ajout, ainsi les 2 systèmes de containers peuvent cohabiter derrière l'API de Mesos.
+Dans les type containeurs, on a tous un écosystème. Example Marathon pour des services qui se lance dans la durée (exemple un site web). A contrario l'orateur ne conseille pas d'héberger de base de données dans les containeurs. 
+Plus d'information : Mesos [10] Mesosphere [11]
+    
+    
+        
+            
+
+=> /assets/img_posts/devoxx14-mesos.jpg Embedded Image: /assets/img_posts/devoxx14-mesos.jpg
+            
+L'architecture globale de mesos
+        
+    
+
+
+    
+        ### Chet Haase - Process, Process, Process
+        Une session "détente" qui démontre par l'absurde la bétise de pas mal de sociétés et des boites de conseils. Les qualités de Stand up de Chet Haase font tout le travail.
+    
+    
+        
+            
+
+=> /assets/img_posts/devoxx14-bugs.jpg Embedded Image: /assets/img_posts/devoxx14-bugs.jpg
+            
+Plus il y a de lignes de codes, plus il y a de bugs, il faut donc écrire moins de code
+        
+    
+
+
+    
+    ### Probably, Definitively, Maybe
+    C'est la présentation qui pique avec beaucoups de théorie mathématiques :
+    
+        la description des différentes variantes de le l'algo de classification de Bayes,
+        la prise de décision avec le modèle de Markov,
+        les filtres de kalman qui est très robuste et utilisés par la Nasa et l'armée depuis longtemps.
+    
+    La présentation aurait gagné à être accessible en mettant 50% de théorie et 50% d'exemple. Le trop de théorie m'a rappelé la prépa et l'école d'ingénieur.
+    
+    
+        
+            
+
+=> /assets/img_posts/devoxx14-ml.jpg Embedded Image: /assets/img_posts/devoxx14-ml.jpg
+            
+Slide en mode tableau noir pour bien te rappeler l'école
+        
+    
+
+
+    
+### Web performance tuning
+C'est la session qui m'a le plus intéressé. Au final très peu de technique, mais une description très clair d'une approche d'amélioration des performances d'une application web.
+La première chose c'est de s'entendre avec les utilisateurs sur ce qui est lent. Cela demande des efforts des 2 cotés pour avoir un langage commun. Du coté utilisateur, il faut partir du "c'est lent" à combien, quelle unité et quelles attentes. Du coté développeur, ne pas partir trop tôt dans une mauvaise direction, prendre la donnée et résoudre les vrais goulots d'étranglement
+L'approche est globalement la suivante :
+
+    Collecter les données (et prendre uniquement ce que l'on a besoin)
+    
+         Réseau : tester dans les 2 sens et prendre en compte les accès externes.
+         Serveur : utiliser les commandes linux.
+         JVM: paramètre du garbage collectors.
+         Containeur : attention aux sessions.
+         Cache : obligatoire mais à utiliser avec attention.y
+         Application : attention aux sérialisation en chaîne, ne pas se focaliser sur les requête longues, prendre en compte les volumes de requêtes.
+         Base de données, api externe : mesurer
+         Note 1 : une autre paire de yeux.
+         Note 2 : tout le monde ment, vérifier avec des données.
+    
+    Analyser :
+    
+         Ne pas se baser sur les préjugés (réseau parfait et stable etc...)
+         ne pas oublier les solutions altyernatives
+    
+    Retirer les goulots d'étranglement
+    
+        aller au dela de votre zone de confort : infra, réseau, virtualisation.
+        Ne pas copier bêtement des réglages de jvm et d'un poste de blog.
+        Aller chercher ce qu'il y aderrière les méthdoes opbjets que vous utiliser (exemple : JPA/Hibernate, arraylist et linked list).
+    
+
+Enfin lorsque que vous fournissez une API, vous ne pouvez prévoir comment elle va vraiment être utilisé, rendez-la configurable. Surtout fournissez des résultats de test de performance pour des scénarios précis.
+    
+    
+        
+            
+
+=> /assets/img_posts/devoxx14-perf.jpg Embedded Image: /assets/img_posts/devoxx14-perf.jpg
+            
+Step out of your confort zone
+        
+    
+
+
+    
+### Modern App Architecture
+Un talk un peu bizarre, la forme, l'humour, les anecdotes, l'énergie était très bonne, par contre c'était un peu vide et le vrai contenu à la fin est passé trop rapidement.
+On a eu un historique des archiectures web :
+
+    Le projet Xanadu : un web avant l'heure (1970) qui est sortie à la fin des années 2000 et qui s'est avéré être juste mauvais.
+    L'époque des pages statiques (geocities, mygale..).
+    Les serveur simple (cgi).
+    Les applications lourdes sur navigateurs (applet, flash, active-x).
+    Les serveurds complexes (jsp, jsf, php, ror, asp.net, tous les framework mvc web).
+    L'apparition des apis (http, soap) qui coincide avec l'arrivé du mobile
+
+Une définition de architecture est la suivante : ensemble des réponse que les développeurs vont poser lors du développement.
+Attention aux hypothèses fausses sur lesquels se repose de nombreuses architectures d'entreprise (cf illustration).
+Une architecture web moderne est maintenant une plateforme orienté développement sur laquel on a des objets métiers et un jeu de services à documenter propre au métier adressé.
+Cette architecture doit pouvoir s'adapter au mobile et au web dès le premier jour
+Sur les choix technologiques, c'est à vous de travailler en fonction du besoin (http, jms, hadoop, etc...)
+    
+    
+        
+            
+
+=> /assets/img_posts/devoxx14-modernarch.jpg Embedded Image: /assets/img_posts/devoxx14-modernarch.jpg
+            
+Les fausses opinions sur lesquelles se base beaucoup trop d'architectures
+        
+    
+
+
+    
+### ING / Transformation d'une DSI
+La journée s'est terminé par une keynote du CIO/DSI de chez ING direct. Il a expliqué comment il a transformé une DSI moribonde en une DSI qui tire le métiers vers de nouvelles pratiques avec leur client. Agilité, automatisation, dev ops et maintenant cloud privé ont participé à cette conduite du changement. Le mec va même jusqu'à présenter une slide d'architecture avec les technos cool du moment pour dire qu'il recrute les meilleurs ingénieurs possible. La performance est d'autant intéressante, qu'il est aveugle (on me l'a dit après) et que c'est le speakers qui a subit le plus de problèmes techniques (sono, vidéo). Une chose encore inimaginable en france ([troll]quoique il était plus visionnaire que de nombreux DSI français...[/troll]).
+Point notable et qu'on retrouvera dans plusieurs présentations, c'est la nouvelle séparation entre exploitation et développement. Il est basé sur modèle PaaS. L'exploitation est responsable de l'infrastructure, des OS et des serveurs d'app et de leur monitoring. De l'autre coté, les développeurs sont responsables du contenu(des applications), de son déploiement et de son monitoring.
+    
+    
+        
+            
+
+=> /assets/img_posts/devoxx14-ing.jpg Embedded Image: /assets/img_posts/devoxx14-ing.jpg
+            
+Ron Van Kemenade, le DSI d'ING
+        
+    
+
+
+    
+### Soirées et autours de Devoxx
+Devoxx est aussi un lieu de rencontre des différentes communautés : par pays, langue, technologies, associations. On y rencontre donc pas mal de personne qu'on suit sur twitter ("attends c'est lui @romaintaz ...").
+L'autre particularité, c'est que dans la génération des 30-40 ans il y a beaucoups de profils aux trajectoires alternatives (c'est à dire pas les 5 ans d'université et ou prepa/ecole ingé). Et la motivation et le travail a fait qu'ils sont maintenant dans les leaders technique d'une communauté.
+    
+    
+        
+            
+
+=> /assets/img_posts/devoxx14-kellies.jpg Embedded Image: /assets/img_posts/devoxx14-kellies.jpg
+            
+Le repère des frenchies francophones au Kelly's
+        
+    
+
+
+
+## References
+
+=> http://twitter.com/samklr [9] @samklr (http://twitter.com/samklr)
+=> http://mesos.apache.org/gettingstarted/ [10] Mesos (http://mesos.apache.org/gettingstarted/)
+=> http://mesosphere.com [11] Mesosphere (http://mesosphere.com)
+---
+
+
+=> /2015/08/DevoxxBelgium2014(2)/index.gmi ← Suivant: Devoxx Belgium 2014 (2)
+=> /2014/10/LeretourduNaug/index.gmi → Précédent: Le retour du Normandy Agile User Group
+=> / Revenir à l'accueil

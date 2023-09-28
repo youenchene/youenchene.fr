@@ -1,0 +1,36 @@
+# GWT avancé : Panel et rendu HTML
+
+
+
+
+
+
+[
+
+=> http://code.google.com/intl/fr/webtoolkit/images/gwt-logo.png Embedded Image: http://code.google.com/intl/fr/webtoolkit/images/gwt-logo.pngAfin de compléter les nombreux articles de découverte et de tutoriaux sur GWT, voici le premier article d'une série nommé "GWT avancé".
+
+Pour rappel, GWT est un framework web et ajax de google qui génère votre site en javascript optimisé pour chaque navigateur à partir de code Java.
+
+Cet article va mettre en avant l'utilisation des panels dans GWT. En effet, il est possible d'utiliser une grande variété de panels : FlowPanel, HorizontalPanel, VerticalPanel; ScrollPanel, Grid, etc...
+
+Le premier réflexe que l'on entends dans les présentation, c'est de s'abstraire que le rendu (HTML dans un navigateur). Il suffit de programmer comme on fabrique une application SWT ou Swing  (Entendu dans des pres' de Sami Jaber [2]). Et bien après plus d'un an et demi sur ce framework, je pense que c'est une grosse bétise.
+
+Voici les éléments de mon explication :
+La plupart  des panels de GWT génèrent des tables par exemple si on fait un HorizontalPanel qui contient 2 VerticalPanel, cela génère une table qui contient 2 tables. (magnifique!)
+En conséquence, j'ai appliqué les 2 règles suivantes :
+Pour les données tabulaires (et uniquement pour cela),  j'utilise le Grid ou la FlexTable.Avec un peu de recul, ces 2 règles ont les bénéfices suivant :
+Un code plus compact (toutes les instructions de mise en page sont dans le CSS), les fichiers générés par GWT sont donc plus petits (donc plus rapide à charger pour l'utilisateur). C'est même plus rapide à programer.
+Et enfin une page plus accessible et lisible par les lecteurs audios de site web (pour les mal-voyants).
+Le prochain article parlera de GWT et de ses problèmes de référencement avec comment le mélanger avec une page statique pour la prise en compte de la partie AJAX et des intéractions.
+
+
+
+## References
+
+=> http://sites.google.com/a/breizhjug.org/home/2008/gwt [2] Sami Jaber (http://sites.google.com/a/breizhjug.org/home/2008/gwt)
+---
+
+
+=> /2009/02/salon-emarketing-et-soiree-connect/index.gmi ← Suivant: Salon emarketing et soirée connect
+=> /2009/01/interview-sur-intruderstv/index.gmi → Précédent: Interview sur Intruders.TV
+=> / Revenir à l'accueil

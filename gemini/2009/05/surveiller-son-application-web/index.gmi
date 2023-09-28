@@ -1,0 +1,221 @@
+# Surveiller son application web.
+
+
+
+
+
+
+Voici une revu des principales solutions de surveillance des applications webs.
+
+Cette article a été commencé il y a un an, afin de publier quelque chose (quand même!), j'ai du raccourcir certaines description et analyse de chaque produit.
+
+Ce type de solution permet d'effectuer les actions suivantes :pour mesurer le temps de réponse (aller-retour) du site.de fournir une API pour agréger l'information au seins de tableaux de bord.
+Je ne vais regarder uniquement les solutions hébergés sur un site tiers pour avoir un "regard extérieur" (le plus proche d'un utilisateur possible).
+
+Les qualités recherchés sont:une API,
+un coût faible.Les fonctionnalités avancés ne sont pas forcément recherchés.
+
+### Pingwy:Impression générale : Un des sites les plus clairs, la configuration d'un serveur ou d'un contact est très simple.
+
+Les alertes : SMS ou Email lors de la non disponibilité ou du rétablissement d'un serveur.
+
+[
+
+=> /assets/external/3.bp.blogspot.com/_7LQ1EXHnw30/Sglh1jgdbgI/AAAAAAAADCw/23V1a_RwBbE/s1600-h/Image+5.png Embedded Image: /assets/external/3.bp.blogspot.com/_7LQ1EXHnw30/Sglh1jgdbgI/AAAAAAAADCw/23V1a_RwBbE/s1600-h/Image+5.png
+
+[
+
+=> /assets/external/1.bp.blogspot.com/_7LQ1EXHnw30/SDr-1vAiVhI/AAAAAAAACGw/sYgmsEHId6k/s1600-h/P1030940.JPG Embedded Image: /assets/external/1.bp.blogspot.com/_7LQ1EXHnw30/SDr-1vAiVhI/AAAAAAAACGw/sYgmsEHId6k/s1600-h/P1030940.JPG[
+
+=> /assets/external/1.bp.blogspot.com/_7LQ1EXHnw30/SDr_DvAiViI/AAAAAAAACG4/O7sSsrlNncI/s1600-h/P1030951.JPG Embedded Image: /assets/external/1.bp.blogspot.com/_7LQ1EXHnw30/SDr_DvAiViI/AAAAAAAACG4/O7sSsrlNncI/s1600-h/P1030951.JPG
+
+Les rapports : Un rapport hebdomadaire par email.
+
+[
+
+=> /assets/external/1.bp.blogspot.com/_7LQ1EXHnw30/SgliHExVmNI/AAAAAAAADC4/GwoBlPlpGqk/s1600-h/Image+6.png Embedded Image: /assets/external/1.bp.blogspot.com/_7LQ1EXHnw30/SgliHExVmNI/AAAAAAAADC4/GwoBlPlpGqk/s1600-h/Image+6.png
+Lieu de surveillance possible : Paris, Philadelphie, Singapour.
+
+Coût :
+
+Offre de base 4 € / mois:
+1 url.
+5 SMS par mois.
+A partir de 14,90 € par mois pour 2 urls, une vérification de mots clés et 20 sms.
+
+A partir de 29,90 € par mois pour du HTTPS, 2 utilisateurs et 3 urls.
+
+Les SMS supplémentaire sont sur devis.
+
+Fiche des offres [7]
+
+API : Non.
+
+Bilan : Pro, simple et efficace, très peu d'effort de configuration à faire. Dommage que les prix ne soient pas en $ ;-). L'absence de HTTPS dans les 2 premiers forfaits est un point faible. L'absence d'API est aussi un point faible.
+
+
+### Pingdom:Les alertes : SMS et/ou Email lors de la non disponibilité ou du rétablissement d'un serveur.
+
+Les rapports : Un rapport hebdomadaire par email.
+
+Lieu de surveillance possible :
+Reading, England
+Coût :
+
+2 forfaits comprenant :
+Intervalle de 1mn à 60mn.Le forfait basic comprend 20 sms avec des SMS supplémentaires à 0,45 $. 5 urls. Le forfait est à 9,95 $.
+
+Le forfait business comprend 200 ms avec des SMS supplémentaires à 0,20 $. 30 urls. Le forfait est à 39,95 $.
+
+Fiche des tarifs [8]
+
+API : Oui.
+
+### Site 24x7:Impression générale : L'organisation du site n'est forcément très intuitive. Par contre, il est très léger, ce qui ets utile qd il faut aller chercher des infos en cas de problème avec une petite connexion.
+
+Les alertes : SMS et/ou Email lors de la non disponibilité ou du rétablissement d'un serveur.
+
+Les rapports : Un rapport hebdomadaire par email.
+
+[
+
+=> /assets/external/3.bp.blogspot.com/_7LQ1EXHnw30/SglKZoyBB4I/AAAAAAAADCg/clfQPY1DVKE/s1600-h/Image+2.png Embedded Image: /assets/external/3.bp.blogspot.com/_7LQ1EXHnw30/SglKZoyBB4I/AAAAAAAADCg/clfQPY1DVKE/s1600-h/Image+2.png
+Lieu de surveillance possible : US en compte gratuit et standard. Sinon Californie, New Jersey, Singapoure, Texas, Pays Bas et Londres.
+
+Coût :
+
+Pas de forfait, mais la moindre option est payante.
+
+0 $ / 0.5 $ / 2.5 $ par mois par url (Free/Standard/Premium) pour un délai de vérification de 60 mn.
+
+4 $ / 6 $ par mois par url Standard/Premium) pour un délai de vérification de 5 mn.
+
+Des packs de SMS à partir de 10 $ (0,20$ par SMS).
+
+HTTPS disponible dès le compte gratuit.
+
+Vérification d'un mot clés disponible dès le compte gratuit.
+
+Les fonctions avancées sont :
+Analyse de page web: de 3,5 $ à 14 $ par mois par url (de 60 min à 5 min d'intervalle).Fiche des tarifs [9]
+
+API : Oui.
+
+Bilan : La tarification est intéressante mais pas de site de surveillance en France.
+
+
+### ServiceUptime:Les alertes : SMS et/ou Email lors de la non disponibilité ou du rétablissement d'un serveur.
+
+Les rapports : Un rapport hebdomadaire par email.
+[
+
+=> /assets/external/4.bp.blogspot.com/_7LQ1EXHnw30/SglhQm5-ZhI/AAAAAAAADCo/JygbdtFGnXM/s1600-h/Image+3.png Embedded Image: /assets/external/4.bp.blogspot.com/_7LQ1EXHnw30/SglhQm5-ZhI/AAAAAAAADCo/JygbdtFGnXM/s1600-h/Image+3.png
+Lieu de surveillance possible : Californie, Texas, Floriden New Jersey, Quebec, Florence (Italie), Stratford (UK), Amsterdam, Singapour , Tokyo, Brisbane.
+
+Coût :
+
+Des forfaits de 4,95$ à 52,5$. La tarfication est intéressante car elle permet un compromis entre l'intervalle et le nombre d'urls (exemple:  10 urls toutes les 60mn à 1 urls toutes les 3 mn).
+
+Un compte gratuit [10] (il faut qd même acheterd des packages de SMS pour les alertes) permet de vérifier une url avec un intervalle de 30 mn.
+
+HTTPS et vérification de mots clés disponibles sur tous les packages.
+
+Toutes options sont disponible pour chaque package.
+
+Les SMS sont par packages (10 SMS à 0,20$ le SMS  / 100 SMS à 0,16 $ le SMS).
+
+Fiche de tarifs [11]
+
+API : Non.
+
+### Site UptimeLes alertes : SMS et/ou Email lors de la non disponibilité ou du rétablissement d'un serveur.
+
+Les rapports : Oui.
+
+Lieu de surveillance possible : New York, USA, San Francisco, USA, Chicago, USA, London, UK
+
+Coût :
+3 Forfaits : un gratuit, un à 5 $/mois, un à 10$/mois.
+
+Les SMS sont à l'unité (0,20$).
+
+Fiche de tarifs [12]
+
+API : Oui.
+
+
+
+Coût SMS
+ 5 ou 20/mois sur devis
+Oui
+9,95 à 29,95 $
+ 20 ou 200 SMS, 0,45 $
+
+Oui
+Premium
+Non
+Oui
+1 à 18 $ par url (selon intervalle de vérif)
+0,20 $ /SMS
+Non
+4,95 à 52,5 $
+0,20 $ /SMS
+Oui
+5 à 10 $
+0,20 $ /SMS
+
+
+
+
+
+
+  
+  
+  
+    olivier / 42
+  
+  
+  
+    2009-05-12T16:08:00.000Z
+  
+  
+  
+    Interesant ! Ca mériterait un petit tableau récapitulatif.
+  
+  
+
+
+
+  
+  
+  
+    Youen
+  
+  
+  
+    2009-05-13T07:34:00.000Z
+  
+  
+  
+    Et voila (je repasserai pour le rednre + joli).
+  
+  
+
+
+
+
+
+## References
+
+=> http://www.pingwy.com/produits/monitoring_recap.php [7] Fiche des offres (http://www.pingwy.com/produits/monitoring_recap.php)
+=> http://www.pingdom.com/services/packages/ [8] Fiche des tarifs (http://www.pingdom.com/services/packages/)
+=> http://site24x7.com/site24x7-pricing.html [9] Fiche des tarifs (http://site24x7.com/site24x7-pricing.html)
+=> http://www.serviceuptime.com/free_monitoring.php [10] Un compte gratuit (http://www.serviceuptime.com/free_monitoring.php)
+=> http://www.serviceuptime.com/pricing.php#monitoring_services_comparison [11] Fiche de tarifs (http://www.serviceuptime.com/pricing.php#monitoring_services_comparison)
+=> http://www.siteuptime.com/compare.php [12] Fiche de tarifs (http://www.siteuptime.com/compare.php)
+---
+
+
+=> /2009/05/premiere-session-du-normandy-jug-et/index.gmi ← Suivant: Première session du Normandy JUG (et autres rencontres).
+=> /2009/05/ouverture-de-la-v2-de-fermiers-da-cote/index.gmi → Précédent: Ouverture de la V2 de fermiers d'à côté
+=> / Revenir à l'accueil

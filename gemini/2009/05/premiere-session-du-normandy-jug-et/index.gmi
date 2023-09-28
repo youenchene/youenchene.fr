@@ -1,0 +1,34 @@
+# Première session du Normandy JUG (et autres rencontres).
+
+
+
+
+
+
+[
+
+=> http://www.normandyjug.org/ Embedded Image: http://www.normandyjug.org/ aura lieu le mardi 16 juin au pole normand à 19h au pôle normand (Zone d'activité de la Vatine à Rouen/Mont Saint Aignan).
+
+Au programme, nous avons prévu 2 présentations. Une première "battle" GWT versus Wicket avec Nicolas Giard de NooCode Commit [2] (pour Wicket) et moi même (pour GWT). Elle vous permettra de mieux connaître ces deux frameworks Web et de savoir quand utiliser chacun des deux. La deuxième présentation concernera l'intégration continu avec Dimitri Baeli [3] de Exo Platform France [4] et Laurent Deséchalliers [5] (à confirmer).
+
+L'inscription est rapide et se déroule sur cette page [6], elle est ouverte à tout le monde.
+
+Au passage, le 9 juin sur Rouen, Proxiad organise le JEE Productivity Tour [7] avec SpringSource, l'inscription est disponible sur cette page [8].
+
+
+
+## References
+
+=> http://www.noocodecommit.com/blog/nicogiard/ [2] NooCode Commit (http://www.noocodecommit.com/blog/nicogiard/)
+=> http://twitter.com/dbaeli [3] Dimitri Baeli (http://twitter.com/dbaeli)
+=> http://www.exoplatform.com [4] Exo Platform France (http://www.exoplatform.com)
+=> Laurent%20Desechallier [5] Laurent Deséchalliers (Laurent%20Desechallier)
+=> http://www.jugevents.org/jugevents/event/16819 [6] sur cette page (http://www.jugevents.org/jugevents/event/16819)
+=> http://www.javaee-productivitytour.com/normandie/ [7] JEE Productivity Tour (http://www.javaee-productivitytour.com/normandie/)
+=> http://www.javaee-productivitytour.com/normandie/ [8] sur cette page (http://www.javaee-productivitytour.com/normandie/)
+---
+
+
+=> /2009/05/ouverture-de-driveo-la-gestion-facile/index.gmi ← Suivant: Ouverture de Driveo : la gestion facile pour les auto écoles
+=> /2009/05/surveiller-son-application-web/index.gmi → Précédent: Surveiller son application web.
+=> / Revenir à l'accueil

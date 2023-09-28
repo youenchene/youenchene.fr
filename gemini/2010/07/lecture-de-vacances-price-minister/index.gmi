@@ -1,0 +1,34 @@
+# Lecture de vacances : Price Minister - Toutes les entreprises ont été petites un jour
+
+
+
+
+
+
+[
+
+=> http://www.amazon.fr/gp/product/2916628169?ie=UTF8&amp;tag=yetanotentrbl-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=2916628169 Embedded Image: http://www.amazon.fr/gp/product/2916628169?ie=UTF8&amp;tag=yetanotentrbl-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=2916628169Pendant les vacances rien de tel qu'un livre d'un entrepreneur qui a réussi pour être gonflé à bloc pour affronter les réalités du marché au retour des vacances.
+
+Le livre Priceminister : Toutes les entreprises ont été petites un jour [3]
+
+=> http://www.usinenouvelle.com/article/priceminister-repris-par-le-japonais-rakuten.N133869 Embedded Image: http://www.usinenouvelle.com/article/priceminister-repris-par-le-japonais-rakuten.N133869 quelques semaines après la sortie du livre.
+
+Le livre est très romancé et se lit très vite. Les comparaisons avec le rugby n'étant pas pour me déplaire. L'auteur, Pierre Kosciusko-Morizet [4], laisse transparaître les deux points suivant de son livre :
+plus que l'idée (elle existait déjà aux US), c'est le travail qui fait qu'une entreprise se développe correctement.Avec mon point de vue technique d'architecte du Système d'Information, en 2010, techniquement il est beaucoup plus simple de mettre en place une architecture pour le web (Cloud computing, technologie Open Source mature ... notamment au niveau de l'écosystème Java - Price Minister est repose sur du Java).
+
+Enfin, le livre souffre de quelques manques qui m'aurait intéressé comme la mise en place des comptes séquestres avec les banques (qui a du être difficile à négocier ... car c'est la clef du système de garantie de Price Minister) et le départ d'un des fondateurs Nathalie (une ligne dans le livre).
+
+PS: c'est en lisant le livre que j'ai découvert que l'ajout d'annonce était simplifié par la saisie du code barre. Avec 2 étagères de livres à faire disparaitre et moi qui n'avais pas le courage de saisir les annonces de livres sur le bon coin ou ebay, j'ai peux être trouvé une solution rapide.
+
+
+
+## References
+
+=> http://www.amazon.fr/gp/product/2916628169?ie=UTF8&amp;tag=yetanotentrbl-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=2916628169 [3] Priceminister : Toutes les entreprises ont été petites un jour (http://www.amazon.fr/gp/product/2916628169?ie=UTF8&amp;tag=yetanotentrbl-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=2916628169)
+=> http://fr.wikipedia.org/wiki/Pierre_Kosciusko-Morizet [4] Pierre Kosciusko-Morizet (http://fr.wikipedia.org/wiki/Pierre_Kosciusko-Morizet)
+---
+
+
+=> /2010/07/nettoyage-dete-je-revends-de-nombreux/index.gmi ← Suivant: Nettoyage d'été : je revends de nombreux livres orientés entreprises ou informatique
+=> /2010/07/ameliorer-sa-productivite-2-outils/index.gmi → Précédent: Améliorer sa productivité, 2 outils : Evernote et Dropbox
+=> / Revenir à l'accueil

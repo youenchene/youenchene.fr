@@ -1,0 +1,36 @@
+# De la simplicité ... bordel!
+
+
+
+
+
+
+Afin de rebondir sur le dernier article du blog de octo [1], je vais prendre quelques mots pour défendre l'importance de la simplicité dans la construction d'un projet (informatique ou non).
+
+Quand je parle de simplicité, c'est à la fois en terme de périmètre de fonctionnalités (iPod a conquis le marché en ayant moins de la moitié des fonctionnalités des autres baladeurs), d'interface (Google versus MSN) et d'implémentation (programmation élégante à base de patron connus - design patterns).
+
+La simplicité en terme de fonctionnalités me rappelle l'histoire,  du photocopieur low cost chez Canon. A force d'échec en essayant de simplifier les tambours des  photocopieurs du marché (un travail non naturel pour des ingénieurs), les équipes sont parties d'une canette pour la transformer en tambour*. Le cadrage initial d'un projet est donc important afin de réduire le périmètre de fonctionnalités. Ce constat est renforcé par le fait que 1) plus le projet est gros moins il a de chance d'arriver dans les délais prévus ou même à son terme, 2) il est est préférable d'avoir 50% des fonctionnalités qui marche bien que 100% des fonctionnalités qui fonctionne à 50%**.
+
+La simplicité en terme d'interface est ce sur quoi je m'attache pour la v2 de fermiers d'à côté [2]. En effet, essayer de montrer un maximum de choses avec un maximum d'animation n'est pas vraiment la meilleure approche, surtout dans le web. Un site en flash comme celui de Nike + m'énerve de plus en plus, c'est lent, pas très pratique mais c'est agréable à regarder (ca fait wow comme ... Vista). Au contraire, partir d'une interface dépouillée, claire, peu agressive et surtout rapide à charger est nettement plus agréable pour l'utilisateur (les sites de Google et Amazon sont des exemples de réussite).
+
+La simplicité en terme d'implémentation est souvent mis en avant par les sociétés chez qui je travaille avec Logica Management Consulting . Tout le monde a peur de l'usine à gaz dans un monde de l'informatique qui est à une époque de pré industrialisation des métiers (même si j'ai des doutes sur l'industralisation d'un métier créatif que ce les ingénieurs et les développeurs ... j'y reviendrai un jour). Ce point peut se résoudre en 2 aspects, 1) l'utilisation de patrons d'architecture (EIP [3]) et de de patrons de de développement (Design patterns [4]) 2) l'amélioration continue pour simplifier et améliorer avec le temps les entrailles d'un projet informatiques (...le code). Le problème est que sur les projets informatique effectués par des prestataires, on recherche des intervenants de moins en moins chère en particulier dans la phase de maintenance (post mise en production), donc soit peu expérimenté ou soit moins compétent.
+
+* La connaissance créatrice [5]
+** Getting real de 37 signals [6]
+
+
+
+## References
+
+=> http://blog.octo.com/de-la-simplicite/ [1] dernier article du blog de octo (http://blog.octo.com/de-la-simplicite/)
+=> http://www.fermiersdacote.fr/ [2] fermiers d'à côté (http://www.fermiersdacote.fr/)
+=> http://www.enterpriseintegrationpatterns.com/toc.html [3] EIP (http://www.enterpriseintegrationpatterns.com/toc.html)
+=> http://fr.wikipedia.org/wiki/Design_pattern [4] Design patterns (http://fr.wikipedia.org/wiki/Design_pattern)
+=> http://books.google.fr/books?id=gy5oY0-ZcsEC&amp;pg=PA87&amp;vq=canette&amp;source=gbs_search_s&amp;cad=0 [5] La connaissance créatrice (http://books.google.fr/books?id=gy5oY0-ZcsEC&amp;pg=PA87&amp;vq=canette&amp;source=gbs_search_s&amp;cad=0)
+=> http://gettingreal.37signals.com/ [6] Getting real de 37 signals (http://gettingreal.37signals.com/)
+---
+
+
+=> /2009/03/creation-du-normandy-jug/index.gmi ← Suivant: Création du Normandy JUG
+=> /2009/02/salon-emarketing-et-soiree-connect/index.gmi → Précédent: Salon emarketing et soirée connect
+=> / Revenir à l'accueil

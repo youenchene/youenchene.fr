@@ -1,0 +1,159 @@
+# San Francisco and the Valley - Week 2 and 3
+
+
+
+
+Deuxième et dernier article sur ces trois semaines à San Francisco et la "Bay Area". C'est le suite de cet article [13]
+
+
+## La diaspora française
+La silicon vallée est un pays d'immigrés, on y rencontre des personnes du monde entier. La france y est bien représenté dans le monde des ingénieurs et des commerciaux. C'est une opportunité à utiliser, surtout que le programme Impact USA nous permet de rencontrer des personnes clefs de cette diaspora. Le mauvais coté, c'est que certains jours on ne peut parler que français.
+Dans tous les cas c'est un avantage, qu'il ne faut pas négliger, toutes les communautés le font.
+## Les espaces de travail et le recrutement
+Cette diaspora française nous a permis de visiter quelques startups. Chez Saagie [15] #14, j'essaye d'avoir des conditions au top comme de vrais chaises/fauteuils, bureaux debouts, télétravail, fruits/chocolats/boissons à volontés. C'est vrai ... pour les critères de la région normande. Dans la vallée la pression de recrutement est telle que c'est juste la base. Tous est fait pour que reste au travail. Salle pour le petit déjeuner avec tous les céréales possibles, commande de repas à volonté, jeux de basket type fête foraine, instruments de musiques, consoles de jeux, grands espaces de repos, décoration fun et agréable et des détails comme des tapis renforcé de 3 cm d'épaisseur pour ne pas s'abimer les talons pour ceux qui travail en mode bureau debout. Bref cela respire l'abondance, voir l'indécence par rapport aux différences économiques entre les populations.
+A noter que par le biai de quelques connaissances (i.e. la diaspora française), il est très facile de s'inviter pour visiter les startups.
+
+    
+      
+          
+
+=> /assets/img_posts/sfw2/pocketgems1.jpg Embedded Image: /assets/img_posts/sfw2/pocketgems1.jpg
+          
+Notre hôte à Pocket Gems
+      
+    
+    
+      
+          
+
+=> /assets/img_posts/sfw2/pocketgems7.jpg Embedded Image: /assets/img_posts/sfw2/pocketgems7.jpg
+          
+Besoin d'un adaptateur de mac? (Pocket Gems)
+      
+    
+    
+      
+          
+
+=> /assets/img_posts/sfw2/pocketgems2.jpg Embedded Image: /assets/img_posts/sfw2/pocketgems2.jpg
+          
+On peut même décorer la QA (Pocket Gems)
+      
+    
+    
+      
+          
+
+=> /assets/img_posts/sfw2/algolia2.jpg Embedded Image: /assets/img_posts/sfw2/algolia2.jpg
+          
+Le bureau debout : la base (Algolia)
+      
+    
+    
+      
+          
+
+=> /assets/img_posts/sfw2/pocketgems6.jpg Embedded Image: /assets/img_posts/sfw2/pocketgems6.jpg
+          
+Choisi ta marque de céréales (Pocket Gems)
+      
+    
+    
+      
+          
+
+=> /assets/img_posts/sfw2/segment1.jpg Embedded Image: /assets/img_posts/sfw2/segment1.jpg
+          
+Les locaux de Segment
+      
+    
+    
+      
+          
+
+=> /assets/img_posts/sfw2/pocketgems5.jpg Embedded Image: /assets/img_posts/sfw2/pocketgems5.jpg
+          
+Un petit creu? (Pocket Gems)
+      
+    
+    
+      
+          
+
+=> /assets/img_posts/sfw2/pocketgems3.jpg Embedded Image: /assets/img_posts/sfw2/pocketgems3.jpg
+          
+Consoles, musiques, TV, canap... (Pocket Gems)
+      
+    
+    
+      
+          
+
+=> /assets/img_posts/sfw2/pocketgems8.jpg Embedded Image: /assets/img_posts/sfw2/pocketgems8.jpg
+          
+No comment... (Pocket Gems)
+      
+    
+
+## Une maturité technologique
+Dans le cadre de Saagie [15] #14, j'ai effectué pas mal de démonstrations et d'échanges pour avoir du feedback sur le produit. Ce qui est marquant, c'est que les retours que j'ai eu sont en fait des demandes de fonctionnalités qui montre une grande maturité en terme de gestion de traitements big data. Je peut déjà programmer les demandes que j'aurai d'ici 12-18 mois en France!
+Ensuite, en france on commence à parler de Serverless depuis un peu moins de 6 mois. Ici c'est la norme pour une startup qui se monte. Amazon Web Services est le standard ici, même si les personnes içi font quand même attention à ne pas trop utiliser les parties propriétaires. Pour vous montrer l'ordre d'idée, j'ai discuté avec un startup, Backand [16], que fait un outil de debugging pour AWS Lambda [17] (fonctions serverless d'amazon). Une niche de niche me direz vous, mais ils ont quand même levé près de 2 millions d'euros.
+
+## La hype sur l'AI
+Un de défaut de la tech est qu'elle subit des effets de mode. La silicon vallée est une énorme caisse de résonnance de ces effets de mode/hype.
+La hype du moment c'est l'AI. C'est un sujet que je connais bien. C'est très proche de mon projet de fin d'étude en 2003 chez le elab de bouygues sur bayes. Je baigne dedans depuis 3 ans avec Saagie c'est maintenant un sujet courant dans les conférences europèennes. C'est un sujet connu par les universités française (on a le LITIS [18] à rouen).
+Là, le marketing US est passé dessus. Le terme est maintenant fourre tout et hyper galvaudé. Je pas vraiment vu de différence de niveau scientifique par rapport à la france (à part les volumes de données exploités pour l'apprentissage ou le traitement temps réel). C'est la nouvelle technologie qui va tout révolutionner et sauver le monde... blablabla.
+Toujours est il est que quand vous tomber sur un data scientist vous avez de très bonne chance pour qu'il soit français. Du coups, avec cette hype, les startups et les ingénieurs français ont de très bonne carte à jouer! Vraiment!
+## De chercheur à CEO
+Dans la même continuité, on croise beaucoup de CEO de startup US qui sont d'anciens chercheurs de Stanford ou de Berkeley. Le risque est accepté et la porosité des milieux est très intéressante. Un ancien chercheur CEO qui met la pression sur son VP Sales, c'est changement culturel important par rapport à la France. A quand un Stéphane Canu [19] ou un Gilles Gasso [20] CEO (2 enseignants chercheurs data science de l'INSA et du LITIS)!
+
+
+
+    
+      
+          
+
+=> /assets/img_posts/sfw2/stanford1.jpg Embedded Image: /assets/img_posts/sfw2/stanford1.jpg
+          
+A l'entrée de Stanford
+      
+    
+    
+      
+          
+
+=> /assets/img_posts/sfw2/stanford2.jpg Embedded Image: /assets/img_posts/sfw2/stanford2.jpg
+          
+Un camps de vacances, ah non Stanford!
+      
+    
+    
+      
+          
+
+=> /assets/img_posts/sfw2/goldengate.jpg Embedded Image: /assets/img_posts/sfw2/goldengate.jpg
+          
+Golden gate dans la brume
+      
+    
+  
+
+
+
+
+## References
+
+=> /2017/05/2017-05-14-SanFranscicoAndTheValley-Week1.html [13] cet article (/2017/05/2017-05-14-SanFranscicoAndTheValley-Week1.html)
+=> https://www.saagie.com [14] Saagie (https://www.saagie.com)
+=> https://www.saagie.com [15] Saagie (https://www.saagie.com)
+=> https://backand.com/ [16] Backand (https://backand.com/)
+=> https://aws.amazon.com/fr/lambda/ [17] AWS Lambda (https://aws.amazon.com/fr/lambda/)
+=> www.litislab.eu [18] LITIS (www.litislab.eu)
+=> http://asi.insa-rouen.fr/enseignants/~scanu/ [19] Stéphane Canu (http://asi.insa-rouen.fr/enseignants/~scanu/)
+=> http://asi.insa-rouen.fr/enseignants/~gasso/ [20] Gilles Gasso (http://asi.insa-rouen.fr/enseignants/~gasso/)
+---
+
+
+=> /2023/07/18/Voyage-au-Pays-du-HCNE/index.gmi ← Suivant: Voyage au pays du HCNE
+=> /2017/05/2017-05-14-SanFranscicoAndTheValley-Week1/index.gmi → Précédent: San Francisco and the Valley - Week 1
+=> / Revenir à l'accueil

@@ -1,0 +1,167 @@
+# Devoxx Belgium 2014 (2)
+
+
+
+
+Note : gros retard sur mon blog, je profite de l'acalmie du mois d'Août pour le mettre à jour. Quelques articles un peu décalés dans le temps...
+
+Le résumé de la deuxième journée à Devoxx Belgique.
+### Keynote - Google Material design
+La journée a commencé avec une revue des principes de material design. Il faut que je vérifie une chose, coté web est-ce qu'on aura un framework à bootstrap permettant une intégration facile?
+### Angular at scale
+Une présentation bizarre, elle aurait pu se résumer en 3 slides.
+Ils ont présenté comment ils ont unifié les aspects présentations et comportement des composants en développant et documentant à la bootstrap une bibliothèque de directives/composants avec une grosse participation de spécialiste en ergonomie.
+Ainsi, les développeurs d'applications font un mashups des composants existants et ne réinvente pas la roue à chaque fois.
+Ils ont insisté sur l'utilisation d'outillage (les classiques grunt et bower) et sur la mise en places de test automatisés sur les composants (karma).
+Et c'est tout, rien sur l'organisation des projets, sur comment techniquement tu partages les directives. je suis donc resté sur ma fin.
+
+    
+        ### Growth Hacking
+        Je suis ensuite passé sur la track startup par une présentation sur comment hacker la croissance de sa société.
+        Pour cela, avant de se lancer dans la croissance, il est nécessaire que :
+        
+            le produit doit être bon avant de lancer une grosse compagne de publicité,
+            l'idée n'est rien, tout est dans l'exécution,
+            le marketing doit capter la valeur généré par l'exécution
+        
+        A ce moment, il est nécessaire de trouver des techniques de "rase campagne" sur chaque étape du tunnel de vente :
+        
+            acquisition,
+            activation,
+            retention,
+            revenue,
+            referal.
+        
+        Ensuite à vous de trouver les techniques nécessaire pour développer votre boite. Voici des exemples :
+        
+            Hotmail avait une petite phrase automatique à la fin de chaque mail,
+            AirBNB as utiliser différents hacks comme l'embauche de photographes professionnels et la publication automatique sur craiglist),
+            Booking.com met la pression sur les utilisateur en affichant le nombre de personnes regardant la chambre d'hôtel (chiffre bidon),
+            Ebay a forcé ses utilisateurs à utiliser paypal.
+        
+    
+    
+        
+            
+
+=> /assets/img_posts/devoxx14-growth.jpg Embedded Image: /assets/img_posts/devoxx14-growth.jpg
+            
+Equilibre entre produit et marketing
+        
+    
+
+
+    
+        ### Testing in agile context
+
+        Un retour intéressant, du leader d'une équipe de test/QA dans un monde ou le développement agile est la norme.
+        Il a du gérer le changement d'un monde en cycle en V ou ils avaient le temps  de préparer un cahcier de test, de tout couvrir et de donner une couverture de test manuel vers un monde ou les livraisons sont très itératifs et ils n'ont plus le temps de tout couvrir.
+        Il a du mettre en place les changement suivants :
+        
+            le test n'est plus une phase du projet mais un processus continu,
+            la QA s'est dilué dans les équipes de développements.
+            réduire au maximum le délai de feedback sur chaque développement,
+            en conséquence les développeurs doivent d'abord corriger les bugs,
+            et les testeurs doivent rester raisonnable, conçis et se baser sur des critères d'acceptance.
+        
+        Le principal chantier est toujours l'automatisation des tests (cf le cône versus la pyramide).
+    
+    
+        
+            
+
+=> /assets/external/watirmelon.files.wordpress.com/2012/01/softwaretestingicecreamconeantipattern.png Embedded Image: /assets/external/watirmelon.files.wordpress.com/2012/01/softwaretestingicecreamconeantipattern.png
+            
+Le cône (Anti-pattern)
+        
+        
+            
+
+=> /assets/external/watirmelon.files.wordpress.com/2012/01/idealautomatedtestingpyramid.png Embedded Image: /assets/external/watirmelon.files.wordpress.com/2012/01/idealautomatedtestingpyramid.png
+            
+La pyramide (Cible idéal)
+        
+    
+
+
+    
+        ### Startup need money
+
+        Retour dans la track startup, avec une courte conférence sur comment monter une startup :
+        
+            trouver un problème à régler,
+            vérifier que vous êtes la bonne personne pour le résoudre,
+            trouver une équipe.
+        
+        A un moment donné, vous aurez besoin d'investisseur si vous avez besoin de booster la croissance de la startup :
+        
+            les investisseurs ne poussent pas dans les arbres il faut aller les chercher,
+            juger aussi vos investisseurs en tant que personnes vous aurez à collaborer par la suite,
+            la croissance et le confort ne sont pas compatibles,
+            prenez du recul, restez cool et garder votre sens de l'humour.
+        
+    
+    
+        
+            
+
+=> /assets/img_posts/devoxx14-dream.jpg Embedded Image: /assets/img_posts/devoxx14-dream.jpg
+            
+Don't forget to dream
+        
+    
+
+
+
+    
+        ### Founders Dilemmas
+        Autre rapide présentation sur le dilèmne des fondateurs de société. En effet, il devra en permanence arbitrer entre décision qui lui permettra de garder le contrôle ou de potentiellement augmenter le gain possible.
+        En effet, plus le fondateur souhaite garder le contrôle, moins cela permettra d'optimiser les rentrées d'argent. Cela commence par l'arrivé de co-fondateurs et d'associés, puis par l'arrivée d'investisseurs.
+    
+    
+        
+            
+
+=> /assets/img_posts/devoxx14-dilemmas.jpg Embedded Image: /assets/img_posts/devoxx14-dilemmas.jpg
+            
+Richesse versus Contrôle
+        
+    
+
+
+
+### San francisco
+Une présentation qui donne les dernières informations de la silicon valley :
+
+    plus que jamais une grosse densité pour réseauter,
+    les bon développeurs sont chères, c'est très difficile de maintenir en équipe stable,
+    les investisseurs ne sont plus intéressés par le services et les produit "on premise", il veulent du SaaS,
+    les investisseurs veulent savoir qui détient les données,
+    lever des fonds : un énorme travail, un monde différent,
+    les coachs et conseillers (advisors) sont très importants,
+    l'aspect réseau et conseil des investisseurs est très importants,
+    le business à l'international est compliqué.
+
+
+### Woorank
+
+Un autre retour de startup, une autre vision.
+Cette fois ci, on est en mode organique avec une approche à base de bout de ficelles (bootstratp) et d'approche MVP (Minium Viable Product) :
+
+    pas mal de service au début pour s'auto financer,
+    vente en marque blanche pour booster la croissance,
+    augmentation des tarifs au moment ou toute l'équipe est passé à temps complet sur le produit,
+    embaucher sur github et les hackathons.
+
+Techniquement, une architecture micro services a été mise en place (avec la complexité de déploiement que cela incombe). Il passent maintenant à une deuxième version de l'architecture (traitement temps réel...)
+
+
+
+## References
+
+---
+
+
+=> /2015/08/CodeursEnSeineEdition2014/index.gmi ← Suivant: Retour sur Codeurs en Seine Edition 2014
+=> /2014/11/DevoxxBelgium2014(1)/index.gmi → Précédent: Devoxx Belgium 2014 (1)
+=> / Revenir à l'accueil

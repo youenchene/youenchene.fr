@@ -1,0 +1,26 @@
+# Nouvelle version de site de YS276
+
+
+
+
+
+
+[
+
+=> http://blog.fermiersdacote.fr Embedded Image: http://blog.fermiersdacote.fr, il était temps de lui donner un coups de lifting. J'ai mis à jour le site de YS276 a été mis à jour ce matin. Je l'espère, il est plus clair, plus joli et aussi plus rapide à charger.
+
+Pour cela j'ai laissé de coté Joomla [2] pour passer à Drupal [3] un CMS [4] Open Source ou il est moins nécessaire de bidouiller que joomla. Les modules sont plus simples et plus robustes et surtout l'installation de base comprend un menu performance très sympathique.
+
+
+
+## References
+
+=> http://www.joomla.fr [2] Joomla (http://www.joomla.fr)
+=> http://www.drupalfr.org/ [3] Drupal (http://www.drupalfr.org/)
+=> http://fr.wikipedia.org/wiki/Content_management_system [4] CMS (http://fr.wikipedia.org/wiki/Content_management_system)
+---
+
+
+=> /2009/04/ouverture-du-concours-sartup-academy-le/index.gmi ← Suivant: Ouverture du concours Sartup Academy le 21 avril
+=> /2009/04/javacampparis-4-compte-rendu/index.gmi → Précédent: JavaCampParis #4 : Compte Rendu
+=> / Revenir à l'accueil

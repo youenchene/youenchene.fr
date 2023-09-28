@@ -1,0 +1,30 @@
+# Ouverture de Driveo : la gestion facile pour les auto écoles
+
+
+
+
+
+
+[
+
+=> /assets/external/3.bp.blogspot.com/_7LQ1EXHnw30/ShvejQgcibI/AAAAAAAADDM/ItVT2YoQoSw/s1600-h/Logo-Driveo.png Embedded Image: /assets/external/3.bp.blogspot.com/_7LQ1EXHnw30/ShvejQgcibI/AAAAAAAADDM/ItVT2YoQoSw/s1600-h/Logo-Driveo.pngAprès 9 mois de développement et 5 mois de béta privé, l'application hébergée de gestion pour les écoles de conduite, Driveo, est ouverte !
+
+Il s'agit d'une application de gestion verticale pour les gestionnaires et les moniteurs d'auto école. En effet, l'objectif de Driveo est d'offrir une capacité de gestion, proche des moyennes entreprises, aux petites structures que sont les auto-écoles.
+
+Au programme, il est possible de gérer les élèves, leurs plannings, la comptabilité, les achats pour ensuite en extraire des statistiques (inscriptions, chiffres d'affaires, impayés) ou des états pour le comptable. En plus de cela, Driveo permet aussi aux élèves d'accéder à leur dossier (évolution du nombre de fautes, planning, paiements).
+
+Enfin, c'est aussi faire entrer les auto-écoles dans le web collaboratif (ex web 2.0), on me demande déjà un système de messagerie entre moniteurs et élèves "à la twitter".
+
+Le lien : http://www.driveo.fr [2]
+
+
+
+## References
+
+=> http://www.driveo.fr/ [2] http://www.driveo.fr (http://www.driveo.fr/)
+---
+
+
+=> /2009/06/un-standard-telephonique-low-cost-et/index.gmi ← Suivant: Un standard téléphonique low cost et agile
+=> /2009/05/premiere-session-du-normandy-jug-et/index.gmi → Précédent: Première session du Normandy JUG (et autres rencontres).
+=> / Revenir à l'accueil

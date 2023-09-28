@@ -1,0 +1,72 @@
+# GWT avancé : Référencement
+
+
+
+
+
+
+[
+
+=> http://code.google.com/intl/fr/webtoolkit/images/gwt-logo.png Embedded Image: http://code.google.com/intl/fr/webtoolkit/images/gwt-logo.pngLe sujet Google Web Toolkit et référencement est un sujet qui revient souvent. En effet, on peut penser naïvement que Google a produit un framework web hautement référençable par son propre moteur de recherche. Et bien, c'est tout le contraire :
+Les sites web en GWT ne sont pas référençables.
+
+C'est dit, il faut savoir que GWT n'as pas été conçu pour les sites de contenus (blog, e commerce) qui ont un fort besoin de référencement mais pour les applications web (adwords, google wave, erp, crm...) qui n'ont pas besoin de référencement.
+
+Heureusement, il reste un moyen d'utiliser GWT pour les sites de contenus. Pour cela, on va séparer de manière logique une page d'un site en 2 parties :
+la partie gestion : les formulaires d'inscriptions, de gestion de compte.La partie contenu est la partie à référencer, on utilisera donc un moteur de génération de page classique (JSP, JSF, Velocity pour Java, Smarty pour PHP ou même des pages statiques).
+
+La partie gestion n'as pas besoin de référencement, par contre elle gagne à avoir davantage d'interaction de type asynchrone (AJAX) et d'animation, on utilisera GWT pour cette partie.
+
+La première étape consiste à construire les pages de contenus, il s'agira de construire une page de type :
+
+[
+
+=> /assets/external/1.bp.blogspot.com/_7LQ1EXHnw30/SuVXc6AaG7I/AAAAAAAADQY/PAsueaM6Slo/s1600-h/HTML_Brut.png Embedded Image: /assets/external/1.bp.blogspot.com/_7LQ1EXHnw30/SuVXc6AaG7I/AAAAAAAADQY/PAsueaM6Slo/s1600-h/HTML_Brut.pngCode HTML
+
+[
+
+=> /assets/external/4.bp.blogspot.com/_7LQ1EXHnw30/SuVVNUY3m4I/AAAAAAAADP4/0iiv0OEdklw/s1600-h/HTML_Rendu_GWT.png Embedded Image: /assets/external/4.bp.blogspot.com/_7LQ1EXHnw30/SuVVNUY3m4I/AAAAAAAADP4/0iiv0OEdklw/s1600-h/HTML_Rendu_GWT.pngRendu HTML
+
+
+Cette page web très classique a deux particularités. L'accès au rubriques de contenu se réalise classiquement par lien pour des questions de référencement. Par contre les menus classiques d'inscription ou de connexion ne sont pas construits avec le contenu. On a juste encapsulé les futurs menus de gestion dans une balise neutre (div) identifié par "menugestion". C'est cette partie que l'on va traiter en GWT. A noter qu'il est possible, de positionner un menu non AJAX dans cette balise et de le remplacer totalement au chargement de GWT.
+
+[
+
+=> /assets/external/1.bp.blogspot.com/_7LQ1EXHnw30/SuVXK8oyhHI/AAAAAAAADQQ/7wEaSEa_GTk/s1600-h/GWT_Code.png Embedded Image: /assets/external/1.bp.blogspot.com/_7LQ1EXHnw30/SuVXK8oyhHI/AAAAAAAADQQ/7wEaSEa_GTk/s1600-h/GWT_Code.pngCode GWT
+
+
+[
+
+=> /assets/external/3.bp.blogspot.com/_7LQ1EXHnw30/SuVXoCm3tgI/AAAAAAAADQg/M8sA_lBhicU/s1600-h/HTML_firebug.png Embedded Image: /assets/external/3.bp.blogspot.com/_7LQ1EXHnw30/SuVXoCm3tgI/AAAAAAAADQg/M8sA_lBhicU/s1600-h/HTML_firebug.pngModification HTML pour intégrer GWT
+
+
+[
+
+=> /assets/external/3.bp.blogspot.com/_7LQ1EXHnw30/SuVYjjT9pFI/AAAAAAAADQw/br_ZyTTYYkw/s1600-h/HTML_Rendu_withGWT.png Embedded Image: /assets/external/3.bp.blogspot.com/_7LQ1EXHnw30/SuVYjjT9pFI/AAAAAAAADQw/br_ZyTTYYkw/s1600-h/HTML_Rendu_withGWT.pngRendu HTML avec prise en compte GWT
+
+
+
+[
+
+=> /assets/external/3.bp.blogspot.com/_7LQ1EXHnw30/SuVXoCm3tgI/AAAAAAAADQg/M8sA_lBhicU/s1600-h/HTML_firebug.png Embedded Image: /assets/external/3.bp.blogspot.com/_7LQ1EXHnw30/SuVXoCm3tgI/AAAAAAAADQg/M8sA_lBhicU/s1600-h/HTML_firebug.pngVision sur le HTMLcible (par firebug)
+
+Pour conclure, il faut bien tenir compte que seules les parties "statiques" en HTML sont référencées. Les parties ajoutées par GWT ne le sont pas.
+
+Les avantages :
+Puissance de GWT pour la partie AJAX
+Interaction entre les blocs de contenus et de gestion difficileLes prochains articles "GWT avancé" seront plus hardus, les concepts développés à la Google IO sur les meilleures pratiques GWT seront au programme (Bus d'évènement / Event Bus, MVP).
+
+PS: Cette article est brouillon depuis 6 mois, avec un peu de recul il reste très axé pour les débutants.
+Tips: cliquez sur les images pour avoir une meilleure résolution.
+
+
+
+
+## References
+
+---
+
+
+=> /2009/11/3eme-reunion-normandy-jug-compte-rendu/index.gmi ← Suivant: 3ème réunion Normandy Jug : compte rendu de la battle Maven versus (EasyAnt + Ivy + Gradle)
+=> /2009/10/web2connect-2009-journee-de-networking/index.gmi → Précédent: Web2Connect 2009 : Journée de networking accélérée
+=> / Revenir à l'accueil

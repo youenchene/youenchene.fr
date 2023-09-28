@@ -1,0 +1,44 @@
+# Le retour du Normandy Agile User Group
+
+
+
+
+En septembre dernier après 10 mois d'absence le NAUG est de retour. Alexandre Ronsaut a souhaité pousser en avant le sujet pour la communauté web. Avec Nicolas Saillard de Coaxys [1], on s'est proposé pour faire un tour d'horizon des 2 grandes approches : scrum et kanban.
+Pour kanban, j'ai pris une approche différente, je suis parti d'anti-patterns vécus de mise en place de l'agilité pour présenter une approche plus douce dans sa mise en place. Je n'ai donné le nom qu'à la fin.
+Si ma première partie peut être assez négative sur scrum. C'est parce que, récemment, il y a eu beaucoup d'approches top-down avec une application des règles en aveugle. Et à chaque fois en oubliant deux choses :
+
+    La boucle de retour (vous savez les actions à la fin de la rétrospective). Cette boucle de retour ayant le pouvoir de modifier les règles "by the book" mises en place avant.
+    L'aspect humain/motivation. Avec une mauvaise gestion du changement, où on applique les règles en se disant "j'ai suivi le livre, ca va marcher, c'est sûr" alors qu'il faudrait juste observer l'open space devant soit.
+
+Pour ma 2ème présentation, je dois avouer que la fatigue commençait à se sentir et que j'ai été bien moins bon que l'équivalente faite à devoxx france.
+Voici l'ensemble des vidéos de la soirée :
+Scrum, une des méthodes Agiles / Nicolas Saillard :
+
+
+Pratique Agiles : anti pattern et mise en œuvre :
+
+
+Outils pour le manager :
+
+
+L’Agilité dans le cadre d’une prestation / Nicolas Saillard :
+
+
+Les slides :
+
+    Pratiques agiles : anti-pattern et mise en oeuvre [2]
+    Outils du manager [3]
+
+
+
+## References
+
+=> http://www.coaxys.com [1] Coaxys (http://www.coaxys.com)
+=> http://youenchene.github.io/nwxtech-agile/#/ [2] Pratiques agiles : anti-pattern et mise en oeuvre (http://youenchene.github.io/nwxtech-agile/#/)
+=> https://github.com/youenchene/devoxx-outilsdumanager/raw/master/Devoxx%20France%202014-Outils%20du%20Manager.pdf [3] Outils du manager (https://github.com/youenchene/devoxx-outilsdumanager/raw/master/Devoxx%20France%202014-Outils%20du%20Manager.pdf)
+---
+
+
+=> /2014/11/DevoxxBelgium2014(1)/index.gmi ← Suivant: Devoxx Belgium 2014 (1)
+=> /2014/09/BureauDeboutEssai1/index.gmi → Précédent: Bureau Debout : Essai 1
+=> / Revenir à l'accueil

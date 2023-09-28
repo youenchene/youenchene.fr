@@ -1,0 +1,77 @@
+# Ce que je fais en ce moment chez Logica
+
+
+
+
+
+
+Pour ceux que ça intéresse, voici un article à propos du projet sur lequel je travaille depuis 6 mois pendant mon temps partiel chez Logica Management Consulting. Ca avec la sortie de fermiers d'à côté [1] et un nouveau projet en préparation dans les cartons, tu m'étonnes que je suis sur les rotules depuis début septembre.
+
+http://www.edubourse.com/finance/actualites.php?actu=46912 [2]
+
+
+Hub télécom lance un nouveau service de traçabilité RFID des conteneurs à bagages à Paris-CGG
+  Source : La Société  - Actualité publiée le 21 Octobre 2008 à 18:14
+      
+
+                
+         
+
+Hub télécom lance un nouveau service de traçabilité RFID des conteneurs à bagages à Paris-CGG [3] Intégrateur de plusieurs solutions RFID opérationnelles dans les domaines du transport et de la logistique, Hub télécom, filiale du groupe Aéroports de Paris, annonce aujourd'hui le lancement d'un service de traçabilité RFID des conteneurs à bagages sur l'aéroport de Paris - Charles de Gaulle.
+
+Ce service s'appuie sur une infrastructure de lecture des étiquettes RFID déployée par Hub télécom à l'entrée et à la sortie des zones de tri bagages du Terminal 2 de l'aéroport Paris-Charles de Gaulle.
+
+Hub télécom est le premier acteur à avoir déployé un service d'opérateur RFID en France en proposant une solution globale de collecte et de gestion des événements de traçabilité. Cette solution s'appuie sur une plate-forme de services opérée et multi-clients.
+
+Pour les besoins spécifiques de suivi des conteneurs à bagages, Hub télécom va déployer 30 portiques RFID sur l'aéroport d'ici la fin 2009. Un tiers de ces portiques est d'ores et déjà opérationnel sur CDG 2. Les portiques sont équipés de lecteurs Intermec et d'antennes Kathrein permettant une lecture jusqu'à 3 mètres d'étiquettes UHF* positionnées sur les conteneurs à bagages. Une fois lues, les informations de traçabilité des conteneurs à bagages sont remontées, traitées et enrichies au niveau de la plate-forme applicative Hub télécom, avant d'être restituées aux différents SI clients.
+
+La plate-forme applicative Hub télécom, qui centralise l'ensemble des informations de traçabilité, utilise la suite logicielle TIBCO ActiveMatrix BusinessWorks dont l'intégration a été confiée à la société Logica. Elle assure le pilotage des infrastructures de collecte RFID (lecteurs, capteurs…), l'enrichissement et le stockage des données et leur diffusion, au format souhaité, vers les applications métiers Clients.
+
+Un service clé en main pour de multiples clients
+
+Les services de traçabilité proposés par Hub télécom sont « clé en mains ». Ils comprennent l'étude radio, le déploiement des infrastructures RFID nécessaires à la collecte de l'information, la plate-forme applicative, et l'acheminement des informations recueillies. Ce positionnement d'opérateur permet à Hub télécom de prendre à sa charge toute la complexité d'un projet de traçabilité, le client souscrivant simplement un abonnement au service.
+
+L'offre de suivi des conteneurs à bagages s'adresse à l'ensemble des clients
+Hub télécom sur la zone aéroportuaire (compagnies aériennes, sociétés d'assistance en Escale, etc).
+
+Les services de traçabilité fournis par la plate-forme applicative Hub télécom s'adressent à l'ensemble des sociétés de Transport, Fret et Logistique partout en France métropolitaine. Dans ce cadre, Hub télécom gère aussi bien les normes propres au secteur du transport aérien (normes IATA, RP 1740 et 1640, relatives à la traçabilité des bagages et des conteneurs à bagages) que celles utilisées dans les autres secteurs (normes EPC et ISO).
+
+* UHF : Ultra Haute Fréquence
+
+A propos de Hub télécom
+A la fois opérateur de télécommunications et intégrateur de solutions applicatives communicantes, Hub télécom, société du groupe Aéroports de Paris, conçoit des solutions innovantes de mobilité et des services évolués de communication pour accompagner le développement de ses clients.
+
+Hub télécom répond quotidiennement aux besoins de plus de 1 500 entreprises et de plus de 150 000 utilisateurs, principalement des compagnies aériennes, des sociétés d'assistance aéroportuaire, des administrations, des sociétés de service aux passagers et des gestionnaires de sites. Hub télécom exploite également un réseau Wifi très étendu en France sur plusieurs aéroports, de nombreux hôtels et parcs d'exposition.
+
+Pour plus d'information, visitez le site web : www.hubtelecom.com. [4]
+Hub télécom, SA au capital social de 28 347 975 euros      RCS BOBIGNY
+- 437 947 666
+TVA : FR 29 437 947 666
+
+Contacts presse
+EuroTandem
+Aurélia Renaud / Stéphanie Gault
+Tél. : 01 55 30 71 04
+Email : a.renaud@eurotandem.fr
+
+Hub télécom
+Soukeyna Gueye
+Tél. : 01 70 03 93 42
+Email : sgueye@hubtelecom.com
+         
+            Source :    La Société 
+
+
+
+## References
+
+=> http://www.fermiersdacote.fr/ [1] fermiers d'à côté (http://www.fermiersdacote.fr/)
+=> http://www.edubourse.com/finance/actualites.php?actu=46912 [2] http://www.edubourse.com/finance/actualites.php?actu=46912 (http://www.edubourse.com/finance/actualites.php?actu=46912)
+=> http://www.edubourse.com/images/courtage.jpg [3] Hub télécom lance un nouveau service de traçabilité RFID des conteneurs à bagages à Paris-CGG (http://www.edubourse.com/images/courtage.jpg)
+=> http://www.hubtelecom.com./ [4] www.hubtelecom.com. (http://www.hubtelecom.com./)
+---
+
+
+=> /2008/11/recherche-de-partenaires-pour-fermier/index.gmi ← Suivant: Recherche de partenaires pour fermiers d'à côté
+=> /2008/10/cette-semaine-diner-entreprenautes-et/index.gmi → Précédent: Cette semaine: diner Entreprenautes et LesTerrassesIT
+=> / Revenir à l'accueil

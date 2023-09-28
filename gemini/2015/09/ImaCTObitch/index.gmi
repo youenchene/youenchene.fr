@@ -1,0 +1,39 @@
+# I'm a CTO bitch!
+
+
+
+
+
+
+=> /assets/img_posts/logocreative.png Embedded Image: /assets/img_posts/logocreative.png
+Depuis maintenant 6 mois, je suis officiellement le CTO/Directeur Technique et associé de Creative Data [2]. J'ai rejoins l'ami Arnaud Muller [3] dans le grand saut de la startup avec levée de fonds.
+Je suis en charge du développement de Creative Data Platform, une plateforme big data prête à l'emploi [4] et de la co-direction de la société avec mes 2 associés. En gros, j'ai un role de product owner qui code.
+Après 4 ans chez un éditeur européen de 400 personnes, c'est un grand bol d'air :
+
+    pour les achats de licences, de matériel informatiques c'est très rapide pour le processus d'achat, ce qui compte c'est productivité!
+    pour les solutions en ligne comme cloudbees, c'est pareil, l'approche est darwiniste, si on se trompe on coupe l'abonnement,
+    on peut enfin prioriser sur le code et la qualité produite au lieu de batir de lourds processus de planification (je ferais un article sur ce sujet prochainement),
+    on confronte des préversions du produit au marché, on a un retour utilisateur assez direct.
+
+Par contre :
+
+    il faut peser chaque dépense,
+    le rythme est très élevé (mais au moins pour les bonnes raisons),
+    l'avant vente représente un effort plus grand que prévu (30%) en même temps c'est dans ces phases qu'on capte les souffrances du client,
+    on sort de sa zone de confort très souvent (pour moi juridique, communication, marketing).
+
+Dans tous les cas, c'est une grande aventure qui commence. Sans aucun doute, plein de petites histoires à raconter!
+
+
+
+## References
+
+=> http://www.creativedata.fr [2] Creative Data (http://www.creativedata.fr)
+=> http://twitter.com/arnaudmu [3] Arnaud Muller (http://twitter.com/arnaudmu)
+=> http://www.creativedata.fr/offre [4] plateforme big data prête à l'emploi (http://www.creativedata.fr/offre)
+---
+
+
+=> /2017/05/2017-05-14-SanFranscicoAndTheValley-Week1/index.gmi ← Suivant: San Francisco and the Valley - Week 1
+=> /2015/08/CodeursEnSeineEdition2014/index.gmi → Précédent: Retour sur Codeurs en Seine Edition 2014
+=> / Revenir à l'accueil
