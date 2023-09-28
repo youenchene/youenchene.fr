@@ -9,8 +9,7 @@ image: /post/images/hcne-bercy.jpg
 name: Youen Chene
 title: Voyage au pays du HCNE
 url: /2023/07/18/Voyage-au-Pays-du-HCNE
-aliases :
-- /2023/07/18/Voyage-au-Pays-du-HCNE.html
+
 updated: "2023-07-18 00:00:00"
 guid: jekyll-20230718
 uuid: "20230718"
