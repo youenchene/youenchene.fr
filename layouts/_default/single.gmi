@@ -5,10 +5,14 @@
 {{ $content := $content | replaceRE `#### ` "### " -}}
 {{ $content := $content | replaceRE "<h2>" "## " -}}
 {{ $content := $content | replaceRE "<h3>" "### " -}}
-{{ $content := $content | replaceRE `style="[^"]*"` "### " -}}
-{{ $content := $content | replaceRE `<img src="([^"]+?)" alt="([^"]+?)"[^>]*>` "\n\n[$2]($1)" -}}
-{{ $content := $content | replaceRE `<img src="([^"]+?)"[^>]*>` "\n\n![$1]($1)" -}}
-{{ $content := $content | replaceRE `<a [^>]*href="([^"]+?)"[^>]*>([^>]*)</a>` "[$2]($1)" -}}
+{{ $content := $content | replaceRE `style="[^"]*"` " " -}}
+{{ $content := $content | replaceRE `(\t*)[ ]+###` "###" -}}
+{{ $content := $content | replaceRE `<a [^h]*href="[^"]+?"[^>]*>[^<]*<img src="([^"]+?)" alt="([^"]+?)"[^>]*[^>]*>([^<])*</a>` "\n\n![$2]($1)\n\n" -}}
+{{ $content := $content | replaceRE `<a [^h]*href="[^"]+?"[^>]*>[^<]*<img src="([^"]+?)"[^>]*>([^<])*</a>` "\n\n![$1]($1)\n\n" -}}
+{{ $content := $content | replaceRE `<a [^h]*href="[^"]+?"[^>]*>[^<]*<img src="([^"]+?)"[^>]*>[^</]*</a>` "\n\n![$1]($1)\n\n" -}}
+{{ $content := $content | replaceRE `<img src="([^"]+?)" alt="([^"]+?)"[^>]*>` "\n\n[$2]($1) \n\n" -}}
+{{ $content := $content | replaceRE `<img src="([^"]+?)"[^>]*>` "\n\n![$1]($1) \n\n" -}}
+{{ $content := $content | replaceRE `<a [^h]*href="([^"]+?)"[^>]*>([^<]*)</a>` "[$2]($1)" -}}
 {{ $content := $content | replaceRE `\n- (.+?)` "\n* $1" -}}
 {{ $content := $content | replaceRE `\n(\d+). (.+?)` "\n* $2" -}}
 {{ $content := $content | replaceRE `\[\^(.+?)\]:?` "" -}}
