@@ -5,17 +5,19 @@
 
 
 
-[
 
-=> http://www.noocodecommit.com/ Embedded Image: http://www.noocodecommit.com/), GWT avancé (par moi même) et JSF par Gontran Tombette de chez Sopra.
 
-J'ai trouvé la présentation d'Android [2] beaucoup mieux que celle de Google à Le Web [3]. En effet, la présentation par les geeks de chez Google n'était qu'un enchainement de démo (genre Spotify, Shazam et Google Goggles [4]). Pour cela à Rouen il y a Benjamien Anseaume [5] ;-).
+=> /assets/external/1.bp.blogspot.com/_7LQ1EXHnw30/Syi9WnIo-fI/AAAAAAAADTQ/nVIpNwiHinw/s200/logo-juggy2.png Embedded Image: /assets/external/1.bp.blogspot.com/_7LQ1EXHnw30/Syi9WnIo-fI/AAAAAAAADTQ/nVIpNwiHinw/s200/logo-juggy2.png
+
+Hier soir, c'était la 4ème réunion du Normandy JUG avec au programme Android (Par Nicolas Giard [2] le wicket fan boy [3]), GWT avancé (par moi même) et JSF par Gontran Tombette de chez Sopra.
+
+J'ai trouvé la présentation d'Android [4] beaucoup mieux que celle de Google à Le Web [5]. En effet, la présentation par les geeks de chez Google n'était qu'un enchainement de démo (genre Spotify, Shazam et Google Goggles [6]). Pour cela à Rouen il y a Benjamien Anseaume [7] ;-).
 Donc, hier avec Nicolas, on a eu le droit à une vision du marché du mobile et des capacités de l'OS. Et c'était très bien!
 
-Pour la présentation JSF 2, j'ai trouvé Gontran très pédagogique. Après, pour le rendu de page de contenu j'ai toujours préféré les frameworks à base de templates genre Velocity [6] et FreeMarker [7] (ou Smarty [8] pour le monde PHP).
+Pour la présentation JSF 2, j'ai trouvé Gontran très pédagogique. Après, pour le rendu de page de contenu j'ai toujours préféré les frameworks à base de templates genre Velocity [8] et FreeMarker [9] (ou Smarty [10] pour le monde PHP).
 
-Enfin, pour ma présentation j'ai enchainé les obstacles. Pour commencer, je me suis pris une  bonne rhino dans la trocnhe, les médicaments m'en remis en forme (enfin presque il parait que je respirais comme Nicolas Hulot [9], ca devait être beau voir ... tiens).
-De plus, il me manquait l'accessoire suivant [10] pour brancher le mac book pro sur une pauvre petite prise VGA (putain 29€ quand même, ils se font pas chier chez Apple).
+Enfin, pour ma présentation j'ai enchainé les obstacles. Pour commencer, je me suis pris une  bonne rhino dans la trocnhe, les médicaments m'en remis en forme (enfin presque il parait que je respirais comme Nicolas Hulot [11], ca devait être beau voir ... tiens).
+De plus, il me manquait l'accessoire suivant [12] pour brancher le mac book pro sur une pauvre petite prise VGA (putain 29€ quand même, ils se font pas chier chez Apple).
 
 Etant donné qu'une partie de la présentation devait montrer en mode debug le fonctionnement du Bus Event, je n'ai réussi qu'a faire 2 vidéos à l'arrache (pendant la présentation Androïd en fait) avec ScreenFlow.
 
@@ -24,38 +26,40 @@ Sur GWT, les commentaires restent les mêmes :
 
 La soirée s'est finie par un repas ou j'ai pu trinquer au .... dafalgan.
 
-Voici donc la présentation GWT Avancé, pour les autres présentations, elles vont arriver sur le site [11] et vous pouvez être prévenu par le twitter [12].
+Voici donc la présentation GWT Avancé, pour les autres présentations, elles vont arriver sur le site [13] et vous pouvez être prévenu par le twitter [14].
 
 
 
-La présentation est aussi téléchargeable en PDF : GWT Avancé.pdf [13]
+La présentation est aussi téléchargeable en PDF : GWT Avancé.pdf [15]
 
-J'ajoute aussi les sources de l'exemple [14]. Pour le faire fonctionner vous avez uniquement besoin de eclipse avec les plugins GWT [15].
+J'ajoute aussi les sources de l'exemple [16]. Pour le faire fonctionner vous avez uniquement besoin de eclipse avec les plugins GWT [17].
 
-Je souhaite aussi ajouter quelques précisions sur cet exemple qui contient l'utilisation du Bus Event et du pattern MVP, en effet, par rapport à la ce qui a été présenté à la Google IO [16]  :
+Je souhaite aussi ajouter quelques précisions sur cet exemple qui contient l'utilisation du Bus Event et du pattern MVP, en effet, par rapport à la ce qui a été présenté à la Google IO [18]  :
 quelques classe de gestion (MVPPresenter etc...) de mon cru.
 
 
 
 ## References
 
-=> http://www.android.com/ [2] Android (http://www.android.com/)
-=> http://www.leweb.net/ [3] Le Web (http://www.leweb.net/)
-=> http://www.google.com/mobile/goggles/ [4] Google Goggles (http://www.google.com/mobile/goggles/)
-=> http://www.anseaume.com/ [5] Benjamien Anseaume (http://www.anseaume.com/)
-=> http://velocity.apache.org/ [6] Velocity (http://velocity.apache.org/)
-=> http://freemarker.org/ [7] FreeMarker (http://freemarker.org/)
-=> http://www.smarty.net/ [8] Smarty (http://www.smarty.net/)
-=> http://sites.google.com/site/biniou14/4eme-soiree-du-normandyjug [9] je respirais comme Nicolas Hulot (http://sites.google.com/site/biniou14/4eme-soiree-du-normandyjug)
-=> http://store.apple.com/fr/product/MB572Z/A?fnode=MTY1NDA3Ng&amp;mco=MTE0ODQwMjA [10] suivant (http://store.apple.com/fr/product/MB572Z/A?fnode=MTY1NDA3Ng&amp;mco=MTE0ODQwMjA)
-=> http://www.normandyjug.org/ [11] le site (http://www.normandyjug.org/)
-=> http://twitter.com/normandyjug [12] le twitter (http://twitter.com/normandyjug)
-=> http://groups.google.fr/group/normandyjug/web/GWT_Avance.pdf [13] GWT Avancé.pdf (http://groups.google.fr/group/normandyjug/web/GWT_Avance.pdf)
-=> http://groups.google.fr/group/normandyjug/web/NormandyJugGWTAvance.zip [14] les sources de l'exemple (http://groups.google.fr/group/normandyjug/web/NormandyJugGWTAvance.zip)
-=> http://code.google.com/intl/fr/eclipse/docs/download.html [15] les plugins GWT (http://code.google.com/intl/fr/eclipse/docs/download.html)
-=> http://code.google.com/intl/fr/eclipse/docs/download.html [16] Google IO (http://code.google.com/intl/fr/eclipse/docs/download.html)
-=> http://en.wikipedia.org/wiki/Command_pattern [17] design pattern command (http://en.wikipedia.org/wiki/Command_pattern)
-=> http://en.wikipedia.org/wiki/Inversion_of_control [18] design pattern Inversion de Contrôle (http://en.wikipedia.org/wiki/Inversion_of_control)
+=> http://twitter.com/nicogiard [2] Nicolas Giard (http://twitter.com/nicogiard)
+=> http://www.noocodecommit.com/ [3] wicket fan boy (http://www.noocodecommit.com/)
+=> http://www.android.com/ [4] Android (http://www.android.com/)
+=> http://www.leweb.net/ [5] Le Web (http://www.leweb.net/)
+=> http://www.google.com/mobile/goggles/ [6] Google Goggles (http://www.google.com/mobile/goggles/)
+=> http://www.anseaume.com/ [7] Benjamien Anseaume (http://www.anseaume.com/)
+=> http://velocity.apache.org/ [8] Velocity (http://velocity.apache.org/)
+=> http://freemarker.org/ [9] FreeMarker (http://freemarker.org/)
+=> http://www.smarty.net/ [10] Smarty (http://www.smarty.net/)
+=> http://sites.google.com/site/biniou14/4eme-soiree-du-normandyjug [11] je respirais comme Nicolas Hulot (http://sites.google.com/site/biniou14/4eme-soiree-du-normandyjug)
+=> http://store.apple.com/fr/product/MB572Z/A?fnode=MTY1NDA3Ng&amp;mco=MTE0ODQwMjA [12] suivant (http://store.apple.com/fr/product/MB572Z/A?fnode=MTY1NDA3Ng&amp;mco=MTE0ODQwMjA)
+=> http://www.normandyjug.org/ [13] le site (http://www.normandyjug.org/)
+=> http://twitter.com/normandyjug [14] le twitter (http://twitter.com/normandyjug)
+=> http://groups.google.fr/group/normandyjug/web/GWT_Avance.pdf [15] GWT Avancé.pdf (http://groups.google.fr/group/normandyjug/web/GWT_Avance.pdf)
+=> http://groups.google.fr/group/normandyjug/web/NormandyJugGWTAvance.zip [16] les sources de l'exemple (http://groups.google.fr/group/normandyjug/web/NormandyJugGWTAvance.zip)
+=> http://code.google.com/intl/fr/eclipse/docs/download.html [17] les plugins GWT (http://code.google.com/intl/fr/eclipse/docs/download.html)
+=> http://code.google.com/intl/fr/eclipse/docs/download.html [18] Google IO (http://code.google.com/intl/fr/eclipse/docs/download.html)
+=> http://en.wikipedia.org/wiki/Command_pattern [19] design pattern command (http://en.wikipedia.org/wiki/Command_pattern)
+=> http://en.wikipedia.org/wiki/Inversion_of_control [20] design pattern Inversion de Contrôle (http://en.wikipedia.org/wiki/Inversion_of_control)
 ---
 
 

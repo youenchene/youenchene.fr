@@ -5,7 +5,9 @@
 
 
 
-=> /assets/img_posts/logocreative.png Embedded Image: /assets/img_posts/logocreative.png
+=> /assets/img_posts/logocreative.png Embedded Image: /assets/img_posts/logocreative.png 
+
+
 Depuis maintenant 6 mois, je suis officiellement le CTO/Directeur Technique et associé de Creative Data [2]. J'ai rejoins l'ami Arnaud Muller [3] dans le grand saut de la startup avec levée de fonds.
 Je suis en charge du développement de Creative Data Platform, une plateforme big data prête à l'emploi [4] et de la co-direction de la société avec mes 2 associés. En gros, j'ai un role de product owner qui code.
 Après 4 ans chez un éditeur européen de 400 personnes, c'est un grand bol d'air :

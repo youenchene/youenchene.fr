@@ -5,9 +5,11 @@
 
 
 
-[
 
-=> http://www.leweb.net/sites/all/themes/leweb-leweb/logo.png Embedded Image: http://www.leweb.net/sites/all/themes/leweb-leweb/logo.pngVoici un premier article décrivant une journée dans la plus grande conférence européenne de l'industrie du web. Il sera suivi d'un deuxième article évoquant les conférences et les moments marquant de l'édition 2009.
+
+=> http://www.leweb.net/sites/all/themes/leweb-leweb/logo.png Embedded Image: http://www.leweb.net/sites/all/themes/leweb-leweb/logo.png
+
+Voici un premier article décrivant une journée dans la plus grande conférence européenne de l'industrie du web. Il sera suivi d'un deuxième article évoquant les conférences et les moments marquant de l'édition 2009.
 
 
 La préparation
@@ -57,9 +59,11 @@ La conférence m'a permis de pitcher mes projets actuels et de partager des comm
 
 Enfin, à plusieurs reprises, des français expatriés m'ont dit qu'il fallait déménager dans la Silicon Valley en Californie : "Ca va tellement plus vite, tu es dans le réacteur du web!". En tout cas, j'ai au moins quelques études de marché à prévoir.
 
-[
 
-=> /assets/external/farm3.static.flickr.com/2712/4171431735_b00251ca82_b.jpg Embedded Image: /assets/external/farm3.static.flickr.com/2712/4171431735_b00251ca82_b.jpgPhoto par Kmeron
+
+=> /assets/external/farm3.static.flickr.com/2712/4171431735_b00251ca82_b.jpg Embedded Image: /assets/external/farm3.static.flickr.com/2712/4171431735_b00251ca82_b.jpg
+
+Photo par Kmeron
 
 
 

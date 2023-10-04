@@ -5,27 +5,31 @@
 
 
 
-[
 
-=> http://www.normandyjug.org/ Embedded Image: http://www.normandyjug.org/ aura lieu le mardi 16 juin au pole normand à 19h au pôle normand (Zone d'activité de la Vatine à Rouen/Mont Saint Aignan).
 
-Au programme, nous avons prévu 2 présentations. Une première "battle" GWT versus Wicket avec Nicolas Giard de NooCode Commit [2] (pour Wicket) et moi même (pour GWT). Elle vous permettra de mieux connaître ces deux frameworks Web et de savoir quand utiliser chacun des deux. La deuxième présentation concernera l'intégration continu avec Dimitri Baeli [3] de Exo Platform France [4] et Laurent Deséchalliers [5] (à confirmer).
+=> /assets/external/3.bp.blogspot.com/_7LQ1EXHnw30/Sho51Zkh_nI/AAAAAAAADDE/bcvheoaFZ_0/s200/logo-juggy2.png Embedded Image: /assets/external/3.bp.blogspot.com/_7LQ1EXHnw30/Sho51Zkh_nI/AAAAAAAADDE/bcvheoaFZ_0/s200/logo-juggy2.png
 
-L'inscription est rapide et se déroule sur cette page [6], elle est ouverte à tout le monde.
+Après avoir fait la visite de l'inauguration du Chtit JUG [2] le 13mai sur Java EE 6, la première du Normandy JUG [3] aura lieu le mardi 16 juin au pole normand à 19h au pôle normand (Zone d'activité de la Vatine à Rouen/Mont Saint Aignan).
 
-Au passage, le 9 juin sur Rouen, Proxiad organise le JEE Productivity Tour [7] avec SpringSource, l'inscription est disponible sur cette page [8].
+Au programme, nous avons prévu 2 présentations. Une première "battle" GWT versus Wicket avec Nicolas Giard de NooCode Commit [4] (pour Wicket) et moi même (pour GWT). Elle vous permettra de mieux connaître ces deux frameworks Web et de savoir quand utiliser chacun des deux. La deuxième présentation concernera l'intégration continu avec Dimitri Baeli [5] de Exo Platform France [6] et Laurent Deséchalliers [7] (à confirmer).
+
+L'inscription est rapide et se déroule sur cette page [8], elle est ouverte à tout le monde.
+
+Au passage, le 9 juin sur Rouen, Proxiad organise le JEE Productivity Tour [9] avec SpringSource, l'inscription est disponible sur cette page [10].
 
 
 
 ## References
 
-=> http://www.noocodecommit.com/blog/nicogiard/ [2] NooCode Commit (http://www.noocodecommit.com/blog/nicogiard/)
-=> http://twitter.com/dbaeli [3] Dimitri Baeli (http://twitter.com/dbaeli)
-=> http://www.exoplatform.com [4] Exo Platform France (http://www.exoplatform.com)
-=> Laurent%20Desechallier [5] Laurent Deséchalliers (Laurent%20Desechallier)
-=> http://www.jugevents.org/jugevents/event/16819 [6] sur cette page (http://www.jugevents.org/jugevents/event/16819)
-=> http://www.javaee-productivitytour.com/normandie/ [7] JEE Productivity Tour (http://www.javaee-productivitytour.com/normandie/)
-=> http://www.javaee-productivitytour.com/normandie/ [8] sur cette page (http://www.javaee-productivitytour.com/normandie/)
+=> http://chtijug.org/inauguration-du-13-mai-bilan/ [2] inauguration du Chtit JUG (http://chtijug.org/inauguration-du-13-mai-bilan/)
+=> http://www.normandyjug.org/ [3] Normandy JUG (http://www.normandyjug.org/)
+=> http://www.noocodecommit.com/blog/nicogiard/ [4] NooCode Commit (http://www.noocodecommit.com/blog/nicogiard/)
+=> http://twitter.com/dbaeli [5] Dimitri Baeli (http://twitter.com/dbaeli)
+=> http://www.exoplatform.com [6] Exo Platform France (http://www.exoplatform.com)
+=> Laurent%20Desechallier [7] Laurent Deséchalliers (Laurent%20Desechallier)
+=> http://www.jugevents.org/jugevents/event/16819 [8] sur cette page (http://www.jugevents.org/jugevents/event/16819)
+=> http://www.javaee-productivitytour.com/normandie/ [9] JEE Productivity Tour (http://www.javaee-productivitytour.com/normandie/)
+=> http://www.javaee-productivitytour.com/normandie/ [10] sur cette page (http://www.javaee-productivitytour.com/normandie/)
 ---
 
 

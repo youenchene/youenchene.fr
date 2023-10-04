@@ -5,23 +5,29 @@
 
 
 
-[
 
-=> http://www.jetbrains.com/idea/index.html Embedded Image: http://www.jetbrains.com/idea/index.html seront même à gagner !
 
-La réunion se concluera par une rapide présentation de l'AOP ou de la Programmation Orientée Aspect. Les speakers seront Guillaume Lours (Proxiad) @guillaumelours [2], Sebastien Lecacheur (Prosodie) et Yann Petit (Team Partners - Co fondateur du JUG) @finalspy [3].
+=> /assets/external/2.bp.blogspot.com/_7LQ1EXHnw30/SqX2dc2Vj7I/AAAAAAAADIg/UsDCROCRsQU/s320/logo-juggy2.png Embedded Image: /assets/external/2.bp.blogspot.com/_7LQ1EXHnw30/SqX2dc2Vj7I/AAAAAAAADIg/UsDCROCRsQU/s320/logo-juggy2.png
+
+Le 21 septembre à 19h Le Normandy Java User Group [2] va organiser sa deuxième réunion avec la venue exceptionnelle de membres de JetBrains [3] qui présenterons TeamCity un serveur d'intégration continue. Des licences de Team City [4] et IntelliJ IDEA [5] seront même à gagner !
+
+La réunion se concluera par une rapide présentation de l'AOP ou de la Programmation Orientée Aspect. Les speakers seront Guillaume Lours (Proxiad) @guillaumelours [6], Sebastien Lecacheur (Prosodie) et Yann Petit (Team Partners - Co fondateur du JUG) @finalspy [7].
 
 Le lieu n'est pas encore définitif mais mon petit doigt me dit que cela sera du côté de la Vatine à Mont Saint Aignan.
 
-Pour s'inscrire:  Inscription NormandyJug [4]
+Pour s'inscrire:  Inscription NormandyJug [8]
 
 
 
 ## References
 
-=> http://twitter.com/guillaumelours [2] @guillaumelours (http://twitter.com/guillaumelours)
-=> http://twitter.com/finalspy [3] @finalspy (http://twitter.com/finalspy)
-=> http://sites.google.com/site/normandyjug/agenda/rencontres-a-venir/21092009-teamcityparjetbrainssuividelaprogrammationorienteeaspects [4] Inscription NormandyJug (http://sites.google.com/site/normandyjug/agenda/rencontres-a-venir/21092009-teamcityparjetbrainssuividelaprogrammationorienteeaspects)
+=> http://www.normandyjug.org/ [2] Normandy Java User Group (http://www.normandyjug.org/)
+=> http://www.jetbrains.com/ [3] JetBrains (http://www.jetbrains.com/)
+=> http://www.jetbrains.com/teamcity/index.html [4] Team City (http://www.jetbrains.com/teamcity/index.html)
+=> http://www.jetbrains.com/idea/index.html [5] IntelliJ IDEA (http://www.jetbrains.com/idea/index.html)
+=> http://twitter.com/guillaumelours [6] @guillaumelours (http://twitter.com/guillaumelours)
+=> http://twitter.com/finalspy [7] @finalspy (http://twitter.com/finalspy)
+=> http://sites.google.com/site/normandyjug/agenda/rencontres-a-venir/21092009-teamcityparjetbrainssuividelaprogrammationorienteeaspects [8] Inscription NormandyJug (http://sites.google.com/site/normandyjug/agenda/rencontres-a-venir/21092009-teamcityparjetbrainssuividelaprogrammationorienteeaspects)
 ---
 
 

@@ -5,9 +5,11 @@
 
 
 
-[
 
-=> /assets/external/3.bp.blogspot.com/_7LQ1EXHnw30/ShvejQgcibI/AAAAAAAADDM/ItVT2YoQoSw/s1600-h/Logo-Driveo.png Embedded Image: /assets/external/3.bp.blogspot.com/_7LQ1EXHnw30/ShvejQgcibI/AAAAAAAADDM/ItVT2YoQoSw/s1600-h/Logo-Driveo.pngAprès 9 mois de développement et 5 mois de béta privé, l'application hébergée de gestion pour les écoles de conduite, Driveo, est ouverte !
+
+=> /assets/external/3.bp.blogspot.com/_7LQ1EXHnw30/ShvejQgcibI/AAAAAAAADDM/ItVT2YoQoSw/s320/Logo-Driveo.png Embedded Image: /assets/external/3.bp.blogspot.com/_7LQ1EXHnw30/ShvejQgcibI/AAAAAAAADDM/ItVT2YoQoSw/s320/Logo-Driveo.png
+
+Après 9 mois de développement et 5 mois de béta privé, l'application hébergée de gestion pour les écoles de conduite, Driveo, est ouverte !
 
 Il s'agit d'une application de gestion verticale pour les gestionnaires et les moniteurs d'auto école. En effet, l'objectif de Driveo est d'offrir une capacité de gestion, proche des moyennes entreprises, aux petites structures que sont les auto-écoles.
 

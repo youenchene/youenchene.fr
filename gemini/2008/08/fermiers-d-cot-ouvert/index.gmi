@@ -5,15 +5,17 @@
 
 
 
-[
 
-=> http://www.fermiersdacote.fr Embedded Image: http://www.fermiersdacote.fr est ouvert au public.
+
+=> /assets/external/3.bp.blogspot.com/_7LQ1EXHnw30/SKktLKOHxDI/AAAAAAAACQY/pXJ-BqtTpig/s320/header_logo.gif Embedded Image: /assets/external/3.bp.blogspot.com/_7LQ1EXHnw30/SKktLKOHxDI/AAAAAAAACQY/pXJ-BqtTpig/s320/header_logo.gif
+
+Un an après les premiers croquis et les discussions à propos projet dans les restaurants de Clermont Ferrand et Rouen, le site fermiersdacote.fr [2] est ouvert au public.
 
 Fermiers d'à côté a pour objectif de simplifier la vente directe entre les producteurs fermiers et les consommateurs que nous sommes tous. Dans ce projet, il y a à la fois des enjeux de développement économique locale, de préservation de l'environnement et même de valorisation culturelle des produits locaux du terroir.
 
 Maintenant, ce n'est que la première phase. Il s'agit d'initialiser le site en contactant un grand nombre de producteurs pour que chacun puisse trouver les produits à coté de chez soi. Il y a encore beaucoup de travail en cours.
 
-Pour les gourmands impatients, en attendant qu'il y est des producteurs d'inscrit dans votre région vous retrouverez toujours le blog de fermiers d'à coté [2] et ses bons conseils.
+Pour les gourmands impatients, en attendant qu'il y est des producteurs d'inscrit dans votre région vous retrouverez toujours le blog de fermiers d'à coté [3] et ses bons conseils.
 
 Coté technique, il y a aussi encore du travail au travers l'ajout de fonctionnalités pour rendre le site de plus en plus facile à manipuler.
 
@@ -23,7 +25,8 @@ En tout cas, l'expérience confirme bien que la création et l'innovation c'est 
 
 ## References
 
-=> http://blog.fermiersdacote.fr [2] blog de fermiers d'à coté (http://blog.fermiersdacote.fr)
+=> http://www.fermiersdacote.fr [2] fermiersdacote.fr (http://www.fermiersdacote.fr)
+=> http://blog.fermiersdacote.fr [3] blog de fermiers d'à coté (http://blog.fermiersdacote.fr)
 ---
 
 

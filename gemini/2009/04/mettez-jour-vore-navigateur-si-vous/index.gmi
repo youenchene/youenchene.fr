@@ -5,9 +5,11 @@
 
 
 
-[
 
-=> /assets/external/3.bp.blogspot.com/_7LQ1EXHnw30/SfKnXq082FI/AAAAAAAADB4/MzMgcF9uTMI/s1600-h/no-ie6_96.jpg Embedded Image: /assets/external/3.bp.blogspot.com/_7LQ1EXHnw30/SfKnXq082FI/AAAAAAAADB4/MzMgcF9uTMI/s1600-h/no-ie6_96.jpgC'est décidé, l'ensemble des internautes utilisant Internet Explorer 6 sur ce blog, driveo et fermiers d'à côté auront un bandeau qui s'affiche en haut de la page pour les inciter à télécharger et utiliser un navigateur moderne (Internet Explorer 8, FireFox, Chrome, Safari).
+
+=> /assets/external/3.bp.blogspot.com/_7LQ1EXHnw30/SfKnXq082FI/AAAAAAAADB4/MzMgcF9uTMI/s320/no-ie6_96.jpg Embedded Image: /assets/external/3.bp.blogspot.com/_7LQ1EXHnw30/SfKnXq082FI/AAAAAAAADB4/MzMgcF9uTMI/s320/no-ie6_96.jpg
+
+C'est décidé, l'ensemble des internautes utilisant Internet Explorer 6 sur ce blog, driveo et fermiers d'à côté auront un bandeau qui s'affiche en haut de la page pour les inciter à télécharger et utiliser un navigateur moderne (Internet Explorer 8, FireFox, Chrome, Safari).
 
 La version original se trouve sur ie6update.com [2], elle est en anglais et ne pointe que vers Internet Explorer 8. J'ai réalisé une version française qui offre aussi le choix vers d'autres navigateurs (plus performant que Internet Explorer 8) : ie6update.1.0.0_french.zip [3].
 

@@ -5,9 +5,11 @@
 
 
 
-[
 
-=> /assets/external/1.bp.blogspot.com/_7LQ1EXHnw30/S3Gn-yb6UgI/AAAAAAAADcA/VbgUJw7Mcx4/s1600-h/logo-juggy2.png Embedded Image: /assets/external/1.bp.blogspot.com/_7LQ1EXHnw30/S3Gn-yb6UgI/AAAAAAAADcA/VbgUJw7Mcx4/s1600-h/logo-juggy2.pngVous l'attendiez avec impatience, elle arrive enfin !
+
+=> /assets/external/1.bp.blogspot.com/_7LQ1EXHnw30/S3Gn-yb6UgI/AAAAAAAADcA/VbgUJw7Mcx4/s320/logo-juggy2.png Embedded Image: /assets/external/1.bp.blogspot.com/_7LQ1EXHnw30/S3Gn-yb6UgI/AAAAAAAADcA/VbgUJw7Mcx4/s320/logo-juggy2.png
+
+Vous l'attendiez avec impatience, elle arrive enfin !
 La sixième réunion du NormandyJUG !!!## Scrum et l'agilité des équipes de développement
      Scrum en 5min       Revue pratique : review, retro, planning, daily, impediment.        Retours d'expérience (petites équipes, grandes équipes)       L'esprit derrière tout ça [Agile Manifesto, Lean, Scrum, ...]       Les outils : du papier à l'iphone       Débat : comment commencer ?
 La session sera interactive et vous permettra de découvrir scrum concrètement par des travaux pratiques.

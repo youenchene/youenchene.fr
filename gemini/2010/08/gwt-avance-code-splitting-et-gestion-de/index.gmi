@@ -5,9 +5,11 @@
 
 
 
-[
 
-=> http://www.driveo.fr/ Embedded Image: http://www.driveo.fr/.
+
+=> /assets/external/1.bp.blogspot.com/_7LQ1EXHnw30/S0b1PLGcZOI/AAAAAAAADVg/69dv45oE788/s200/toolkit_proposed_icon_128.png Embedded Image: /assets/external/1.bp.blogspot.com/_7LQ1EXHnw30/S0b1PLGcZOI/AAAAAAAADVg/69dv45oE788/s200/toolkit_proposed_icon_128.png
+
+Suite à l'article de janvier [3], voici la suite avec pour toile de fond l'évolution de Driveo l'application SaaS de gestion d'auto école [4].
 ## Les limites du code splittingMalgré les analyses poussées que peuvent fournir les outils de GWT (SOYC - Story Of Your Compile), on arrive rapidement à la limite de l'exercice du fait que l'application n'a pas été structuré dès le début pour être chargeable bloc à bloc en fonction des besoins de l'utilisateur.
 
 Le principe est de découper le menu en plusieurs sous-menus. Chaque sous-menu regroupe les appels aux fonctionnalités propre à une habilitation. Chaque sous-menu doit gérer le cycle de vie des gestion des  écrans/objets propres à son habilitation.Ensuite, en fonction des habilitations, le menu père va charger en asynchrone les différents sous-menus. Les points de séparation (split) se feront à ce niveau. Chaque écran étant indépendant et n'interagissant qu'avec le bus événementiel, la premier javascript (le .cache.html) devrait être de taille très raisonnable.
@@ -17,7 +19,7 @@ Pour cela, j'ai du refactorer (réécrire une partie du code) le menu de Driveo.
 
 Comme ce n'est pas très funky et que pas grand chose n'est visible pour les clients, je ne l'ai fait que 1 an et demi après...
 
-La chose est relativement aisée et c'est bien documenté : Large  scale application development and MVP [3]. Le  code source de l'exemple est même disponible [4]. L'exemple comprend une utilisation de la gestion de l'historique avec GWT.
+La chose est relativement aisée et c'est bien documenté : Large  scale application development and MVP [5]. Le  code source de l'exemple est même disponible [6]. L'exemple comprend une utilisation de la gestion de l'historique avec GWT.
 
 Le principe est que chaque élément des sous-menus est une ancre (Anchor). Quand on clique sur cette ancre, l'URL est modifié (un #NomMenu est rajouté à la fin) et un événement javascript de type historique est créé. Il suffit alors de réceptionner et de filtrer ces évènements dans les sous-menus pour gérer le cycle de vie de l'écran (l'afficher, le cacher, le détruire, le re-créer).
 
@@ -27,17 +29,21 @@ Cependant, il faut bien tester la chose et bien vérifier le comportement de l'a
 La mise à jour du menu, lui à permis de descendre très fortement la taille du javascript initial (à 270ko - dans la courbe il y aussi le CSS et les images) et surtout de le stabiliser malgré l'ajout de fonctionnalités.
 
 
-[
 
-=> /assets/external/4.bp.blogspot.com/_7LQ1EXHnw30/TFbH5lfJAjI/AAAAAAAADiU/5JpjD6QO9Eo/s1600/Suivi+%C3%A9vol+Driveo2.png Embedded Image: /assets/external/4.bp.blogspot.com/_7LQ1EXHnw30/TFbH5lfJAjI/AAAAAAAADiU/5JpjD6QO9Eo/s1600/Suivi+%C3%A9vol+Driveo2.pngCliquer sur l'image pour l'agrandir
+
+=> /assets/external/4.bp.blogspot.com/_7LQ1EXHnw30/TFbH5lfJAjI/AAAAAAAADiU/5JpjD6QO9Eo/s400/Suivi+%C3%A9vol+Driveo2.png Embedded Image: /assets/external/4.bp.blogspot.com/_7LQ1EXHnw30/TFbH5lfJAjI/AAAAAAAADiU/5JpjD6QO9Eo/s400/Suivi+%C3%A9vol+Driveo2.png
+
+Cliquer sur l'image pour l'agrandir
 
 
 
 
 ## References
 
-=> http://code.google.com/intl/fr/webtoolkit/doc/latest/tutorial/mvp-architecture.html [3] Large  scale application development and MVP (http://code.google.com/intl/fr/webtoolkit/doc/latest/tutorial/mvp-architecture.html)
-=> http://code.google.com/intl/fr/webtoolkit/doc/latest/tutorial/projects/Contacts.zip [4] Le  code source de l'exemple est même disponible (http://code.google.com/intl/fr/webtoolkit/doc/latest/tutorial/projects/Contacts.zip)
+=> http://www.youenchene.fr/2010/01/gwt-avance-event-bus-mvp-et-code.html [3] article de janvier (http://www.youenchene.fr/2010/01/gwt-avance-event-bus-mvp-et-code.html)
+=> http://www.driveo.fr/ [4] Driveo l'application SaaS de gestion d'auto école (http://www.driveo.fr/)
+=> http://code.google.com/intl/fr/webtoolkit/doc/latest/tutorial/mvp-architecture.html [5] Large  scale application development and MVP (http://code.google.com/intl/fr/webtoolkit/doc/latest/tutorial/mvp-architecture.html)
+=> http://code.google.com/intl/fr/webtoolkit/doc/latest/tutorial/projects/Contacts.zip [6] Le  code source de l'exemple est même disponible (http://code.google.com/intl/fr/webtoolkit/doc/latest/tutorial/projects/Contacts.zip)
 ---
 
 

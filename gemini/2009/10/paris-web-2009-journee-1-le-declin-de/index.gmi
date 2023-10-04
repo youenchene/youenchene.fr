@@ -5,17 +5,19 @@
 
 
 
-[
 
-=> http://www.youenchene.fr/2008/11/paris-web-2008-journe-2-browser-war.html Embedded Image: http://www.youenchene.fr/2008/11/paris-web-2008-journe-2-browser-war.html), je me suis réinscrit avec un grand enthousiasme à la version 2009.
+
+=> /assets/external/1.bp.blogspot.com/_7LQ1EXHnw30/Ss5Q5CyYXDI/AAAAAAAADLo/u7SDs5VDBro/s320/IMG_0236.JPG Embedded Image: /assets/external/1.bp.blogspot.com/_7LQ1EXHnw30/Ss5Q5CyYXDI/AAAAAAAADLo/u7SDs5VDBro/s320/IMG_0236.JPG
+
+Suite à la claque de l'année dernière lors de ma première venu à la conférence ParisWeb [3] (cet article [4] et celui la [5]), je me suis réinscrit avec un grand enthousiasme à la version 2009.
 
 Cette année, il y a beaucoup moins d'accessibilité que l'année dernière, les sujets sont donc bien plus variés.
 
-Après une première session sur les difficultés de positionnement des intégrateurs au sein des projets et des entreprises qui m'a rappelé l'article du Touilleur Express [3], voici un récapitulatif des différents points à retenir des présentations de cette première journée :
+Après une première session sur les difficultés de positionnement des intégrateurs au sein des projets et des entreprises qui m'a rappelé l'article du Touilleur Express [6], voici un récapitulatif des différents points à retenir des présentations de cette première journée :
 
 IE (et surtout IE6) est sur le déclin cette année. Cependant, la communauté est en attente du déploiement de Windows 7 en entreprise pour en finir avec IE6. Ce dernier ayant survécu avec l'échec de Vista (c'est ma propre interprétation). A partir de 2011, ça va être beaucoup plus sympa de développer pour le web. ("One Web" de Daniel Glazman).
 
-Le protocole HTTP pourrait être mieux utilisé et c'est quasiment trop tard de changer la donne. Cependant, les architecture REST [4] remettent ces principes à la mode. ("HTTP pour les naïfs et les brutes" de Karl Dubost).
+Le protocole HTTP pourrait être mieux utilisé et c'est quasiment trop tard de changer la donne. Cependant, les architecture REST [7] remettent ces principes à la mode. ("HTTP pour les naïfs et les brutes" de Karl Dubost).
 
 Open ID provoque toujours autant de débats. ("Un Web Ouvert" de Eric Daspet).
 
@@ -23,24 +25,29 @@ Pour sécuriser un site web, faites participer des personnes expérimentées sur
 
 La journée s'est terminé par un débat sur le web mobile, j'en ai retenu les points suivants:
 Apple lture dans une entreprise indépendante lié à l'état,  on pourrait réduire le "volumétrie d'ondes" par 3 (i.e. le nombre d'opérateur) comme pour la télé, l'électricité et le train. Mais là, c'est à nos politiques d'agir  - on (ne) compte (pas) sur eux!
-(Informations à vérifier par quelqu'un de plus compétent que moi sur le sujet).Un lien intéressant : les bonnes pratiques pour le web mobile par le w3c [5].Enfin, je l'avais demandé l'année dernière (et je ne devais pas être le seul). Il y avait un buffet pour avoir un plus de temps pour discuter avec les participants et les intervenants.
+(Informations à vérifier par quelqu'un de plus compétent que moi sur le sujet).Un lien intéressant : les bonnes pratiques pour le web mobile par le w3c [8].Enfin, je l'avais demandé l'année dernière (et je ne devais pas être le seul). Il y avait un buffet pour avoir un plus de temps pour discuter avec les participants et les intervenants.
 
 Les présentations :
-"Basic housekeeping" [7] de Christian Heilman
+"Basic housekeeping" [10] de Christian Heilman
 
-[
 
-=> /assets/external/3.bp.blogspot.com/_7LQ1EXHnw30/Ss5ZZznT5fI/AAAAAAAADLw/6Du2bf_TzkM/s1600-h/IMG_0233.JPG Embedded Image: /assets/external/3.bp.blogspot.com/_7LQ1EXHnw30/Ss5ZZznT5fI/AAAAAAAADLw/6Du2bf_TzkM/s1600-h/IMG_0233.JPG
+
+=> /assets/external/3.bp.blogspot.com/_7LQ1EXHnw30/Ss5ZZznT5fI/AAAAAAAADLw/6Du2bf_TzkM/s320/IMG_0233.JPG Embedded Image: /assets/external/3.bp.blogspot.com/_7LQ1EXHnw30/Ss5ZZznT5fI/AAAAAAAADLw/6Du2bf_TzkM/s320/IMG_0233.JPG
+
+
 
 
 
 ## References
 
-=> http://www.touilleur-express.fr/2009/07/27/senior/ [3] article du Touilleur Express (http://www.touilleur-express.fr/2009/07/27/senior/)
-=> http://fr.wikipedia.org/wiki/REST [4] REST (http://fr.wikipedia.org/wiki/REST)
-=> http://www.w3.org/TR/2008/WD-mwabp-20081222/ [5] les bonnes pratiques pour le web mobile par le w3c (http://www.w3.org/TR/2008/WD-mwabp-20081222/)
-=> http://www.slideshare.net/glazou/paris-web2009-one-web [6] "One Web" (http://www.slideshare.net/glazou/paris-web2009-one-web)
-=> http://www.slideshare.net/cheilmann/basic-housekeeping-plugging-obvious-security-holes-in-web-sites-paris-web2009 [7] "Basic housekeeping" (http://www.slideshare.net/cheilmann/basic-housekeeping-plugging-obvious-security-holes-in-web-sites-paris-web2009)
+=> http://www.paris-web.fr/2009/ [3] ParisWeb (http://www.paris-web.fr/2009/)
+=> http://www.youenchene.fr/2008/11/paris-web-08-journe-1-les-geeks-ont-du.html [4] cet article (http://www.youenchene.fr/2008/11/paris-web-08-journe-1-les-geeks-ont-du.html)
+=> http://www.youenchene.fr/2008/11/paris-web-2008-journe-2-browser-war.html [5] celui la (http://www.youenchene.fr/2008/11/paris-web-2008-journe-2-browser-war.html)
+=> http://www.touilleur-express.fr/2009/07/27/senior/ [6] article du Touilleur Express (http://www.touilleur-express.fr/2009/07/27/senior/)
+=> http://fr.wikipedia.org/wiki/REST [7] REST (http://fr.wikipedia.org/wiki/REST)
+=> http://www.w3.org/TR/2008/WD-mwabp-20081222/ [8] les bonnes pratiques pour le web mobile par le w3c (http://www.w3.org/TR/2008/WD-mwabp-20081222/)
+=> http://www.slideshare.net/glazou/paris-web2009-one-web [9] "One Web" (http://www.slideshare.net/glazou/paris-web2009-one-web)
+=> http://www.slideshare.net/cheilmann/basic-housekeeping-plugging-obvious-security-holes-in-web-sites-paris-web2009 [10] "Basic housekeeping" (http://www.slideshare.net/cheilmann/basic-housekeeping-plugging-obvious-security-holes-in-web-sites-paris-web2009)
 ---
 
 

@@ -9,12 +9,16 @@ Mercredi dernier j'ai été télétravaillé depuis le batiment "Seine Innopolis
 
 
 
-=> /assets/img_posts/si_logo.jpg Embedded Image: /assets/img_posts/si_logo.jpg
+=> /assets/img_posts/si_logo.jpg Embedded Image: /assets/img_posts/si_logo.jpg 
 
 
 
 
-=> /assets/img_posts/si_mine.jpg Embedded Image: /assets/img_posts/si_mine.jpg
+
+
+=> /assets/img_posts/si_mine.jpg Embedded Image: /assets/img_posts/si_mine.jpg 
+
+
 
 J'ai croisé un mineur de bitcoins
 
@@ -24,7 +28,9 @@ J'ai croisé un mineur de bitcoins
 
 
 
-=> /assets/img_posts/si_ps3.jpg Embedded Image: /assets/img_posts/si_ps3.jpg
+=> /assets/img_posts/si_ps3.jpg Embedded Image: /assets/img_posts/si_ps3.jpg 
+
+
 
 Un serveur "big data" chez Creative et Coaxys
 
@@ -42,7 +48,9 @@ Un point que l'on remarque rapidement dans la journée, c'est la modernité des 
 
 
 
-=> /assets/img_posts/si_bureaudebout.jpg Embedded Image: /assets/img_posts/si_bureaudebout.jpg
+=> /assets/img_posts/si_bureaudebout.jpg Embedded Image: /assets/img_posts/si_bureaudebout.jpg 
+
+
 
 L'indépendant Bertrand Keller [10] en plein travail son bureau debout
 
@@ -51,7 +59,9 @@ L'indépendant Bertrand Keller [10] en plein travail son bureau debout
 
 
 
-=> /assets/img_posts/si_cd.jpg Embedded Image: /assets/img_posts/si_cd.jpg
+=> /assets/img_posts/si_cd.jpg Embedded Image: /assets/img_posts/si_cd.jpg 
+
+
 
 Arnaud Muller [11] en plein management
 
@@ -65,7 +75,9 @@ Vous trouverez plus d'information sur le site de nwx [12].
 
 
 
-=> /assets/img_posts/si_cantinenwx.jpg Embedded Image: /assets/img_posts/si_cantinenwx.jpg
+=> /assets/img_posts/si_cantinenwx.jpg Embedded Image: /assets/img_posts/si_cantinenwx.jpg 
+
+
 
 La cantine NWX rien que pour moi.
 
@@ -76,7 +88,9 @@ Avec mes compères du Normandy JUG [13], on a rempli la cantine NWX à partir de
 
 
 
-=> /assets/img_posts/si_njug1.jpg Embedded Image: /assets/img_posts/si_njug1.jpg
+=> /assets/img_posts/si_njug1.jpg Embedded Image: /assets/img_posts/si_njug1.jpg 
+
+
 
 Vincent en direct chez lui à la cantine NWX
 
@@ -85,7 +99,9 @@ Vincent en direct chez lui à la cantine NWX
 
 
 
-=> /assets/img_posts/si_njug2.jpg Embedded Image: /assets/img_posts/si_njug2.jpg
+=> /assets/img_posts/si_njug2.jpg Embedded Image: /assets/img_posts/si_njug2.jpg 
+
+
 
 Démo de spark (ouch... du scala)
 

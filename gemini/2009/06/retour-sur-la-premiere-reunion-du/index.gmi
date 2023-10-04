@@ -5,11 +5,13 @@
 
 
 
-[
 
-=> http://www.normandyjug.org/ Embedded Image: http://www.normandyjug.org/ a réuni près d'une quarantaine de personnes.
 
-La première présentation a été consacré à une "battle" GWT versus Wicket avec Nicolas Giard de Noocodecommit [2] et moi même. La présentation a un peu durée. Nous avons eu pas mal de questions notamment sur GWT qui casse les habitudes de développement Web. De ce fait, je crois même que j'ai du répondre à côté d'une question sur le cache.
+=> /assets/external/1.bp.blogspot.com/_7LQ1EXHnw30/Sj_I5rRRHqI/AAAAAAAADEQ/-C6SY27-GbA/s320/logo-juggy2.png Embedded Image: /assets/external/1.bp.blogspot.com/_7LQ1EXHnw30/Sj_I5rRRHqI/AAAAAAAADEQ/-C6SY27-GbA/s320/logo-juggy2.png
+
+C'était il y a une semaine au Pôle Normand à Mont Saint Aignan [2]. Le Normandy JUG [3] a réuni près d'une quarantaine de personnes.
+
+La première présentation a été consacré à une "battle" GWT versus Wicket avec Nicolas Giard de Noocodecommit [4] et moi même. La présentation a un peu durée. Nous avons eu pas mal de questions notamment sur GWT qui casse les habitudes de développement Web. De ce fait, je crois même que j'ai du répondre à côté d'une question sur le cache.
 
 
 
@@ -19,26 +21,28 @@ La présentation :
 
 Un merci à Nicolas pour avoir relever le challenge, il faut savoir que avant l'organisation du Normandy JUG nous nous sommes uniquement croisé que par mail. Un merci aussi au public qui a fait vivre la session avec ses questions.
 
-La deuxième partie sur l'intégration continue était assurée par Dimitri Baeli [3] de Exo Platform [4] et Laurent Deséchallier [5]. L'objectif était de montrer qu'une petite structure ou une moyenne structure ont la capacité à intégrer un processus d'intégration continue pour leur(s) équipe(s) de développement. Si le débat a un peu trop dévié sur l'intérêt d'une approche orientée tests, nous avons pu avoir un premier aperçu des enjeux, des principes et de l'outillage.
+La deuxième partie sur l'intégration continue était assurée par Dimitri Baeli [5] de Exo Platform [6] et Laurent Deséchallier [7]. L'objectif était de montrer qu'une petite structure ou une moyenne structure ont la capacité à intégrer un processus d'intégration continue pour leur(s) équipe(s) de développement. Si le débat a un peu trop dévié sur l'intérêt d'une approche orientée tests, nous avons pu avoir un premier aperçu des enjeux, des principes et de l'outillage.
 
 La présentation :
 
 
 
-Cette présentation sera sans doute complétée à l'automne par des présentations plus orientées outillage (maven, easy ant etc....). Les tracations sont ouvertes sur le forum du Normandy JUG [6].
+Cette présentation sera sans doute complétée à l'automne par des présentations plus orientées outillage (maven, easy ant etc....). Les tracations sont ouvertes sur le forum du Normandy JUG [8].
 
-Enfin, un grand merci à Benjamin Anseaume [7] du Pôle Normand qui est resté plus tard que prévu pour accueillir cette première réunion.
+Enfin, un grand merci à Benjamin Anseaume [9] du Pôle Normand qui est resté plus tard que prévu pour accueillir cette première réunion.
 
 
 
 ## References
 
-=> http://www.noocodecommit.com/ [2] Noocodecommit (http://www.noocodecommit.com/)
-=> http://twitter.com/dbaeli [3] Dimitri Baeli (http://twitter.com/dbaeli)
-=> http://www.exoplatform.com/ [4] Exo Platform (http://www.exoplatform.com/)
-=> http://desechalliers.ldeweb.net/ [5] Laurent Deséchallier (http://desechalliers.ldeweb.net/)
-=> http://groups.google.com/group/normandyjug [6] forum du Normandy JUG (http://groups.google.com/group/normandyjug)
-=> http://www.anseaume.com/ [7] Benjamin Anseaume (http://www.anseaume.com/)
+=> http://www.polenormand.fr/ [2] Pôle Normand à Mont Saint Aignan (http://www.polenormand.fr/)
+=> http://www.normandyjug.org/ [3] Normandy JUG (http://www.normandyjug.org/)
+=> http://www.noocodecommit.com/ [4] Noocodecommit (http://www.noocodecommit.com/)
+=> http://twitter.com/dbaeli [5] Dimitri Baeli (http://twitter.com/dbaeli)
+=> http://www.exoplatform.com/ [6] Exo Platform (http://www.exoplatform.com/)
+=> http://desechalliers.ldeweb.net/ [7] Laurent Deséchallier (http://desechalliers.ldeweb.net/)
+=> http://groups.google.com/group/normandyjug [8] forum du Normandy JUG (http://groups.google.com/group/normandyjug)
+=> http://www.anseaume.com/ [9] Benjamin Anseaume (http://www.anseaume.com/)
 ---
 
 

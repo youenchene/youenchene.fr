@@ -5,11 +5,13 @@
 
 
 
-[
 
-=> http://twitter.com/LudoPassamonti Embedded Image: http://twitter.com/LudoPassamonti, un consultant web basé sur la région Rouennaise. Je reviens sur mon expérience avec Fermiers d'à côté, sur l'avancement de Driveo et quelques conseils aux entrepreneurs de mon cru.
 
-Le lien vers l'interview [2].
+=> /assets/external/2.bp.blogspot.com/_7LQ1EXHnw30/S7I3PhevU9I/AAAAAAAADeA/SxRtYfIiac8/s320/Capture+d%E2%80%99%C3%A9cran+2010-03-30+%C3%A0+19.37.24.png Embedded Image: /assets/external/2.bp.blogspot.com/_7LQ1EXHnw30/S7I3PhevU9I/AAAAAAAADeA/SxRtYfIiac8/s320/Capture+d%E2%80%99%C3%A9cran+2010-03-30+%C3%A0+19.37.24.png
+
+Il y a 2 semaines, je me suis fait interviewé par Ludovic Passamonti [2], un consultant web basé sur la région Rouennaise. Je reviens sur mon expérience avec Fermiers d'à côté, sur l'avancement de Driveo et quelques conseils aux entrepreneurs de mon cru.
+
+Le lien vers l'interview [3].
 
 Le verbatim de l'interview :
 
@@ -20,9 +22,9 @@ Bonjour Youen ! Présente nous rapidement ton parcours.
   
  Justement, pourquoi et comment t’es tu lancé dans l’entreprenariat web ?
   
- J’ai toujours eu l’esprit d’indépendance, et l’envie de monter ma propre entreprise. Etant fils d’agriculteur, je connais bien les contraintes et difficultés de ce métier, et j’ai eu l’idée de Fermiersdacote.fr, plateforme de vente directe entre producteurs et consommateurs [8]. Comment as tu travaillé pour créer le site ?
+ J’ai toujours eu l’esprit d’indépendance, et l’envie de monter ma propre entreprise. Etant fils d’agriculteur, je connais bien les contraintes et difficultés de ce métier, et j’ai eu l’idée de Fermiersdacote.fr, plateforme de vente directe entre producteurs et consommateurs [9]. Comment as tu travaillé pour créer le site ?
   
- Entre 2 missions de consulting ! Les premiers schémas de l’interface de Fermiersdacote.fr [9] #5 #3 ont été fait dans une chambre d’hôtel lors d’une mission à Clermont-Ferrand durant l’été 2007. 
+ Entre 2 missions de consulting ! Les premiers schémas de l’interface de Fermiersdacote.fr [10] #6 #4 ont été fait dans une chambre d’hôtel lors d’une mission à Clermont-Ferrand durant l’été 2007. 
 
 
   
@@ -35,7 +37,7 @@ Bonjour Youen ! Présente nous rapidement ton parcours.
  Ne pas investir en publicité et marketing tant que la partie commerciale (le modèle économique + l’interface du site) n’est pas au point. 
 
   
- Oui, ce fut une opportunité qui s’est présentée fin 2008. La société a été contactée pour développer un logiciel d’auto-école nouvelle génération [10]. C’est un progiciel en Saas (software as a service [11]) qui permet à l’auto école de gérer toute son activité en ligne. 
+ Oui, ce fut une opportunité qui s’est présentée fin 2008. La société a été contactée pour développer un logiciel d’auto-école nouvelle génération [11]. C’est un progiciel en Saas (software as a service [12]) qui permet à l’auto école de gérer toute son activité en ligne. 
 
 
   
@@ -58,16 +60,17 @@ Bonjour Youen ! Présente nous rapidement ton parcours.
 
 ## References
 
-=> http://www.ludovicpassamonti.com/archive/2010/03/16/youen-chene-fondateur-driveo-logiciel-gestion-auto-ecole.html [2] Le lien vers l'interview (http://www.ludovicpassamonti.com/archive/2010/03/16/youen-chene-fondateur-driveo-logiciel-gestion-auto-ecole.html)
-=> http://www.fermiersdacote.fr/ [3] Fermiersdacote.fr (http://www.fermiersdacote.fr/)
-=> http://www.driveo.fr/ [4] Driveo.fr (http://www.driveo.fr/)
-=> http://www.fermiersdacote.fr/ [5] Fermiersdacote.fr (http://www.fermiersdacote.fr/)
-=> http://www.driveo.fr/ [6] Driveo.fr (http://www.driveo.fr/)
-=> http://www.youenchene.fr/ [7] Youenchene.fr (http://www.youenchene.fr/)
-=> http://www.fermiersdacote.fr/ [8] Fermiersdacote.fr, plateforme de vente directe entre producteurs et consommateurs (http://www.fermiersdacote.fr/)
-=> http://www.fermiersdacote.fr/ [9] Fermiersdacote.fr (http://www.fermiersdacote.fr/)
-=> http://www.driveo.fr/ [10] logiciel d’auto-école nouvelle génération (http://www.driveo.fr/)
-=> http://fr.wikipedia.org/wiki/Logiciel_en_tant_que_service [11] software as a service (http://fr.wikipedia.org/wiki/Logiciel_en_tant_que_service)
+=> http://twitter.com/LudoPassamonti [2] Ludovic Passamonti (http://twitter.com/LudoPassamonti)
+=> http://www.ludovicpassamonti.com/archive/2010/03/16/youen-chene-fondateur-driveo-logiciel-gestion-auto-ecole.html [3] Le lien vers l'interview (http://www.ludovicpassamonti.com/archive/2010/03/16/youen-chene-fondateur-driveo-logiciel-gestion-auto-ecole.html)
+=> http://www.fermiersdacote.fr/ [4] Fermiersdacote.fr (http://www.fermiersdacote.fr/)
+=> http://www.driveo.fr/ [5] Driveo.fr (http://www.driveo.fr/)
+=> http://www.fermiersdacote.fr/ [6] Fermiersdacote.fr (http://www.fermiersdacote.fr/)
+=> http://www.driveo.fr/ [7] Driveo.fr (http://www.driveo.fr/)
+=> http://www.youenchene.fr/ [8] Youenchene.fr (http://www.youenchene.fr/)
+=> http://www.fermiersdacote.fr/ [9] Fermiersdacote.fr, plateforme de vente directe entre producteurs et consommateurs (http://www.fermiersdacote.fr/)
+=> http://www.fermiersdacote.fr/ [10] Fermiersdacote.fr (http://www.fermiersdacote.fr/)
+=> http://www.driveo.fr/ [11] logiciel d’auto-école nouvelle génération (http://www.driveo.fr/)
+=> http://fr.wikipedia.org/wiki/Logiciel_en_tant_que_service [12] software as a service (http://fr.wikipedia.org/wiki/Logiciel_en_tant_que_service)
 ---
 
 

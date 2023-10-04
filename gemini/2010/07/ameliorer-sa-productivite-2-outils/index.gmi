@@ -7,16 +7,20 @@
 
 Ce sont deux outils à la mode qui font le buzz depuis un bon moment chez les geeks. A force d'en entendre parler, de lire des tweets et des articles de blogs dessus, j'ai finalement testé et adopté ces deux très bonnes solutions.
 
-[
 
-=> https://www.jungledisk.com/ Embedded Image: https://www.jungledisk.com/.
+
+=> /assets/external/1.bp.blogspot.com/_7LQ1EXHnw30/TDCHo5oTTDI/AAAAAAAADg8/anTcxE72WCo/s320/dropbox_logo_home.png Embedded Image: /assets/external/1.bp.blogspot.com/_7LQ1EXHnw30/TDCHo5oTTDI/AAAAAAAADg8/anTcxE72WCo/s320/dropbox_logo_home.png
+
+Tout d'abord, il y a Dropbox [3] une solution qui permet d'avoir un dossier synchronisé entre plusieurs postes et en situation de mobilité (sur un téléphone ou une tablette). La solution est très simple, très efficace et sans bug. Mais surtout, le principal atout de la solution est son API [4]. C'est ce qui fait que j'ai abandonné les dossiers synchronisés de Jungle Disk [5].
 En effet, Dropbox est d'abord un écosystème très complet. Il est rempli aussi bien par la société Dropbox (qui fournit une application pour windows, mac, linux, iphone, ipad, Android etc...) que par les développeurs tiers. En effet de nombreuses applications (en particulier sur iPad) permettent d'accéder directement aux fichiers de sa dropbox.
 
 
-[
 
-=> http://www.evernote.com/ Embedded Image: http://www.evernote.com/. La solution permet de capturer/rédiger des prises de notes et de les synchroniser entre nos différents appareils (windows, mac, iphone, ipad, android, palm, blackberry, windows mobile, sony ericsson).
-A la suite la mort annoncé de Google Notebook [3], je n'avais plus vraiment d'outils pour les prises de notes et les captures de page web. Evernote est de bien meilleur qualité et a de l'avenir (modèle freemium et une API pour étendre son écosystème).
+
+=> /assets/external/1.bp.blogspot.com/_7LQ1EXHnw30/TDCJpt8YcEI/AAAAAAAADhE/0dZKPs4QOoQ/s320/logo-evernote.png Embedded Image: /assets/external/1.bp.blogspot.com/_7LQ1EXHnw30/TDCJpt8YcEI/AAAAAAAADhE/0dZKPs4QOoQ/s320/logo-evernote.png
+
+Le second outil est Evernote [6]. La solution permet de capturer/rédiger des prises de notes et de les synchroniser entre nos différents appareils (windows, mac, iphone, ipad, android, palm, blackberry, windows mobile, sony ericsson).
+A la suite la mort annoncé de Google Notebook [7], je n'avais plus vraiment d'outils pour les prises de notes et les captures de page web. Evernote est de bien meilleur qualité et a de l'avenir (modèle freemium et une API pour étendre son écosystème).
 
 A noter que le point commun entre ses 2 outils est qu'il ne s'agit pas d'un logiciel mais d'un écosystème ouvert à la twitter dont les données sont stockées chez le fournisseur de l'outil à la mode "cloud computing".
 
@@ -24,7 +28,11 @@ A noter que le point commun entre ses 2 outils est qu'il ne s'agit pas d'un logi
 
 ## References
 
-=> http://www.google.com/notebook [3] Google Notebook (http://www.google.com/notebook)
+=> https://www.dropbox.com/ [3] Dropbox (https://www.dropbox.com/)
+=> http://fr.wikipedia.org/wiki/Interface_de_programmation [4] API (http://fr.wikipedia.org/wiki/Interface_de_programmation)
+=> https://www.jungledisk.com/ [5] Jungle Disk (https://www.jungledisk.com/)
+=> http://www.evernote.com/ [6] Evernote (http://www.evernote.com/)
+=> http://www.google.com/notebook [7] Google Notebook (http://www.google.com/notebook)
 ---
 
 

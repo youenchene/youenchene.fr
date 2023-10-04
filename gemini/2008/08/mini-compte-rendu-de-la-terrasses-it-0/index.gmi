@@ -6,9 +6,11 @@
 
 
 Sous le soleil orageux, la première terrasse à réuni 3 rouennais :
-et moi même.Les discussions était très "Geek" voir même très "Linuxienne". En effet, Stéphane le barbu est membre de la RotomaLUG [4] de Rouen.[
+et moi même.Les discussions était très "Geek" voir même très "Linuxienne". En effet, Stéphane le barbu est membre de la RotomaLUG [4] de Rouen.
 
-=> /assets/external/1.bp.blogspot.com/_7LQ1EXHnw30/SJiDZiQ-bHI/AAAAAAAACPI/i8scFLcrO4I/s1600-h/images.jpg Embedded Image: /assets/external/1.bp.blogspot.com/_7LQ1EXHnw30/SJiDZiQ-bHI/AAAAAAAACPI/i8scFLcrO4I/s1600-h/images.jpg
+=> /assets/external/1.bp.blogspot.com/_7LQ1EXHnw30/SJiDZiQ-bHI/AAAAAAAACPI/i8scFLcrO4I/s320/images.jpg Embedded Image: /assets/external/1.bp.blogspot.com/_7LQ1EXHnw30/SJiDZiQ-bHI/AAAAAAAACPI/i8scFLcrO4I/s320/images.jpg
+
+
 Pour ceux qui ne savent ce que c'est une LUG est une association d'utilisateurs de logiciels libres qui réuni soit des passionnés (avec en option un poster de Richard Stallman ou Linus Torvalds dans leur chambre) et des curieux (qui ne s'y connaissent pas forcément en informatique).
 
 Un des points qui a fait écho est la mise en license libre (GPL, Apache, etc...) ou non des produits créés par une startups.

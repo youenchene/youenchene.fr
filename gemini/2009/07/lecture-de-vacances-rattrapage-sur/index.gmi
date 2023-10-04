@@ -5,17 +5,23 @@
 
 
 
-[
 
-=> http://www.springsource.com/ Embedded Image: http://www.springsource.com/) dans mes lectures de vacances.
+
+=> /assets/external/1.bp.blogspot.com/_7LQ1EXHnw30/Sly0DBzK_8I/AAAAAAAADFg/HQcEH27YaiY/s320/IMG_0148.JPG Embedded Image: /assets/external/1.bp.blogspot.com/_7LQ1EXHnw30/Sly0DBzK_8I/AAAAAAAADFg/HQcEH27YaiY/s320/IMG_0148.JPG
+
+Suite aux conseils d'un indépendant J2EE, afin de compléter d'une part mes compétences d'architecte SOA chez Logica et d'autre part la partie serveur pour Driveo [4] et Fermiers d'à côté [5], j'ai inclus les 2 livres de Rod Johnson (un des concepteurs de Spring [6]) dans mes lectures de vacances.
 
 Les 2 livres "Wrox / expert one-on-one" sont intitulés :
-Expert One-On-One J2Ee Design and Development [4]
+Expert One-On-One J2Ee Design and Development [7]
 
-=> http://www.assoc-amazon.fr/e/ir?t=yetanotentrbl-21&amp;l=as2&amp;o=8&amp;a=0764543857 Embedded Image: http://www.assoc-amazon.fr/e/ir?t=yetanotentrbl-21&amp;l=as2&amp;o=8&amp;a=0764543857
-Expert One-on-One J2EE Development without EJB [5]
+=> http://www.assoc-amazon.fr/e/ir?t=yetanotentrbl-21&amp;l=as2&amp;o=8&amp;a=0764543857 Embedded Image: http://www.assoc-amazon.fr/e/ir?t=yetanotentrbl-21&amp;l=as2&amp;o=8&amp;a=0764543857 
 
-=> http://www.assoc-amazon.fr/e/ir?t=yetanotentrbl-21&amp;l=as2&amp;o=8&amp;a=0764558315 Embedded Image: http://www.assoc-amazon.fr/e/ir?t=yetanotentrbl-21&amp;l=as2&amp;o=8&amp;a=0764558315
+
+Expert One-on-One J2EE Development without EJB [8]
+
+=> http://www.assoc-amazon.fr/e/ir?t=yetanotentrbl-21&amp;l=as2&amp;o=8&amp;a=0764558315 Embedded Image: http://www.assoc-amazon.fr/e/ir?t=yetanotentrbl-21&amp;l=as2&amp;o=8&amp;a=0764558315 
+
+
 
 Si les 2 livres commencent à dater, il en reste au moins 70% de toujours valable. Le premier livre (2002/2003) prend sa source dans les difficultés des projets J2EE à base d'EJB de l'époque. Le deuxième livre sonne la fin des EJBs 2 et annonce les débuts prometteurs du framework Spring.
 
@@ -52,8 +58,11 @@ Du travail pour mon retour de vacances ! (En plus des nouvelles fonctionnalités
 
 ## References
 
-=> http://www.amazon.fr/gp/product/0764543857?ie=UTF8&amp;tag=yetanotentrbl-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=0764543857 [4] Expert One-On-One J2Ee Design and Development (http://www.amazon.fr/gp/product/0764543857?ie=UTF8&amp;tag=yetanotentrbl-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=0764543857)
-=> http://www.amazon.fr/gp/product/0764558315?ie=UTF8&amp;tag=yetanotentrbl-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=0764558315 [5] Expert One-on-One J2EE Development without EJB (http://www.amazon.fr/gp/product/0764558315?ie=UTF8&amp;tag=yetanotentrbl-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=0764558315)
+=> http://www.driveo.fr/ [4] Driveo (http://www.driveo.fr/)
+=> http://www.fermiersdacote.fr/ [5] Fermiers d'à côté (http://www.fermiersdacote.fr/)
+=> http://www.springsource.com/ [6] Spring (http://www.springsource.com/)
+=> http://www.amazon.fr/gp/product/0764543857?ie=UTF8&amp;tag=yetanotentrbl-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=0764543857 [7] Expert One-On-One J2Ee Design and Development (http://www.amazon.fr/gp/product/0764543857?ie=UTF8&amp;tag=yetanotentrbl-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=0764543857)
+=> http://www.amazon.fr/gp/product/0764558315?ie=UTF8&amp;tag=yetanotentrbl-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=0764558315 [8] Expert One-on-One J2EE Development without EJB (http://www.amazon.fr/gp/product/0764558315?ie=UTF8&amp;tag=yetanotentrbl-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=0764558315)
 ---
 
 

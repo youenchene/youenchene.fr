@@ -5,9 +5,11 @@
 
 
 
-[
 
-=> http://code.google.com/webtoolkit/ Embedded Image: http://code.google.com/webtoolkit/.
+
+=> http://code.google.com/webtoolkit/images/gwt-logo.png Embedded Image: http://code.google.com/webtoolkit/images/gwt-logo.png
+
+Voici un retour d'expérience de l'utilisation de GWT, des premiers maquettages à la mise en production. L'article est divisé en différents thèmes qui mettent en avant les avantages et les défauts du Google Web Toolkit [3].
 
 GWT en quelques mots: 
 
@@ -47,13 +49,15 @@ Ce qu'il manque encore à GWT :
 
 (Si quelqu'un de google tombe sur cet article)
 
-[
 
-=> /assets/external/1.bp.blogspot.com/_7LQ1EXHnw30/SOppIAbYv9I/AAAAAAAACUI/Dun_piEThVE/s1600-h/evolution_de_la_taille.png Embedded Image: /assets/external/1.bp.blogspot.com/_7LQ1EXHnw30/SOppIAbYv9I/AAAAAAAACUI/Dun_piEThVE/s1600-h/evolution_de_la_taille.pngUn lazy loading (chargement différé) au niveau du chargement de l'application (le fichier html avec plein de javascript illisible dedans), car plus on ajoute de fonctionnalités plus le premier chargement est long pour l'utilisateur. Actuellement fermiers d'à côté est à 640ko avec un code où il y a une bonne marge d'optimisation.
 
-Des widgets avancés stables (date picker, light box, color picker, etc..). Certains sont disponibles dans gwt-incubator [3], mais comme le nom l'indique ce n'est pas encore des versions finales. Il faut aussi noter que ceratins widget (un peu) complexe et inclus dans le framework de base ne sont pas encore très mature.
+=> /assets/external/1.bp.blogspot.com/_7LQ1EXHnw30/SOppIAbYv9I/AAAAAAAACUI/Dun_piEThVE/s400/evolution_de_la_taille.png Embedded Image: /assets/external/1.bp.blogspot.com/_7LQ1EXHnw30/SOppIAbYv9I/AAAAAAAACUI/Dun_piEThVE/s400/evolution_de_la_taille.png
 
-Une meilleur intégration des services google dans GWT car pour le moment ce n'est pas le cas. L'intégration de GoogleMap et Gears (gestion du offline) avance à grand pas [4] mais pour les autres c'est plus compliqué (ou dela bidouille).
+Un lazy loading (chargement différé) au niveau du chargement de l'application (le fichier html avec plein de javascript illisible dedans), car plus on ajoute de fonctionnalités plus le premier chargement est long pour l'utilisateur. Actuellement fermiers d'à côté est à 640ko avec un code où il y a une bonne marge d'optimisation.
+
+Des widgets avancés stables (date picker, light box, color picker, etc..). Certains sont disponibles dans gwt-incubator [4], mais comme le nom l'indique ce n'est pas encore des versions finales. Il faut aussi noter que ceratins widget (un peu) complexe et inclus dans le framework de base ne sont pas encore très mature.
+
+Une meilleur intégration des services google dans GWT car pour le moment ce n'est pas le cas. L'intégration de GoogleMap et Gears (gestion du offline) avance à grand pas [5] mais pour les autres c'est plus compliqué (ou dela bidouille).
 
 Une conseil pour finir :
 
@@ -64,8 +68,9 @@ Une tactique est de contraindre le moins possible l'interface dans GWT pour en d
 
 ## References
 
-=> http://code.google.com/p/google-web-toolkit-incubator/ [3] gwt-incubator (http://code.google.com/p/google-web-toolkit-incubator/)
-=> http://code.google.com/p/gwt-google-apis/ [4] à grand pas (http://code.google.com/p/gwt-google-apis/)
+=> http://code.google.com/webtoolkit/ [3] Google Web Toolkit (http://code.google.com/webtoolkit/)
+=> http://code.google.com/p/google-web-toolkit-incubator/ [4] gwt-incubator (http://code.google.com/p/google-web-toolkit-incubator/)
+=> http://code.google.com/p/gwt-google-apis/ [5] à grand pas (http://code.google.com/p/gwt-google-apis/)
 ---
 
 

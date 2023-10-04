@@ -3,9 +3,11 @@
 
 
 
-[
 
-=> /assets/external/3.bp.blogspot.com/-MdU5WEaI4e0/TpHjZCq8FTI/AAAAAAAAEys/AKAdsyxKuf0/s1600/normandyAgile_Logo.png Embedded Image: /assets/external/3.bp.blogspot.com/-MdU5WEaI4e0/TpHjZCq8FTI/AAAAAAAAEys/AKAdsyxKuf0/s1600/normandyAgile_Logo.png
+
+=> /assets/external/3.bp.blogspot.com/-MdU5WEaI4e0/TpHjZCq8FTI/AAAAAAAAEys/AKAdsyxKuf0/s200/normandyAgile_Logo.png Embedded Image: /assets/external/3.bp.blogspot.com/-MdU5WEaI4e0/TpHjZCq8FTI/AAAAAAAAEys/AKAdsyxKuf0/s200/normandyAgile_Logo.png
+
+
 Me voici de retour sur mon blog. L'année 2011 a été assez chargée. J'ai laissé les allers-retours Rouen-Paris pour le nord de l'Eure tout en préparant l'architecture domotique de ma maison. En plus de cela, un rythme élevé de nouvelles fonctions Driveo sont sortie cette année. Je développerai plus ces sujets dans de prochains billets.
 
 Avant cela, ce jeudi 13 octobre, à Mont Saint Aignan, &nbsp;a lieu l'étape Rouennaise de l'Agile Tour. Il s'agit d'un évènement d'une journée pour sensibiliser les étudiants, développeurs, chefs de projets et décideurs aux méthodes agiles. Cette année l'évènement mettra en avant pas mal de retours d'expérience.

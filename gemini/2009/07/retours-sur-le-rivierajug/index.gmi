@@ -5,30 +5,33 @@
 
 
 
-[
 
-=> http://www.rivierajug.org Embedded Image: http://www.rivierajug.org dans les locaux de Amadeus.
+
+=> http://www.rivierajug.org/xwiki/bin/download/XWiki/RivieraJUGSkin/rivierajug%2Dlogo%2D1%2D300x100.png Embedded Image: http://www.rivierajug.org/xwiki/bin/download/XWiki/RivieraJUGSkin/rivierajug%2Dlogo%2D1%2D300x100.png
+
+En vacances dans le var, j'ai fait un détour à Sophia Antipolis pour assister à la 4ème session du RivieraJug [2] dans les locaux de Amadeus.
 
 La première présentation était sur scrum. Le speaker polonais était très tranchant dans ses réponses. Ce processus de développement me plait bien mais il casse un peu les habitudes mais cela à pour conséquence de mal passer auprès des organisations actuelles. J'ai aussi apprécié la citation "Managers don't feel good with scrum ... may be it's because scrum is transparent" (Les managers n'apprécient pas scrum ... peut être que c'est parce que scrum est transparent), le meilleur exemple est celui des réunions quotidiennes ou seule l'équipe de développement est autorisé à parler. Cela change énormément du mode chef de projet qui re-sauce un peut les faits pour avoir une marge de jours pour les corrections post livraisons.
 
 En résumé de ce que j'ai compris, Scrum c'est :
 Une vélocité (vitesse d'avancement) qui permet de mesurer le nombre d'éxigences réalisées par sprint. Cela  permettra de faire un minimum de planification au fur et à mesure de l'avancement du projet.
-La suite est sur les slides [2].
+La suite est sur les slides [3].
 
-A voir si le processus est applicable à du développement EAI/ESB ou 70% du travail et des retards sont au niveau des contrats d'interfaces (spécifications). En tout cas pour un projet du type Driveo [3], c'est le processus que j'utiliserais à partir d'une équipe de 3/4 personnes.
+A voir si le processus est applicable à du développement EAI/ESB ou 70% du travail et des retards sont au niveau des contrats d'interfaces (spécifications). En tout cas pour un projet du type Driveo [4], c'est le processus que j'utiliserais à partir d'une équipe de 3/4 personnes.
 
-La deuxième présentation sur Groovy [4] m'a un peu déçu, le speaker a souhaité entrer dans les entrailles du code plutôt que de montrer à quoi groovy pouvait servir.
+La deuxième présentation sur Groovy [5] m'a un peu déçu, le speaker a souhaité entrer dans les entrailles du code plutôt que de montrer à quoi groovy pouvait servir.
 
-Pour conclure, dommage que le buffet fut court et pas très régional (au normandyjug [5] il y avait du camembert, du cidre, des rillettes, etc... ;-).
+Pour conclure, dommage que le buffet fut court et pas très régional (au normandyjug [6] il y avait du camembert, du cidre, des rillettes, etc... ;-).
 
 
 
 ## References
 
-=> http://www.rivierajug.org/xwiki/bin/download/Main/Evenements/rivierajug%2D20090715%2Dprzemyslaw%2Dscrum.pdf [2] les slides (http://www.rivierajug.org/xwiki/bin/download/Main/Evenements/rivierajug%2D20090715%2Dprzemyslaw%2Dscrum.pdf)
-=> http://www.driveo.fr [3] Driveo (http://www.driveo.fr)
-=> http://groovy.codehaus.org [4] Groovy (http://groovy.codehaus.org)
-=> http://www.normandyjug.org [5] normandyjug (http://www.normandyjug.org)
+=> http://www.rivierajug.org [2] RivieraJug (http://www.rivierajug.org)
+=> http://www.rivierajug.org/xwiki/bin/download/Main/Evenements/rivierajug%2D20090715%2Dprzemyslaw%2Dscrum.pdf [3] les slides (http://www.rivierajug.org/xwiki/bin/download/Main/Evenements/rivierajug%2D20090715%2Dprzemyslaw%2Dscrum.pdf)
+=> http://www.driveo.fr [4] Driveo (http://www.driveo.fr)
+=> http://groovy.codehaus.org [5] Groovy (http://groovy.codehaus.org)
+=> http://www.normandyjug.org [6] normandyjug (http://www.normandyjug.org)
 ---
 
 

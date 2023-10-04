@@ -5,9 +5,11 @@
 
 
 
-[
 
-=> http://www.normandyjug.org/ Embedded Image: http://www.normandyjug.org/.
+
+=> /assets/external/2.bp.blogspot.com/_7LQ1EXHnw30/SbqV55SeRaI/AAAAAAAADAw/fX4dO4qTe_A/s320/logo-juggy2.png Embedded Image: /assets/external/2.bp.blogspot.com/_7LQ1EXHnw30/SbqV55SeRaI/AAAAAAAADAw/fX4dO4qTe_A/s320/logo-juggy2.png
+
+Ca vient de tomber sur leur blog, [2] les wicket [3] boys de Team Partners viennent de créer le Normandy JUG [4].
 
 Pour info, JUG veut dire Java User Group, c'est une association loi 1901 dans laquel des utilisateurs de java se réunissent pour partager sur les dernières avancés du monde de la programmation Java.
 
@@ -19,6 +21,9 @@ Y'a plus qu'a organiser une "battle" GWT versus Wicket pour la première ...
 
 ## References
 
+=> http://www.noocodecommit.com/blog/nicogiard/news/laventure-du-normandyjug-commence [2] leur blog, (http://www.noocodecommit.com/blog/nicogiard/news/laventure-du-normandyjug-commence)
+=> http://wicket.apache.org/ [3] wicket (http://wicket.apache.org/)
+=> http://www.normandyjug.org/ [4] Normandy JUG (http://www.normandyjug.org/)
 ---
 
 

@@ -17,7 +17,9 @@ Hub télécom lance un nouveau service de traçabilité RFID des conteneurs à b
                 
          
 
-Hub télécom lance un nouveau service de traçabilité RFID des conteneurs à bagages à Paris-CGG [3] Intégrateur de plusieurs solutions RFID opérationnelles dans les domaines du transport et de la logistique, Hub télécom, filiale du groupe Aéroports de Paris, annonce aujourd'hui le lancement d'un service de traçabilité RFID des conteneurs à bagages sur l'aéroport de Paris - Charles de Gaulle.
+Hub télécom lance un nouveau service de traçabilité RFID des conteneurs à bagages à Paris-CGG [3] 
+
+ Intégrateur de plusieurs solutions RFID opérationnelles dans les domaines du transport et de la logistique, Hub télécom, filiale du groupe Aéroports de Paris, annonce aujourd'hui le lancement d'un service de traçabilité RFID des conteneurs à bagages sur l'aéroport de Paris - Charles de Gaulle.
 
 Ce service s'appuie sur une infrastructure de lecture des étiquettes RFID déployée par Hub télécom à l'entrée et à la sortie des zones de tri bagages du Terminal 2 de l'aéroport Paris-Charles de Gaulle.
 

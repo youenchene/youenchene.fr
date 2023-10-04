@@ -15,7 +15,9 @@ Un bonus sur les ateliers qui permettent d'interagir avec des acteurs très exp�
       
           
 
-=> /assets/img_posts/sfw1/galvanize.jpg Embedded Image: /assets/img_posts/sfw1/galvanize.jpg
+=> /assets/img_posts/sfw1/galvanize.jpg Embedded Image: /assets/img_posts/sfw1/galvanize.jpg 
+
+
           
 Réunion à Galvanize avec Arnaud et Sixtine la chargée d'affaire
       
@@ -24,7 +26,9 @@ Réunion à Galvanize avec Arnaud et Sixtine la chargée d'affaire
       
           
 
-=> /assets/img_posts/sfw1/rooftop.jpg Embedded Image: /assets/img_posts/sfw1/rooftop.jpg
+=> /assets/img_posts/sfw1/rooftop.jpg Embedded Image: /assets/img_posts/sfw1/rooftop.jpg 
+
+
           
 Arnaud sur le rooftop de galvanize
       
@@ -33,7 +37,9 @@ Arnaud sur le rooftop de galvanize
       
           
 
-=> /assets/img_posts/sfw1/dogs.jpg Embedded Image: /assets/img_posts/sfw1/dogs.jpg
+=> /assets/img_posts/sfw1/dogs.jpg Embedded Image: /assets/img_posts/sfw1/dogs.jpg 
+
+
           
 Les chiens de l'open space
       
@@ -50,7 +56,9 @@ Enfin, c'est une terre d'immigration. On va croiser énormément de nationalité
       
           
 
-=> /assets/img_posts/sfw1/estellemossely.jpg Embedded Image: /assets/img_posts/sfw1/estellemossely.jpg
+=> /assets/img_posts/sfw1/estellemossely.jpg Embedded Image: /assets/img_posts/sfw1/estellemossely.jpg 
+
+
           
 Avec Estelle Mossely [19]
       
@@ -59,7 +67,9 @@ Avec Estelle Mossely [19]
       
           
 
-=> /assets/img_posts/sfw1/ctocloudera.jpg Embedded Image: /assets/img_posts/sfw1/ctocloudera.jpg
+=> /assets/img_posts/sfw1/ctocloudera.jpg Embedded Image: /assets/img_posts/sfw1/ctocloudera.jpg 
+
+
           
 Avec le CTO de Cloudera
       
@@ -81,7 +91,9 @@ J'ai été principalement marqué par GoPro User group sur l'évolution de leur 
       
           
 
-=> /assets/img_posts/sfw1/meetup1.jpg Embedded Image: /assets/img_posts/sfw1/meetup1.jpg
+=> /assets/img_posts/sfw1/meetup1.jpg Embedded Image: /assets/img_posts/sfw1/meetup1.jpg 
+
+
           
 Meet up GoPro
       
@@ -90,7 +102,9 @@ Meet up GoPro
       
           
 
-=> /assets/img_posts/sfw1/meetup2.jpg Embedded Image: /assets/img_posts/sfw1/meetup2.jpg
+=> /assets/img_posts/sfw1/meetup2.jpg Embedded Image: /assets/img_posts/sfw1/meetup2.jpg 
+
+
           
 Meetup OpenTable
       
@@ -99,7 +113,9 @@ Meetup OpenTable
       
           
 
-=> /assets/img_posts/sfw1/meetup3.jpg Embedded Image: /assets/img_posts/sfw1/meetup3.jpg
+=> /assets/img_posts/sfw1/meetup3.jpg Embedded Image: /assets/img_posts/sfw1/meetup3.jpg 
+
+
           
 Les boissons
       
@@ -108,7 +124,9 @@ Les boissons
       
           
 
-=> /assets/img_posts/sfw1/Meetup4.jpg Embedded Image: /assets/img_posts/sfw1/Meetup4.jpg
+=> /assets/img_posts/sfw1/Meetup4.jpg Embedded Image: /assets/img_posts/sfw1/Meetup4.jpg 
+
+
           
 La demi heure pour manger et réseauter
       
@@ -124,7 +142,9 @@ Par contre la vie est trés chère. C'est même encore plus chère du coté de P
       
           
 
-=> /assets/img_posts/sfw1/house.jpg Embedded Image: /assets/img_posts/sfw1/house.jpg
+=> /assets/img_posts/sfw1/house.jpg Embedded Image: /assets/img_posts/sfw1/house.jpg 
+
+
           
 Maisons du quartier Alamo Square
       
@@ -133,7 +153,9 @@ Maisons du quartier Alamo Square
       
           
 
-=> /assets/img_posts/sfw1/dolorespark.jpg Embedded Image: /assets/img_posts/sfw1/dolorespark.jpg
+=> /assets/img_posts/sfw1/dolorespark.jpg Embedded Image: /assets/img_posts/sfw1/dolorespark.jpg 
+
+
           
 Dimanche après midi à Dolores Park
       
@@ -142,7 +164,9 @@ Dimanche après midi à Dolores Park
       
           
 
-=> /assets/img_posts/sfw1/concert.jpg Embedded Image: /assets/img_posts/sfw1/concert.jpg
+=> /assets/img_posts/sfw1/concert.jpg Embedded Image: /assets/img_posts/sfw1/concert.jpg 
+
+
           
 Concert dans notre maison
       
@@ -151,7 +175,9 @@ Concert dans notre maison
     
         
 
-=> /assets/img_posts/sfw1/bitbucket.jpg Embedded Image: /assets/img_posts/sfw1/bitbucket.jpg
+=> /assets/img_posts/sfw1/bitbucket.jpg Embedded Image: /assets/img_posts/sfw1/bitbucket.jpg 
+
+
         
 On a les pubs pour parfum...
     
@@ -162,7 +188,9 @@ On a les pubs pour parfum...
 
     
 
-=> /assets/img_posts/sfw1/oceanbeach.jpg Embedded Image: /assets/img_posts/sfw1/oceanbeach.jpg
+=> /assets/img_posts/sfw1/oceanbeach.jpg Embedded Image: /assets/img_posts/sfw1/oceanbeach.jpg 
+
+
     
 Ocean Beach
 

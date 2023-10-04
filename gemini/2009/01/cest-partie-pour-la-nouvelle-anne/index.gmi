@@ -5,11 +5,13 @@
 
 
 
-[
 
-=> http://www.driveo.fr/ Embedded Image: http://www.driveo.fr/, une application web de gestion d'auto école.
 
-Au passage, si vous êtes une auto école et que vous souhaitez utiliser gratuitement la version béta de driveo [2], envoyez moi un email sur youen.chene@ys276.com [3].
+=> https://www.driveo.fr/images/logo_main.png Embedded Image: https://www.driveo.fr/images/logo_main.png
+
+Pour la nouvelle année et pour l'an 2 de ma société YS276 [2], nous ouvrons en béta privée de driveo [3], une application web de gestion d'auto école.
+
+Au passage, si vous êtes une auto école et que vous souhaitez utiliser gratuitement la version béta de driveo [4], envoyez moi un email sur youen.chene@ys276.com [5].
 
 
 
@@ -20,8 +22,10 @@ Enfin ce jour est aussi marqué par l'accueil d'un nouveau stagiaire : Romain (a
 
 ## References
 
-=> http://www.driveo.fr [2] version béta de driveo (http://www.driveo.fr)
-=> mailto:youen.chene@ys276.com [3] youen.chene@ys276.com (mailto:youen.chene@ys276.com)
+=> http://www.yoursoftware276.com/ [2] YS276 (http://www.yoursoftware276.com/)
+=> http://www.driveo.fr/ [3] driveo (http://www.driveo.fr/)
+=> http://www.driveo.fr [4] version béta de driveo (http://www.driveo.fr)
+=> mailto:youen.chene@ys276.com [5] youen.chene@ys276.com (mailto:youen.chene@ys276.com)
 ---
 
 

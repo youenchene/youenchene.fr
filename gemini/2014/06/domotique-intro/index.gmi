@@ -14,7 +14,9 @@ On a des solutions en java comme OpenHab [6], mais comme beaucoups de développe
 Finalement, je me suis orienté vers S.A.R.A.H [8] de @jpencausse [9]. Ce schéma décrit bien la philosohie :
 
 
-=> /assets/img_posts/sarah-archi.png Embedded Image: /assets/img_posts/sarah-archi.png
+=> /assets/img_posts/sarah-archi.png Embedded Image: /assets/img_posts/sarah-archi.png 
+
+
 La principale particularité de la solution est que 90% des interactions se font à la voix via un kinect.
 Ce qui m'a fait basculé, c'est la simplicité de l'implémentation basée sur node.js [10] et surtout la vitalité de la communauté [11].
 

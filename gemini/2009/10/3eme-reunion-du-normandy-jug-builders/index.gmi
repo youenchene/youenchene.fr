@@ -5,10 +5,12 @@
 
 
 
-[
 
-=> http://www.normandyjug.org/ Embedded Image: http://www.normandyjug.org/ présentera plusieurs systèmes de build en Java et notamment Maven, Ant + ivy, EasyAnt, Gradle...
-Inscription ici :   INSCRIPTION sur JUGEVENTS.ORG [2]
+
+=> /assets/external/2.bp.blogspot.com/_7LQ1EXHnw30/SqX2dc2Vj7I/AAAAAAAADIg/UsDCROCRsQU/s320/logo-juggy2.png Embedded Image: /assets/external/2.bp.blogspot.com/_7LQ1EXHnw30/SqX2dc2Vj7I/AAAAAAAADIg/UsDCROCRsQU/s320/logo-juggy2.png
+
+La 3ème  soirée du Normandy Jug [2] présentera plusieurs systèmes de build en Java et notamment Maven, Ant + ivy, EasyAnt, Gradle...
+Inscription ici :   INSCRIPTION sur JUGEVENTS.ORG [3]
 
 Des invités prestigieux partageront leur savoir et leur passion :
 Gregory Boissinot : commiter Gradle
@@ -18,9 +20,9 @@ Exia.Cesi Rouen
 Parc de la Vatine
 1, rue Gugliemo Marconi, 76130 Mont Saint Aignan
 02 35 59 66 20
-web : cesi.fr [3]
+web : cesi.fr [4]
 
-Plan sur Google Maps [4]
+Plan sur Google Maps [5]
 
 Venez nombreux !
 
@@ -30,9 +32,10 @@ L'équipe du NormandyJUG.
 
 ## References
 
-=> http://jugevents.org/jugevents/event/19959 [2] INSCRIPTION sur JUGEVENTS.ORG (http://jugevents.org/jugevents/event/19959)
-=> http://cesi.fr/ [3] cesi.fr (http://cesi.fr/)
-=> http://maps.google.fr/maps?oe=utf-8&amp;rls=com.ubuntu:en-US:official&amp;client=firefox-a&amp;um=1&amp;ie=UTF-8&amp;q=eXia+CESI+Rouen&amp;fb=1&amp;gl=fr&amp;hq=eXia+CESI&amp;hnear=Rouen&amp;cid=0,0,14303900307713815448&amp;ei=VLLMSrNth5OMB4j5_YIH&amp;sa=X&amp;oi=local_result&amp;ct=image&amp;resnum=1 [4] Plan sur Google Maps (http://maps.google.fr/maps?oe=utf-8&amp;rls=com.ubuntu:en-US:official&amp;client=firefox-a&amp;um=1&amp;ie=UTF-8&amp;q=eXia+CESI+Rouen&amp;fb=1&amp;gl=fr&amp;hq=eXia+CESI&amp;hnear=Rouen&amp;cid=0,0,14303900307713815448&amp;ei=VLLMSrNth5OMB4j5_YIH&amp;sa=X&amp;oi=local_result&amp;ct=image&amp;resnum=1)
+=> http://www.normandyjug.org/ [2] Normandy Jug (http://www.normandyjug.org/)
+=> http://jugevents.org/jugevents/event/19959 [3] INSCRIPTION sur JUGEVENTS.ORG (http://jugevents.org/jugevents/event/19959)
+=> http://cesi.fr/ [4] cesi.fr (http://cesi.fr/)
+=> http://maps.google.fr/maps?oe=utf-8&amp;rls=com.ubuntu:en-US:official&amp;client=firefox-a&amp;um=1&amp;ie=UTF-8&amp;q=eXia+CESI+Rouen&amp;fb=1&amp;gl=fr&amp;hq=eXia+CESI&amp;hnear=Rouen&amp;cid=0,0,14303900307713815448&amp;ei=VLLMSrNth5OMB4j5_YIH&amp;sa=X&amp;oi=local_result&amp;ct=image&amp;resnum=1 [5] Plan sur Google Maps (http://maps.google.fr/maps?oe=utf-8&amp;rls=com.ubuntu:en-US:official&amp;client=firefox-a&amp;um=1&amp;ie=UTF-8&amp;q=eXia+CESI+Rouen&amp;fb=1&amp;gl=fr&amp;hq=eXia+CESI&amp;hnear=Rouen&amp;cid=0,0,14303900307713815448&amp;ei=VLLMSrNth5OMB4j5_YIH&amp;sa=X&amp;oi=local_result&amp;ct=image&amp;resnum=1)
 ---
 
 

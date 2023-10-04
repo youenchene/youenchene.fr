@@ -6,7 +6,7 @@
 Voici le retour de ma première journée à Devoxx Belgique.
 
     
-        ### Keynotes
+### Keynotes
         Devoxx s'étends au fur et à mesure sur l'ensemble de l'europe. Après Anvers, Paris et Londres, en juin prochain il y aura un devoxx pologne à Cracovie (krakow).
         Red Hat digère ses différents rachats et nous propose un PAAS (platform de développement dans les nuages). Au programme de programmation d'application mobile et un middleware basé sur activemq et camel (donc du rachat de fuse source) avec à priori un éditeur en ligne.
         Oracle ramène peu à peu Java dans son objectif initial des années 90 ... dans l'embarqué : microcontrolleur, internet des objets, voitures...
@@ -15,7 +15,9 @@ Voici le retour de ma première journée à Devoxx Belgique.
         
             
 
-=> /assets/img_posts/devoxx14-gareanvers.jpg Embedded Image: /assets/img_posts/devoxx14-gareanvers.jpg
+=> /assets/img_posts/devoxx14-gareanvers.jpg Embedded Image: /assets/img_posts/devoxx14-gareanvers.jpg 
+
+
             
 La gare d'Anvers
         
@@ -35,7 +37,9 @@ Plus d'information : Mesos [10] Mesosphere [11]
         
             
 
-=> /assets/img_posts/devoxx14-mesos.jpg Embedded Image: /assets/img_posts/devoxx14-mesos.jpg
+=> /assets/img_posts/devoxx14-mesos.jpg Embedded Image: /assets/img_posts/devoxx14-mesos.jpg 
+
+
             
 L'architecture globale de mesos
         
@@ -43,14 +47,16 @@ L'architecture globale de mesos
 
 
     
-        ### Chet Haase - Process, Process, Process
+### Chet Haase - Process, Process, Process
         Une session "détente" qui démontre par l'absurde la bétise de pas mal de sociétés et des boites de conseils. Les qualités de Stand up de Chet Haase font tout le travail.
     
     
         
             
 
-=> /assets/img_posts/devoxx14-bugs.jpg Embedded Image: /assets/img_posts/devoxx14-bugs.jpg
+=> /assets/img_posts/devoxx14-bugs.jpg Embedded Image: /assets/img_posts/devoxx14-bugs.jpg 
+
+
             
 Plus il y a de lignes de codes, plus il y a de bugs, il faut donc écrire moins de code
         
@@ -58,7 +64,7 @@ Plus il y a de lignes de codes, plus il y a de bugs, il faut donc écrire moins 
 
 
     
-    ### Probably, Definitively, Maybe
+### Probably, Definitively, Maybe
     C'est la présentation qui pique avec beaucoups de théorie mathématiques :
     
         la description des différentes variantes de le l'algo de classification de Bayes,
@@ -71,7 +77,9 @@ Plus il y a de lignes de codes, plus il y a de bugs, il faut donc écrire moins 
         
             
 
-=> /assets/img_posts/devoxx14-ml.jpg Embedded Image: /assets/img_posts/devoxx14-ml.jpg
+=> /assets/img_posts/devoxx14-ml.jpg Embedded Image: /assets/img_posts/devoxx14-ml.jpg 
+
+
             
 Slide en mode tableau noir pour bien te rappeler l'école
         
@@ -114,7 +122,9 @@ Enfin lorsque que vous fournissez une API, vous ne pouvez prévoir comment elle 
         
             
 
-=> /assets/img_posts/devoxx14-perf.jpg Embedded Image: /assets/img_posts/devoxx14-perf.jpg
+=> /assets/img_posts/devoxx14-perf.jpg Embedded Image: /assets/img_posts/devoxx14-perf.jpg 
+
+
             
 Step out of your confort zone
         
@@ -143,7 +153,9 @@ Sur les choix technologiques, c'est à vous de travailler en fonction du besoin 
         
             
 
-=> /assets/img_posts/devoxx14-modernarch.jpg Embedded Image: /assets/img_posts/devoxx14-modernarch.jpg
+=> /assets/img_posts/devoxx14-modernarch.jpg Embedded Image: /assets/img_posts/devoxx14-modernarch.jpg 
+
+
             
 Les fausses opinions sur lesquelles se base beaucoup trop d'architectures
         
@@ -159,7 +171,9 @@ Point notable et qu'on retrouvera dans plusieurs présentations, c'est la nouvel
         
             
 
-=> /assets/img_posts/devoxx14-ing.jpg Embedded Image: /assets/img_posts/devoxx14-ing.jpg
+=> /assets/img_posts/devoxx14-ing.jpg Embedded Image: /assets/img_posts/devoxx14-ing.jpg 
+
+
             
 Ron Van Kemenade, le DSI d'ING
         
@@ -175,7 +189,9 @@ L'autre particularité, c'est que dans la génération des 30-40 ans il y a beau
         
             
 
-=> /assets/img_posts/devoxx14-kellies.jpg Embedded Image: /assets/img_posts/devoxx14-kellies.jpg
+=> /assets/img_posts/devoxx14-kellies.jpg Embedded Image: /assets/img_posts/devoxx14-kellies.jpg 
+
+
             
 Le repère des frenchies francophones au Kelly's
         

@@ -19,21 +19,29 @@ un coût faible.Les fonctionnalités avancés ne sont pas forcément recherchés
 
 Les alertes : SMS ou Email lors de la non disponibilité ou du rétablissement d'un serveur.
 
-[
 
-=> /assets/external/3.bp.blogspot.com/_7LQ1EXHnw30/Sglh1jgdbgI/AAAAAAAADCw/23V1a_RwBbE/s1600-h/Image+5.png Embedded Image: /assets/external/3.bp.blogspot.com/_7LQ1EXHnw30/Sglh1jgdbgI/AAAAAAAADCw/23V1a_RwBbE/s1600-h/Image+5.png
 
-[
+=> /assets/external/3.bp.blogspot.com/_7LQ1EXHnw30/Sglh1jgdbgI/AAAAAAAADCw/23V1a_RwBbE/s320/Image+5.png Embedded Image: /assets/external/3.bp.blogspot.com/_7LQ1EXHnw30/Sglh1jgdbgI/AAAAAAAADCw/23V1a_RwBbE/s320/Image+5.png
 
-=> /assets/external/1.bp.blogspot.com/_7LQ1EXHnw30/SDr-1vAiVhI/AAAAAAAACGw/sYgmsEHId6k/s1600-h/P1030940.JPG Embedded Image: /assets/external/1.bp.blogspot.com/_7LQ1EXHnw30/SDr-1vAiVhI/AAAAAAAACGw/sYgmsEHId6k/s1600-h/P1030940.JPG[
 
-=> /assets/external/1.bp.blogspot.com/_7LQ1EXHnw30/SDr_DvAiViI/AAAAAAAACG4/O7sSsrlNncI/s1600-h/P1030951.JPG Embedded Image: /assets/external/1.bp.blogspot.com/_7LQ1EXHnw30/SDr_DvAiViI/AAAAAAAACG4/O7sSsrlNncI/s1600-h/P1030951.JPG
+
+
+
+=> /assets/external/1.bp.blogspot.com/_7LQ1EXHnw30/SDr-1vAiVhI/AAAAAAAACGw/sYgmsEHId6k/s320/P1030940.JPG Embedded Image: /assets/external/1.bp.blogspot.com/_7LQ1EXHnw30/SDr-1vAiVhI/AAAAAAAACGw/sYgmsEHId6k/s320/P1030940.JPG
+
+
+
+=> /assets/external/1.bp.blogspot.com/_7LQ1EXHnw30/SDr_DvAiViI/AAAAAAAACG4/O7sSsrlNncI/s320/P1030951.JPG Embedded Image: /assets/external/1.bp.blogspot.com/_7LQ1EXHnw30/SDr_DvAiViI/AAAAAAAACG4/O7sSsrlNncI/s320/P1030951.JPG
+
+
 
 Les rapports : Un rapport hebdomadaire par email.
 
-[
 
-=> /assets/external/1.bp.blogspot.com/_7LQ1EXHnw30/SgliHExVmNI/AAAAAAAADC4/GwoBlPlpGqk/s1600-h/Image+6.png Embedded Image: /assets/external/1.bp.blogspot.com/_7LQ1EXHnw30/SgliHExVmNI/AAAAAAAADC4/GwoBlPlpGqk/s1600-h/Image+6.png
+
+=> /assets/external/1.bp.blogspot.com/_7LQ1EXHnw30/SgliHExVmNI/AAAAAAAADC4/GwoBlPlpGqk/s200/Image+6.png Embedded Image: /assets/external/1.bp.blogspot.com/_7LQ1EXHnw30/SgliHExVmNI/AAAAAAAADC4/GwoBlPlpGqk/s200/Image+6.png
+
+
 Lieu de surveillance possible : Paris, Philadelphie, Singapour.
 
 Coût :
@@ -77,9 +85,11 @@ Les alertes : SMS et/ou Email lors de la non disponibilité ou du rétablissemen
 
 Les rapports : Un rapport hebdomadaire par email.
 
-[
 
-=> /assets/external/3.bp.blogspot.com/_7LQ1EXHnw30/SglKZoyBB4I/AAAAAAAADCg/clfQPY1DVKE/s1600-h/Image+2.png Embedded Image: /assets/external/3.bp.blogspot.com/_7LQ1EXHnw30/SglKZoyBB4I/AAAAAAAADCg/clfQPY1DVKE/s1600-h/Image+2.png
+
+=> /assets/external/3.bp.blogspot.com/_7LQ1EXHnw30/SglKZoyBB4I/AAAAAAAADCg/clfQPY1DVKE/s320/Image+2.png Embedded Image: /assets/external/3.bp.blogspot.com/_7LQ1EXHnw30/SglKZoyBB4I/AAAAAAAADCg/clfQPY1DVKE/s320/Image+2.png
+
+
 Lieu de surveillance possible : US en compte gratuit et standard. Sinon Californie, New Jersey, Singapoure, Texas, Pays Bas et Londres.
 
 Coût :
@@ -107,9 +117,11 @@ Bilan : La tarification est intéressante mais pas de site de surveillance en Fr
 ### ServiceUptime:Les alertes : SMS et/ou Email lors de la non disponibilité ou du rétablissement d'un serveur.
 
 Les rapports : Un rapport hebdomadaire par email.
-[
 
-=> /assets/external/4.bp.blogspot.com/_7LQ1EXHnw30/SglhQm5-ZhI/AAAAAAAADCo/JygbdtFGnXM/s1600-h/Image+3.png Embedded Image: /assets/external/4.bp.blogspot.com/_7LQ1EXHnw30/SglhQm5-ZhI/AAAAAAAADCo/JygbdtFGnXM/s1600-h/Image+3.png
+
+=> /assets/external/4.bp.blogspot.com/_7LQ1EXHnw30/SglhQm5-ZhI/AAAAAAAADCo/JygbdtFGnXM/s320/Image+3.png Embedded Image: /assets/external/4.bp.blogspot.com/_7LQ1EXHnw30/SglhQm5-ZhI/AAAAAAAADCo/JygbdtFGnXM/s320/Image+3.png
+
+
 Lieu de surveillance possible : Californie, Texas, Floriden New Jersey, Quebec, Florence (Italie), Stratford (UK), Amsterdam, Singapour , Tokyo, Brisbane.
 
 Coût :

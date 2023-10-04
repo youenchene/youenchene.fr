@@ -5,9 +5,11 @@
 
 
 
-[
 
-=> http://code.google.com/intl/fr/webtoolkit/images/gwt-logo.png Embedded Image: http://code.google.com/intl/fr/webtoolkit/images/gwt-logo.pngAfin de compléter les nombreux articles de découverte et de tutoriaux sur GWT, voici le premier article d'une série nommé "GWT avancé".
+
+=> http://code.google.com/intl/fr/webtoolkit/images/gwt-logo.png Embedded Image: http://code.google.com/intl/fr/webtoolkit/images/gwt-logo.png
+
+Afin de compléter les nombreux articles de découverte et de tutoriaux sur GWT, voici le premier article d'une série nommé "GWT avancé".
 
 Pour rappel, GWT est un framework web et ajax de google qui génère votre site en javascript optimisé pour chaque navigateur à partir de code Java.
 

@@ -5,26 +5,28 @@
 
 
 
-[
 
-=> http://www.ergonomie-sites-web.com/ Embedded Image: http://www.ergonomie-sites-web.com/.
+
+=> /assets/external/1.bp.blogspot.com/_7LQ1EXHnw30/SR0arZWUOcI/AAAAAAAAC30/1Xm6CSvYi00/s320/DSC00844.JPG Embedded Image: /assets/external/1.bp.blogspot.com/_7LQ1EXHnw30/SR0arZWUOcI/AAAAAAAAC30/1Xm6CSvYi00/s320/DSC00844.JPG
+
+C'est par une présentation sur l'ergonomie des clients riches que la première journée ParisWeb08 [2] à commencé (enfin par une demi conférence pour moi grâce à la SNCF). C'est une présentation de Amélie Boucher [3] l'auteure du livre ergonomie web [4].
 
 Ce qu'il faut retenir de la présentation : prenez le temps d'afficher les feedbacks aux utilisateurs, multiplier les interactions et l'accompagner dans l'apprentissage de l'application.
 
-La deuxième conférence est elle dédié à l'amélioration de la qualité et de la qualité des sites web. Elie Sloïm [2] présente une approche d'amélioration continu.
+La deuxième conférence est elle dédié à l'amélioration de la qualité et de la qualité des sites web. Elie Sloïm [5] présente une approche d'amélioration continu.
 
 Ce qu'il faut retenir de la présentation : faire monter en accessibilité progressivement un parc de site web plutot que de mettre un site à 100% de validation des critères et de communiquer dessus. En effet, les utilisateurs qui en ont besoin prèfère avoir un ensemble de site qui valide 60% des critères.
 
-La matiné s'est finis avec Christian Heilmann [3] et son screaming monkey (Yahoo!) qui met avant le fait qu'il y a actuellment énormement de framework et de bibliothèque et d'outil qui nous permettent d'implémenter des solutions web modernes et accessibles avec (relativement) peu de code.
+La matiné s'est finis avec Christian Heilmann [6] et son screaming monkey (Yahoo!) qui met avant le fait qu'il y a actuellment énormement de framework et de bibliothèque et d'outil qui nous permettent d'implémenter des solutions web modernes et accessibles avec (relativement) peu de code.
 
 Ce qu'il faut retenir de la présentation :vous n'avez pas d'excuse, vous pouvez rendre vos sites accessibles et ergonomique maintenant! (En bon français, arréter de vous pignoler, sortez vous les doigts du c.. ).
 
 De mon avis, l'après midi a été remplie par la meilleure conférence des 2 jours puis par la plus ennuyeuse.
 
-La conférence "Accessibilité: des volontaires" de part sa mise en scène et son sujet a vraiment capté le public. Elle était tenu par  Stéphane  Deschamps [4] (France Télécom Orange) et Aurélien Lévy [5] (un consultant de  Elie Sloïm - Temesis). Le principe était de mettre en scène des situations de handicap pour mettre en avant les difficultés de navigations. Cela a permis de mettre en avant des solutions connus et les limites des outils actuels (lecteurs audio d'écran).
+La conférence "Accessibilité: des volontaires" de part sa mise en scène et son sujet a vraiment capté le public. Elle était tenu par  Stéphane  Deschamps [7] (France Télécom Orange) et Aurélien Lévy [8] (un consultant de  Elie Sloïm - Temesis). Le principe était de mettre en scène des situations de handicap pour mettre en avant les difficultés de navigations. Cela a permis de mettre en avant des solutions connus et les limites des outils actuels (lecteurs audio d'écran).
 
 Parmi la masse d'information, quelques "tips":
-Dans le même cadre respecter un ratio de contraste supérieure à 3:1 (je sens que ca discuter dur avec mon graphiste). Des outils sont déjà disponibles [6].
+Dans le même cadre respecter un ratio de contraste supérieure à 3:1 (je sens que ca discuter dur avec mon graphiste). Des outils sont déjà disponibles [9].
 Et enfin bien préciser les attributs alt pour les images  (pour les lecteurs audio) et ceux qui désactivent les images (modem 56k).
 c'est qu'il n'y a pas que les gros handicaps (cécité, mobilité réduite, surdité) mais aussi un grand nombre de "petits" handicaps (mal voyance, daltonisme, trouble de la concentration, tremblement) et le fait d'améliorer pas à pas les sites permet de le rendre accessible à un plus grand nombre de personnes pour qui la navigation de le site était agacente et pénible. Au contraire, se dire qu'on n'arrivera pas à rendre la site accessible à un aveugle et que ce n'est pas la peine de faire quelque chose est une grossière erreur.
 
@@ -32,7 +34,7 @@ La dernière conférence était sur le référencement par les robots de recherc
 
 Enfin, la table ronde finale était en faite la suite de la présentation sur l'accessibilité, très complémentaire.
 
-Pour conclure, une 1ère journée très intéressante, un gros travail à faire sur mon parc de site web (dont Fermiers d'à côté [8]) pour les rendre plus ergonomique et plus simple.
+Pour conclure, une 1ère journée très intéressante, un gros travail à faire sur mon parc de site web (dont Fermiers d'à côté [11]) pour les rendre plus ergonomique et plus simple.
 
 Petite inquiétude, a vu de nez, très peu de SSII/Société de conseil généraliste étaient peu présentent lors de la conférence. Est-ce une partie négligée par ces gros faiseurs ? Je vais enquêter auprès du pôle interface chez Logica Management Consulting. J'espère être surpris ... agréablement (si c'est pas politiquement correcte comme tournure).
 
@@ -40,13 +42,16 @@ Petite inquiétude, a vu de nez, très peu de SSII/Société de conseil généra
 
 ## References
 
-=> http://www.temesis.com/equipe/elie/ [2] Elie Sloïm (http://www.temesis.com/equipe/elie/)
-=> http://www.wait-till-i.com/ [3] Christian Heilmann (http://www.wait-till-i.com/)
-=> http://nota-bene.org/ [4] Stéphane  Deschamps (http://nota-bene.org/)
-=> http://www.fairytells.net/ [5] Aurélien Lévy (http://www.fairytells.net/)
-=> http://www.wat-c.org/tools/CCA/LCRA/index.html [6] Des outils sont déjà disponibles (http://www.wat-c.org/tools/CCA/LCRA/index.html)
-=> http://s.billard.free.fr/referencement/index.php?2006/09/07/276-36-criteres-daccessibilite-qui-comptent-pour-le-referencement-1ere-partie [7] 36 des règles d'accessibilité sont aussi des règles d'amélioration du référencement (http://s.billard.free.fr/referencement/index.php?2006/09/07/276-36-criteres-daccessibilite-qui-comptent-pour-le-referencement-1ere-partie)
-=> http://www.fermiersdacote.fr [8] Fermiers d'à côté (http://www.fermiersdacote.fr)
+=> http://www.paris-web.fr/2008 [2] ParisWeb08 (http://www.paris-web.fr/2008)
+=> http://www.ergolab.net/ [3] Amélie Boucher (http://www.ergolab.net/)
+=> http://www.ergonomie-sites-web.com/ [4] livre ergonomie web (http://www.ergonomie-sites-web.com/)
+=> http://www.temesis.com/equipe/elie/ [5] Elie Sloïm (http://www.temesis.com/equipe/elie/)
+=> http://www.wait-till-i.com/ [6] Christian Heilmann (http://www.wait-till-i.com/)
+=> http://nota-bene.org/ [7] Stéphane  Deschamps (http://nota-bene.org/)
+=> http://www.fairytells.net/ [8] Aurélien Lévy (http://www.fairytells.net/)
+=> http://www.wat-c.org/tools/CCA/LCRA/index.html [9] Des outils sont déjà disponibles (http://www.wat-c.org/tools/CCA/LCRA/index.html)
+=> http://s.billard.free.fr/referencement/index.php?2006/09/07/276-36-criteres-daccessibilite-qui-comptent-pour-le-referencement-1ere-partie [10] 36 des règles d'accessibilité sont aussi des règles d'amélioration du référencement (http://s.billard.free.fr/referencement/index.php?2006/09/07/276-36-criteres-daccessibilite-qui-comptent-pour-le-referencement-1ere-partie)
+=> http://www.fermiersdacote.fr [11] Fermiers d'à côté (http://www.fermiersdacote.fr)
 ---
 
 

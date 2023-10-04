@@ -5,15 +5,19 @@
 
 
 
-[
 
-=> http://blogs.sun.com/alexismp/ Embedded Image: http://blogs.sun.com/alexismp/ l'évangéliste de Glassfish sur Paris.
 
-Ils s'agissaient aussi de 2 membres du Paris Jug [4] (1er jug de de France) qui ont l'habitude des présentations et cela s'est remarqué. Cela a même permis d'attirer près de 16 personnes au restaurant d'après Jug qui a du se finir vers 2h du matin.
+=> /assets/external/2.bp.blogspot.com/_7LQ1EXHnw30/S1qyTbBYldI/AAAAAAAADa0/sVKe6VYYj64/s200/logo-juggy2.png Embedded Image: /assets/external/2.bp.blogspot.com/_7LQ1EXHnw30/S1qyTbBYldI/AAAAAAAADa0/sVKe6VYYj64/s200/logo-juggy2.png
 
-La présentation était donc de très bonne facture, un poil longue à la fin (mais c'est la marque de fabrique du Normandy Jug). Comme j'avais lu le livre de Antonio sur JEE 6 [5]
+La 5ème réunion du Normandy Jug [4] a mis à l'honneur le tout neuf JEE 6 avec Antonio  Goncalvez [5] un expert JCP qui a participé aux spécifications de JEE6 EJB 3.1 et JPA 2.0 et avec Alexis Moussine Pouchkine [6] l'évangéliste de Glassfish sur Paris.
 
-=> http://www.assoc-amazon.fr/e/ir?t=yetanotentrbl-21&amp;l=as2&amp;o=8&amp;a=1430219548 Embedded Image: http://www.assoc-amazon.fr/e/ir?t=yetanotentrbl-21&amp;l=as2&amp;o=8&amp;a=1430219548, la présentation restait assez digeste sauf sur quelques thèmes un peu plus dense (JPA, CDI). Sur ce dernier thème (CDI), c'est resté obscure jusqu'au "Ha mais oui, en fait le truc qu'il explique sur les qualifier c'est comme dans Spring!".
+Ils s'agissaient aussi de 2 membres du Paris Jug [7] (1er jug de de France) qui ont l'habitude des présentations et cela s'est remarqué. Cela a même permis d'attirer près de 16 personnes au restaurant d'après Jug qui a du se finir vers 2h du matin.
+
+La présentation était donc de très bonne facture, un poil longue à la fin (mais c'est la marque de fabrique du Normandy Jug). Comme j'avais lu le livre de Antonio sur JEE 6 [8]
+
+=> http://www.assoc-amazon.fr/e/ir?t=yetanotentrbl-21&amp;l=as2&amp;o=8&amp;a=1430219548 Embedded Image: http://www.assoc-amazon.fr/e/ir?t=yetanotentrbl-21&amp;l=as2&amp;o=8&amp;a=1430219548 
+
+, la présentation restait assez digeste sauf sur quelques thèmes un peu plus dense (JPA, CDI). Sur ce dernier thème (CDI), c'est resté obscure jusqu'au "Ha mais oui, en fait le truc qu'il explique sur les qualifier c'est comme dans Spring!".
 
 En parlant de Spring, il y a avait quelques utilisateurs et fan de Spring dans ma rangé et celle de derrière. J'en fais d'ailleurs partie. Le principal commentaire était "ah JEE a enfin rattrapé son retard sur Spring". Pour être plus politiquement correcte, on peut dire que JEE devient aussi séduisant que Spring.
 
@@ -21,44 +25,49 @@ D'une manière plus objectif, JEE 6 est devenu aussi productif et est même parf
 
 Cependant j'ai le sentiment qu'ils ont un peu loupé le coche avec le profile web en n'intégrant pas le REST. En effet, le profile web 1.0 correspond au besoin web d'il y a 2/3 ans. Du coup, cela va gêner le positionnement commerciale du JEE web profile. En effet, il risque d'être moins compétitif face à Ruby On Rails, PHP et même Spring qui intègre le REST et même des choses qui viennent du web comme l'OpenID (sans spring-security).
 
-En même temps, j'ai de plus en plus l'impression que le monde du web et celui de Java sont bien 2 communautés différentes. En témoigne, les exemples de page web avec de la mise en page à la base de tableaux d'éléments non tabulaires. Du coup, j'ai promis que j'enverrai les corrections à @agoncal [6].
+En même temps, j'ai de plus en plus l'impression que le monde du web et celui de Java sont bien 2 communautés différentes. En témoigne, les exemples de page web avec de la mise en page à la base de tableaux d'éléments non tabulaires. Du coup, j'ai promis que j'enverrai les corrections à @agoncal [9].
 
-Pour finir, le récapitulatif de  mes twits sur le twitter de  normandyjug [7] :
-"un mec a la cool" dit @finalspy http://twitpic.com/yurfi [29] 00:24
-[
+Pour finir, le récapitulatif de  mes twits sur le twitter de  normandyjug [10] :
+"un mec a la cool" dit @finalspy http://twitpic.com/yurfi [32] 00:24
 
-=> /assets/external/4.bp.blogspot.com/_7LQ1EXHnw30/S1q0Ap5Z3-I/AAAAAAAADa8/rKXUcO7nwhs/s1600-h/58479906.jpg Embedded Image: /assets/external/4.bp.blogspot.com/_7LQ1EXHnw30/S1q0Ap5Z3-I/AAAAAAAADa8/rKXUcO7nwhs/s1600-h/58479906.jpg
+
+=> /assets/external/4.bp.blogspot.com/_7LQ1EXHnw30/S1q0Ap5Z3-I/AAAAAAAADa8/rKXUcO7nwhs/s400/58479906.jpg Embedded Image: /assets/external/4.bp.blogspot.com/_7LQ1EXHnw30/S1q0Ap5Z3-I/AAAAAAAADa8/rKXUcO7nwhs/s400/58479906.jpg
+
+
 
 
 
 ## References
 
-=> http://www.parisjug.org/ [4] Paris Jug (http://www.parisjug.org/)
-=> http://www.amazon.fr/gp/product/1430219548?ie=UTF8&amp;tag=yetanotentrbl-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=1430219548 [5] le livre de Antonio sur JEE 6 (http://www.amazon.fr/gp/product/1430219548?ie=UTF8&amp;tag=yetanotentrbl-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=1430219548)
-=> http://twitter.com/agoncal [6] @agoncal (http://twitter.com/agoncal)
-=> http://twitter.com/normandyjug [7] le twitter de  normandyjug (http://twitter.com/normandyjug)
-=> http://twitpic.com/ytfdu [8] http://twitpic.com/ytfdu (http://twitpic.com/ytfdu)
-=> http://twitpic.com/ytgqb [9] http://twitpic.com/ytgqb (http://twitpic.com/ytgqb)
-=> http://twitpic.com/ytgy5 [10] http://twitpic.com/ytgy5 (http://twitpic.com/ytgy5)
-=> http://twitpic.com/ytgzx [11] http://twitpic.com/ytgzx (http://twitpic.com/ytgzx)
-=> http://twitpic.com/yti9o [12] http://twitpic.com/yti9o (http://twitpic.com/yti9o)
-=> http://twitpic.com/ytj13 [13] http://twitpic.com/ytj13 (http://twitpic.com/ytj13)
-=> http://twitpic.com/ytjsn [14] http://twitpic.com/ytjsn (http://twitpic.com/ytjsn)
-=> http://twitpic.com/ytmti [15] http://twitpic.com/ytmti (http://twitpic.com/ytmti)
-=> http://twitpic.com/yto6y [16] http://twitpic.com/yto6y (http://twitpic.com/yto6y)
-=> http://twitpic.com/ytp3y [17] http://twitpic.com/ytp3y (http://twitpic.com/ytp3y)
-=> http://twitpic.com/ytrap [18] http://twitpic.com/ytrap (http://twitpic.com/ytrap)
-=> http://twitpic.com/yts5c [19] http://twitpic.com/yts5c (http://twitpic.com/yts5c)
-=> http://twitpic.com/ytvp9 [20] http://twitpic.com/ytvp9 (http://twitpic.com/ytvp9)
-=> http://twitpic.com/yty9j [21] http://twitpic.com/yty9j (http://twitpic.com/yty9j)
-=> http://twitpic.com/ytzy7 [22] http://twitpic.com/ytzy7 (http://twitpic.com/ytzy7)
-=> http://twitpic.com/yu3ro [23] http://twitpic.com/yu3ro (http://twitpic.com/yu3ro)
-=> http://twitpic.com/yu6pw [24] http://twitpic.com/yu6pw (http://twitpic.com/yu6pw)
-=> http://twitpic.com/yu70j [25] http://twitpic.com/yu70j (http://twitpic.com/yu70j)
-=> http://twitpic.com/yu9bt [26] http://twitpic.com/yu9bt (http://twitpic.com/yu9bt)
-=> http://twitpic.com/yuccy [27] http://twitpic.com/yuccy (http://twitpic.com/yuccy)
-=> http://twitpic.com/yuncq [28] http://twitpic.com/yuncq (http://twitpic.com/yuncq)
-=> http://twitpic.com/yurfi [29] http://twitpic.com/yurfi (http://twitpic.com/yurfi)
+=> http://www.normandyjug.org/ [4]  Normandy Jug (http://www.normandyjug.org/)
+=> http://antoniogoncalves.org/xwiki/bin/view/Main/WebHome [5] Antonio  Goncalvez (http://antoniogoncalves.org/xwiki/bin/view/Main/WebHome)
+=> http://blogs.sun.com/alexismp/ [6] Alexis Moussine Pouchkine (http://blogs.sun.com/alexismp/)
+=> http://www.parisjug.org/ [7] Paris Jug (http://www.parisjug.org/)
+=> http://www.amazon.fr/gp/product/1430219548?ie=UTF8&amp;tag=yetanotentrbl-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=1430219548 [8] le livre de Antonio sur JEE 6 (http://www.amazon.fr/gp/product/1430219548?ie=UTF8&amp;tag=yetanotentrbl-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=1430219548)
+=> http://twitter.com/agoncal [9] @agoncal (http://twitter.com/agoncal)
+=> http://twitter.com/normandyjug [10] le twitter de  normandyjug (http://twitter.com/normandyjug)
+=> http://twitpic.com/ytfdu [11] http://twitpic.com/ytfdu (http://twitpic.com/ytfdu)
+=> http://twitpic.com/ytgqb [12] http://twitpic.com/ytgqb (http://twitpic.com/ytgqb)
+=> http://twitpic.com/ytgy5 [13] http://twitpic.com/ytgy5 (http://twitpic.com/ytgy5)
+=> http://twitpic.com/ytgzx [14] http://twitpic.com/ytgzx (http://twitpic.com/ytgzx)
+=> http://twitpic.com/yti9o [15] http://twitpic.com/yti9o (http://twitpic.com/yti9o)
+=> http://twitpic.com/ytj13 [16] http://twitpic.com/ytj13 (http://twitpic.com/ytj13)
+=> http://twitpic.com/ytjsn [17] http://twitpic.com/ytjsn (http://twitpic.com/ytjsn)
+=> http://twitpic.com/ytmti [18] http://twitpic.com/ytmti (http://twitpic.com/ytmti)
+=> http://twitpic.com/yto6y [19] http://twitpic.com/yto6y (http://twitpic.com/yto6y)
+=> http://twitpic.com/ytp3y [20] http://twitpic.com/ytp3y (http://twitpic.com/ytp3y)
+=> http://twitpic.com/ytrap [21] http://twitpic.com/ytrap (http://twitpic.com/ytrap)
+=> http://twitpic.com/yts5c [22] http://twitpic.com/yts5c (http://twitpic.com/yts5c)
+=> http://twitpic.com/ytvp9 [23] http://twitpic.com/ytvp9 (http://twitpic.com/ytvp9)
+=> http://twitpic.com/yty9j [24] http://twitpic.com/yty9j (http://twitpic.com/yty9j)
+=> http://twitpic.com/ytzy7 [25] http://twitpic.com/ytzy7 (http://twitpic.com/ytzy7)
+=> http://twitpic.com/yu3ro [26] http://twitpic.com/yu3ro (http://twitpic.com/yu3ro)
+=> http://twitpic.com/yu6pw [27] http://twitpic.com/yu6pw (http://twitpic.com/yu6pw)
+=> http://twitpic.com/yu70j [28] http://twitpic.com/yu70j (http://twitpic.com/yu70j)
+=> http://twitpic.com/yu9bt [29] http://twitpic.com/yu9bt (http://twitpic.com/yu9bt)
+=> http://twitpic.com/yuccy [30] http://twitpic.com/yuccy (http://twitpic.com/yuccy)
+=> http://twitpic.com/yuncq [31] http://twitpic.com/yuncq (http://twitpic.com/yuncq)
+=> http://twitpic.com/yurfi [32] http://twitpic.com/yurfi (http://twitpic.com/yurfi)
 ---
 
 

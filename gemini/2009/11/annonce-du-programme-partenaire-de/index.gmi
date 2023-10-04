@@ -5,9 +5,11 @@
 
 
 
-[
 
-=> http://www.driveo.fr/ Embedded Image: http://www.driveo.fr/ à destination des sociétés, entreprises individuelles et auto-entrepreneur de dépannage et d'assistance informatique.
+
+=> http://www.driveo.fr/sites/default/files/basic_logo.png Embedded Image: http://www.driveo.fr/sites/default/files/basic_logo.png
+
+C'est aujourd'hui que nous lançons le programme partenaire Driveo [2] à destination des sociétés, entreprises individuelles et auto-entrepreneur de dépannage et d'assistance informatique.
 
 Le partenariat permet à aux responsables de ces activités de devenir revendeur et formateur Driveo.
 
@@ -15,13 +17,14 @@ Nous partageons 50% des revenus avec les revendeurs Driveo sur les 2 premières 
 
 De plus, en devenant formateur Driveo, après avoir suivi le cycle de formation à distance, ces acteurs peuvent fournir des formations aux nouvelles auto-écoles utilisatrices de Driveo.
 
-Les informations sont disponible sur la page Programme Partenaires de Driveo [2].
+Les informations sont disponible sur la page Programme Partenaires de Driveo [3].
 
 
 
 ## References
 
-=> http://www.driveo.fr/programme_partenaires.html [2] Programme Partenaires de Driveo (http://www.driveo.fr/programme_partenaires.html)
+=> http://www.driveo.fr/ [2] Driveo (http://www.driveo.fr/)
+=> http://www.driveo.fr/programme_partenaires.html [3] Programme Partenaires de Driveo (http://www.driveo.fr/programme_partenaires.html)
 ---
 
 

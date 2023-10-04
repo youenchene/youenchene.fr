@@ -11,14 +11,18 @@ Pour les zones chaudes, j'ai utilisé Feng GUI [5] qui permet de simuler du "eye
 
 Voici la première analyse avant les modifications :
 
-[
 
-=> /assets/external/1.bp.blogspot.com/_7LQ1EXHnw30/SobkJOS442I/AAAAAAAADG4/NGlV7_TjE1M/s1600-h/fengui-1.png Embedded Image: /assets/external/1.bp.blogspot.com/_7LQ1EXHnw30/SobkJOS442I/AAAAAAAADG4/NGlV7_TjE1M/s1600-h/fengui-1.png
+
+=> /assets/external/1.bp.blogspot.com/_7LQ1EXHnw30/SobkJOS442I/AAAAAAAADG4/NGlV7_TjE1M/s400/fengui-1.png Embedded Image: /assets/external/1.bp.blogspot.com/_7LQ1EXHnw30/SobkJOS442I/AAAAAAAADG4/NGlV7_TjE1M/s400/fengui-1.png
+
+
 Ensuite, j'ai effectué divers modifications en voici le retour via Feng GUI :
 
-[
 
-=> /assets/external/4.bp.blogspot.com/_7LQ1EXHnw30/SobkNiA5D-I/AAAAAAAADHA/bFnwPDjLFqE/s1600-h/fengui-2.png Embedded Image: /assets/external/4.bp.blogspot.com/_7LQ1EXHnw30/SobkNiA5D-I/AAAAAAAADHA/bFnwPDjLFqE/s1600-h/fengui-2.pngAnoter que cela a permis d'ajouter le prix et le "call-to-action" (bouton d'inscription) dans les zones d'attentions. Enfin, le remplacement du logo par une copie d'écran de Driveo dans l'écran d'ordinateur a permis de créer la zone principale d'attention autour des messages importants.
+
+=> /assets/external/4.bp.blogspot.com/_7LQ1EXHnw30/SobkNiA5D-I/AAAAAAAADHA/bFnwPDjLFqE/s400/fengui-2.png Embedded Image: /assets/external/4.bp.blogspot.com/_7LQ1EXHnw30/SobkNiA5D-I/AAAAAAAADHA/bFnwPDjLFqE/s400/fengui-2.png
+
+Anoter que cela a permis d'ajouter le prix et le "call-to-action" (bouton d'inscription) dans les zones d'attentions. Enfin, le remplacement du logo par une copie d'écran de Driveo dans l'écran d'ordinateur a permis de créer la zone principale d'attention autour des messages importants.
 
 Feng-GUI  [6]est gratuit si souhaite l'utiliser 1 fois toutes les 5h (ou moisn en changeant d'IP). Par contre sur le site, il est impossible de souscrire à un pack ... mmmmhh pas terrible pour le business.
 

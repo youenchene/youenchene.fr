@@ -5,9 +5,11 @@
 
 
 
-[
 
-=> /assets/external/1.bp.blogspot.com/_7LQ1EXHnw30/SzMjun8hhfI/AAAAAAAADTY/jDuob-z-9Fo/s1600-h/logo_leweb.png Embedded Image: /assets/external/1.bp.blogspot.com/_7LQ1EXHnw30/SzMjun8hhfI/AAAAAAAADTY/jDuob-z-9Fo/s1600-h/logo_leweb.pngVoici le deuxième et dernier article à propos de la plus grande conférence européenne de l'industrie du web. Il s'agit d'évoquer les conférences et les moments marquant de l'édition 2009.
+
+=> /assets/external/1.bp.blogspot.com/_7LQ1EXHnw30/SzMjun8hhfI/AAAAAAAADTY/jDuob-z-9Fo/s320/logo_leweb.png Embedded Image: /assets/external/1.bp.blogspot.com/_7LQ1EXHnw30/SzMjun8hhfI/AAAAAAAADTY/jDuob-z-9Fo/s320/logo_leweb.png
+
+Voici le deuxième et dernier article à propos de la plus grande conférence européenne de l'industrie du web. Il s'agit d'évoquer les conférences et les moments marquant de l'édition 2009.
 
 Les différents types de conférence
 Nous pouvons décomposer les conférences en plusieurs types il y a d'abord les conférences sponsorisés (Microsoft, Orange, Pearltrees ...) qui sont très pratiques pour aller faire autre chose (réseauter) et les conceptuels (sexe Open Source, Danah Boyd).
@@ -18,77 +20,97 @@ L'ensemble des conférences, workshops et présentation de startups sont disponi
 
 Les stars (et les politiques)
 
-[
-
-=> http://fr.wikipedia.org/wiki/Marissa_Mayer Embedded Image: http://fr.wikipedia.org/wiki/Marissa_Mayer, la vice présidente Produits de recherche et services aux utilisateurs de chez Google (et la première ingénieure a être embauché par Google). qui a réussi le tour de force de parler plus de Twitter et l'iphone pendant les 20 minutes imparties.
-Vidéo ustream [13]
 
 
+=> /assets/external/2.bp.blogspot.com/_7LQ1EXHnw30/SzMp82o1KHI/AAAAAAAADTo/Ax30j5-jNFk/s200/4172625907_72af60ed83.jpg Embedded Image: /assets/external/2.bp.blogspot.com/_7LQ1EXHnw30/SzMp82o1KHI/AAAAAAAADTo/Ax30j5-jNFk/s200/4172625907_72af60ed83.jpg
 
-[
-
-=> http://www.join1goal.org/ Embedded Image: http://www.join1goal.org/.  Le peu que l'on puisse dire c'est c'était très pro et très adapté au public (les slides ne font pas plus de 140 caractères comme sur Twitter).
+Je vais commencer par Marissa Mayer [13], la vice présidente Produits de recherche et services aux utilisateurs de chez Google (et la première ingénieure a être embauché par Google). qui a réussi le tour de force de parler plus de Twitter et l'iphone pendant les 20 minutes imparties.
 Vidéo ustream [14]
 
 
 
-Il ne faut pas oublier Jack Dorsey [15], un des fondateurs de twitter qui présentait un système de paiement par carte bleue passant par prise jack de sont téléphone. Une très bonne alternative au TPE (terminal de paiement électronique), pour les petits comemrçants et restaurant. En plus, d'une démo raté, l'idée est risquée : il faudra affronter les banques de chaque pays pour imposer ce système.
+
+
+=> /assets/external/2.bp.blogspot.com/_7LQ1EXHnw30/SzMqH2lJl0I/AAAAAAAADTw/IHxOJ2Dq04A/s200/4174225010_44c77f5471_b.jpg Embedded Image: /assets/external/2.bp.blogspot.com/_7LQ1EXHnw30/SzMqH2lJl0I/AAAAAAAADTw/IHxOJ2Dq04A/s200/4174225010_44c77f5471_b.jpg
+
+Le représentant politique de cette édition est la reine Rania de Jordanie en pleine promotion de 1 goal, son programme d'aide à l'éducation des enfants dans le monde entier [15].  Le peu que l'on puisse dire c'est c'était très pro et très adapté au public (les slides ne font pas plus de 140 caractères comme sur Twitter).
 Vidéo ustream [16]
 
-Enfin, la dernière star c'est la secrétaire d'état du numérique de l'année (ça change tout les ans) : Nathalie Kosciusko-Morizet [17]. Un des membres du gouvernement qui utilise les réseaux sociaux elle-même (bon il y a Christian Estrosi mais c'est beaucoup moins subtile [18]). Deux choses à retenir : contrairement à Eric Besson elle a utilisé l'anglais et elle s'est présenté comme secrétaire d'état de la société numérique (davantage que de la technologie numérique).
-Vidéo ustream [19] et la remise des prix avec un jeune startupeur sur-excité par la secrétaire d'état [20].
 
-[
 
-=> /assets/external/3.bp.blogspot.com/_7LQ1EXHnw30/SzMs5sFHqDI/AAAAAAAADT4/0xYAQcSQqGY/s1600-h/4174602736_0f86602549_b.jpg Embedded Image: /assets/external/3.bp.blogspot.com/_7LQ1EXHnw30/SzMs5sFHqDI/AAAAAAAADT4/0xYAQcSQqGY/s1600-h/4174602736_0f86602549_b.jpg
+Il ne faut pas oublier Jack Dorsey [17], un des fondateurs de twitter qui présentait un système de paiement par carte bleue passant par prise jack de sont téléphone. Une très bonne alternative au TPE (terminal de paiement électronique), pour les petits comemrçants et restaurant. En plus, d'une démo raté, l'idée est risquée : il faudra affronter les banques de chaque pays pour imposer ce système.
+Vidéo ustream [18]
+
+Enfin, la dernière star c'est la secrétaire d'état du numérique de l'année (ça change tout les ans) : Nathalie Kosciusko-Morizet [19]. Un des membres du gouvernement qui utilise les réseaux sociaux elle-même (bon il y a Christian Estrosi mais c'est beaucoup moins subtile [20]). Deux choses à retenir : contrairement à Eric Besson elle a utilisé l'anglais et elle s'est présenté comme secrétaire d'état de la société numérique (davantage que de la technologie numérique).
+Vidéo ustream [21] et la remise des prix avec un jeune startupeur sur-excité par la secrétaire d'état [22].
+
+
+
+=> /assets/external/3.bp.blogspot.com/_7LQ1EXHnw30/SzMs5sFHqDI/AAAAAAAADT4/0xYAQcSQqGY/s320/4174602736_0f86602549_b.jpg Embedded Image: /assets/external/3.bp.blogspot.com/_7LQ1EXHnw30/SzMs5sFHqDI/AAAAAAAADT4/0xYAQcSQqGY/s320/4174602736_0f86602549_b.jpg
+
+
 Les one man shows
 
-[
 
-=> http://tv.lepost.fr/2009/12/07/1827906_pascal-negre-jean-sarkozy-il-chante-comme-julien-clerc.html Embedded Image: http://tv.lepost.fr/2009/12/07/1827906_pascal-negre-jean-sarkozy-il-chante-comme-julien-clerc.html. En effet, le propos est qui vos client deviennent une communauté d'utilisateurs vous ne pouvez pas la contrôler (et vous ne devez pas essayer). Vous pouvez uniquement la guider et s'occuper d'elle.
-Vidéo ustream [21]
 
-[
+=> /assets/external/4.bp.blogspot.com/_7LQ1EXHnw30/SzM66f7Jw-I/AAAAAAAADUQ/a4T918eFqnA/s320/4171930638_3ac1c6d26f_b.jpg Embedded Image: /assets/external/4.bp.blogspot.com/_7LQ1EXHnw30/SzM66f7Jw-I/AAAAAAAADUQ/a4T918eFqnA/s320/4171930638_3ac1c6d26f_b.jpg
 
-=> http://www.amazon.fr/gp/product/0061914177?ie=UTF8&amp;tag=yetanotentrbl-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=0061914177 Embedded Image: http://www.amazon.fr/gp/product/0061914177?ie=UTF8&amp;tag=yetanotentrbl-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=0061914177
-
-=> http://www.assoc-amazon.fr/e/ir?t=yetanotentrbl-21&amp;l=as2&amp;o=8&amp;a=0061914177 Embedded Image: http://www.assoc-amazon.fr/e/ir?t=yetanotentrbl-21&amp;l=as2&amp;o=8&amp;a=0061914177: "CARE." (C'est le chapitre en entier). C'est Gary a réalisé la plus grosse impression en contredisant avec un vocabulaire directe l'ensemble des propos qui ont été dit dans l'ensemble des conférences : j'adore, c'est un excellent reboosteur!
-Vidéo ustream [22]
-
-[
-
-=> http://www.amazon.fr/gp/product/2744063150?ie=UTF8&amp;tag=yetanotentrbl-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=2744063150 Embedded Image: http://www.amazon.fr/gp/product/2744063150?ie=UTF8&amp;tag=yetanotentrbl-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=2744063150
-
-=> http://www.amazon.fr/gp/product/2212124996?ie=UTF8&amp;tag=yetanotentrbl-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=2212124996 Embedded Image: http://www.amazon.fr/gp/product/2212124996?ie=UTF8&amp;tag=yetanotentrbl-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=2212124996
-
-=> http://www.assoc-amazon.fr/e/ir?t=yetanotentrbl-21&amp;l=as2&amp;o=8&amp;a=2212124996 Embedded Image: http://www.assoc-amazon.fr/e/ir?t=yetanotentrbl-21&amp;l=as2&amp;o=8&amp;a=2212124996).
-Vidéo ustream [23]
-
-J'oubliai aussi la rapide discussion de Loic avec Fabrice Grinda [24] qui a retenu l'attention de pas mal de monde.
+Au retour du workshop sur Androïd, je suis tombé sur la fin de la conférence de Chris Pirillo [23] sur la gestion d'une communauté. En de la performance scénique (le monsieur bosse ausi sur la TV US), je suis assez d'accord avec le propos. Il faudrait passer la conférence en boucle à ce boulet de Pascal Nègre qui n'admet toujours l'impact très négatifs des DRMs sur l'état de l'industrie de la musique [24]. En effet, le propos est qui vos client deviennent une communauté d'utilisateurs vous ne pouvez pas la contrôler (et vous ne devez pas essayer). Vous pouvez uniquement la guider et s'occuper d'elle.
 Vidéo ustream [25]
+
+
+
+=> /assets/external/4.bp.blogspot.com/_7LQ1EXHnw30/SzM6ChHEYpI/AAAAAAAADUA/6EyXFweoemE/s200/4182000767_dd52d14105_o.jpg Embedded Image: /assets/external/4.bp.blogspot.com/_7LQ1EXHnw30/SzM6ChHEYpI/AAAAAAAADUA/6EyXFweoemE/s200/4182000767_dd52d14105_o.jpg
+
+Une conférence que Gary Vaynerchuk [26] résume dans le chapitre marketing de son livre [27]
+
+=> http://www.assoc-amazon.fr/e/ir?t=yetanotentrbl-21&amp;l=as2&amp;o=8&amp;a=0061914177 Embedded Image: http://www.assoc-amazon.fr/e/ir?t=yetanotentrbl-21&amp;l=as2&amp;o=8&amp;a=0061914177 
+
+: "CARE." (C'est le chapitre en entier). C'est Gary a réalisé la plus grosse impression en contredisant avec un vocabulaire directe l'ensemble des propos qui ont été dit dans l'ensemble des conférences : j'adore, c'est un excellent reboosteur!
+Vidéo ustream [28]
+
+
+
+=> /assets/external/2.bp.blogspot.com/_7LQ1EXHnw30/SzM6g7v1_aI/AAAAAAAADUI/TAnqhRNJ2CA/s200/4174494960_8c8384136a_b.jpg Embedded Image: /assets/external/2.bp.blogspot.com/_7LQ1EXHnw30/SzM6g7v1_aI/AAAAAAAADUI/TAnqhRNJ2CA/s200/4174494960_8c8384136a_b.jpg
+
+Enfin, Tim Ferriss était aussi attendu au coin du boit après son fameux livre La semaine de 4 heures [29]
+
+=> http://www.assoc-amazon.fr/e/ir?t=yetanotentrbl-21&amp;l=as2&amp;o=8&amp;a=2744063150 Embedded Image: http://www.assoc-amazon.fr/e/ir?t=yetanotentrbl-21&amp;l=as2&amp;o=8&amp;a=2744063150 
+
+. Sauf que comme il s'est introduit, il n'est pas un show man et a donc réalisé un rapide exposé de la conversion web (un résumé du livre de Serge Roukine [30]
+
+=> http://www.assoc-amazon.fr/e/ir?t=yetanotentrbl-21&amp;l=as2&amp;o=8&amp;a=2212124996 Embedded Image: http://www.assoc-amazon.fr/e/ir?t=yetanotentrbl-21&amp;l=as2&amp;o=8&amp;a=2212124996 
+
+).
+Vidéo ustream [31]
+
+J'oubliai aussi la rapide discussion de Loic avec Fabrice Grinda [32] qui a retenu l'attention de pas mal de monde.
+Vidéo ustream [33]
 
 
 
 Les discussions de comptoirs
 
-Appelées "firechat", à 2 ou 3 personnes et animées par Loïc Lemeur [26] et Mike Arrington [27]. Elles permettaient d'aller vers du fond assez rapidement (si ce n'était pas trop sponsorisé).
+Appelées "firechat", à 2 ou 3 personnes et animées par Loïc Lemeur [34] et Mike Arrington [35]. Elles permettaient d'aller vers du fond assez rapidement (si ce n'était pas trop sponsorisé).
 
-Celle sur "Music reborn" avec Deezer [28] et animé par Robert Scoble [29] a été très intéressante en particulier pour voir la tête de Robert Scoble découvrant le succès de Deezer en europe.
-Vidéo ustream [30]
+Celle sur "Music reborn" avec Deezer [36] et animé par Robert Scoble [37] a été très intéressante en particulier pour voir la tête de Robert Scoble découvrant le succès de Deezer en europe.
+Vidéo ustream [38]
 
 Les débats
 
 Assez difficile à suivre, les discussions en anglais vont très très vite et on tombe très rapidement sur des lieux communs et de l'enfoncement de portes ouvertes.
-Exemple : vidéo ustream European Gang [31]
+Exemple : vidéo ustream European Gang [39]
 
-[
 
-=> /assets/external/2.bp.blogspot.com/_7LQ1EXHnw30/SzM8WHa08eI/AAAAAAAADUY/7pxREBSkj-U/s1600-h/4182002803_4d96d6d48a_o.jpg Embedded Image: /assets/external/2.bp.blogspot.com/_7LQ1EXHnw30/SzM8WHa08eI/AAAAAAAADUY/7pxREBSkj-U/s1600-h/4182002803_4d96d6d48a_o.jpg
+
+=> /assets/external/2.bp.blogspot.com/_7LQ1EXHnw30/SzM8WHa08eI/AAAAAAAADUY/7pxREBSkj-U/s320/4182002803_4d96d6d48a_o.jpg Embedded Image: /assets/external/2.bp.blogspot.com/_7LQ1EXHnw30/SzM8WHa08eI/AAAAAAAADUY/7pxREBSkj-U/s320/4182002803_4d96d6d48a_o.jpg
+
+
 Les workshops
 
 Derrière la scène principale, il y avais la possibilité d'assister à des workshops. Des choses que j'avais zappé l'année dernière. J'ai assisté à 3 morceaux de workshops :
 Facebook : salle blindée, je n'ai eu le temps d'assister qu'à la partie facile que je connaissais déjà.Les liens des photos flickr:
-http://www.flickr.com/photos/earcos/4182002803/ [39]
+http://www.flickr.com/photos/earcos/4182002803/ [47]
 
 
 
@@ -96,33 +118,41 @@ http://www.flickr.com/photos/earcos/4182002803/ [39]
 ## References
 
 => http://www.ustream.tv/leweb/ [12] l'espace ustream (http://www.ustream.tv/leweb/)
-=> http://www.ustream.tv/recorded/2759667 [13] Vidéo ustream (http://www.ustream.tv/recorded/2759667)
-=> http://www.ustream.tv/recorded/2839524 [14] Vidéo ustream (http://www.ustream.tv/recorded/2839524)
-=> http://twitter.com/Jack [15] Jack Dorsey (http://twitter.com/Jack)
-=> http://www.ustream.tv/recorded/2747998 [16] Vidéo ustream (http://www.ustream.tv/recorded/2747998)
-=> http://twitter.com/nK_m [17] Nathalie Kosciusko-Morizet (http://twitter.com/nK_m)
-=> http://www.liberation.fr/brut-de-net/06011408-estrosi-se-fait-taper-sur-les-doigts-pour-usage-compulsif-de-twitter [18] c'est beaucoup moins subtile (http://www.liberation.fr/brut-de-net/06011408-estrosi-se-fait-taper-sur-les-doigts-pour-usage-compulsif-de-twitter)
-=> http://www.ustream.tv/recorded/2849074 [19] Vidéo ustream (http://www.ustream.tv/recorded/2849074)
-=> http://www.ustream.tv/recorded/2850307 [20] la remise des prix avec un jeune startupeur sur-excité par la secrétaire d'état (http://www.ustream.tv/recorded/2850307)
-=> http://www.ustream.tv/recorded/2752312 [21] Vidéo ustream (http://www.ustream.tv/recorded/2752312)
-=> http://www.ustream.tv/recorded/2851904 [22] Vidéo ustream (http://www.ustream.tv/recorded/2851904)
-=> http://www.ustream.tv/recorded/2838490 [23] Vidéo ustream (http://www.ustream.tv/recorded/2838490)
-=> http://www.fabricegrinda.com/ [24] Fabrice Grinda (http://www.fabricegrinda.com/)
-=> http://www.ustream.tv/recorded/2846280 [25] Vidéo ustream (http://www.ustream.tv/recorded/2846280)
-=> http://twitter.com/LOIC [26] Loïc Lemeur (http://twitter.com/LOIC)
-=> http://fr.wikipedia.org/wiki/Michael_Arrington [27] Mike Arrington (http://fr.wikipedia.org/wiki/Michael_Arrington)
-=> http://www.deezer.com/ [28] Deezer (http://www.deezer.com/)
-=> http://scobleizer.com/ [29] Robert Scoble (http://scobleizer.com/)
-=> http://www.ustream.tv/recorded/2762152 [30] Vidéo ustream (http://www.ustream.tv/recorded/2762152)
-=> http://www.ustream.tv/recorded/2856995 [31] Exemple : vidéo ustream European Gang (http://www.ustream.tv/recorded/2856995)
-=> http://www.fermiersdacote.fr/ [32] fermiers d'à côté (http://www.fermiersdacote.fr/)
-=> http://www.flickr.com/photos/adders/4174225010/ [33] http://www.flickr.com/photos/adders/4174225010/ (http://www.flickr.com/photos/adders/4174225010/)
-=> http://www.flickr.com/photos/earcos/4172625907/ [34] http://www.flickr.com/photos/earcos/4172625907/ (http://www.flickr.com/photos/earcos/4172625907/)
-=> http://www.flickr.com/photos/rsepulveda/4174602736/ [35] http://www.flickr.com/photos/rsepulveda/4174602736/ (http://www.flickr.com/photos/rsepulveda/4174602736/)
-=> http://www.flickr.com/photos/earcos/4182000767/ [36] http://www.flickr.com/photos/earcos/4182000767/ (http://www.flickr.com/photos/earcos/4182000767/)
-=> http://www.flickr.com/photos/fdevillamil/4174494960/ [37] http://www.flickr.com/photos/fdevillamil/4174494960/ (http://www.flickr.com/photos/fdevillamil/4174494960/)
-=> http://www.flickr.com/photos/scobleizer/4171930638/ [38] http://www.flickr.com/photos/scobleizer/4171930638/ (http://www.flickr.com/photos/scobleizer/4171930638/)
-=> http://www.flickr.com/photos/earcos/4182002803/ [39] http://www.flickr.com/photos/earcos/4182002803/ (http://www.flickr.com/photos/earcos/4182002803/)
+=> http://fr.wikipedia.org/wiki/Marissa_Mayer [13] Marissa Mayer (http://fr.wikipedia.org/wiki/Marissa_Mayer)
+=> http://www.ustream.tv/recorded/2759667 [14] Vidéo ustream (http://www.ustream.tv/recorded/2759667)
+=> http://www.join1goal.org/ [15] 1 goal, son programme d'aide à l'éducation des enfants dans le monde entier (http://www.join1goal.org/)
+=> http://www.ustream.tv/recorded/2839524 [16] Vidéo ustream (http://www.ustream.tv/recorded/2839524)
+=> http://twitter.com/Jack [17] Jack Dorsey (http://twitter.com/Jack)
+=> http://www.ustream.tv/recorded/2747998 [18] Vidéo ustream (http://www.ustream.tv/recorded/2747998)
+=> http://twitter.com/nK_m [19] Nathalie Kosciusko-Morizet (http://twitter.com/nK_m)
+=> http://www.liberation.fr/brut-de-net/06011408-estrosi-se-fait-taper-sur-les-doigts-pour-usage-compulsif-de-twitter [20] c'est beaucoup moins subtile (http://www.liberation.fr/brut-de-net/06011408-estrosi-se-fait-taper-sur-les-doigts-pour-usage-compulsif-de-twitter)
+=> http://www.ustream.tv/recorded/2849074 [21] Vidéo ustream (http://www.ustream.tv/recorded/2849074)
+=> http://www.ustream.tv/recorded/2850307 [22] la remise des prix avec un jeune startupeur sur-excité par la secrétaire d'état (http://www.ustream.tv/recorded/2850307)
+=> http://chris.pirillo.com/ [23] Chris Pirillo (http://chris.pirillo.com/)
+=> http://tv.lepost.fr/2009/12/07/1827906_pascal-negre-jean-sarkozy-il-chante-comme-julien-clerc.html [24] n'admet toujours l'impact très négatifs des DRMs sur l'état de l'industrie de la musique (http://tv.lepost.fr/2009/12/07/1827906_pascal-negre-jean-sarkozy-il-chante-comme-julien-clerc.html)
+=> http://www.ustream.tv/recorded/2752312 [25] Vidéo ustream (http://www.ustream.tv/recorded/2752312)
+=> http://garyvaynerchuk.com/ [26] Gary Vaynerchuk (http://garyvaynerchuk.com/)
+=> http://www.amazon.fr/gp/product/0061914177?ie=UTF8&amp;tag=yetanotentrbl-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=0061914177 [27] le chapitre marketing de son livre (http://www.amazon.fr/gp/product/0061914177?ie=UTF8&amp;tag=yetanotentrbl-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=0061914177)
+=> http://www.ustream.tv/recorded/2851904 [28] Vidéo ustream (http://www.ustream.tv/recorded/2851904)
+=> http://www.amazon.fr/gp/product/2744063150?ie=UTF8&amp;tag=yetanotentrbl-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=2744063150 [29] La semaine de 4 heures (http://www.amazon.fr/gp/product/2744063150?ie=UTF8&amp;tag=yetanotentrbl-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=2744063150)
+=> http://www.amazon.fr/gp/product/2212124996?ie=UTF8&amp;tag=yetanotentrbl-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=2212124996 [30] livre de Serge Roukine (http://www.amazon.fr/gp/product/2212124996?ie=UTF8&amp;tag=yetanotentrbl-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=2212124996)
+=> http://www.ustream.tv/recorded/2838490 [31] Vidéo ustream (http://www.ustream.tv/recorded/2838490)
+=> http://www.fabricegrinda.com/ [32] Fabrice Grinda (http://www.fabricegrinda.com/)
+=> http://www.ustream.tv/recorded/2846280 [33] Vidéo ustream (http://www.ustream.tv/recorded/2846280)
+=> http://twitter.com/LOIC [34] Loïc Lemeur (http://twitter.com/LOIC)
+=> http://fr.wikipedia.org/wiki/Michael_Arrington [35] Mike Arrington (http://fr.wikipedia.org/wiki/Michael_Arrington)
+=> http://www.deezer.com/ [36] Deezer (http://www.deezer.com/)
+=> http://scobleizer.com/ [37] Robert Scoble (http://scobleizer.com/)
+=> http://www.ustream.tv/recorded/2762152 [38] Vidéo ustream (http://www.ustream.tv/recorded/2762152)
+=> http://www.ustream.tv/recorded/2856995 [39] Exemple : vidéo ustream European Gang (http://www.ustream.tv/recorded/2856995)
+=> http://www.fermiersdacote.fr/ [40] fermiers d'à côté (http://www.fermiersdacote.fr/)
+=> http://www.flickr.com/photos/adders/4174225010/ [41] http://www.flickr.com/photos/adders/4174225010/ (http://www.flickr.com/photos/adders/4174225010/)
+=> http://www.flickr.com/photos/earcos/4172625907/ [42] http://www.flickr.com/photos/earcos/4172625907/ (http://www.flickr.com/photos/earcos/4172625907/)
+=> http://www.flickr.com/photos/rsepulveda/4174602736/ [43] http://www.flickr.com/photos/rsepulveda/4174602736/ (http://www.flickr.com/photos/rsepulveda/4174602736/)
+=> http://www.flickr.com/photos/earcos/4182000767/ [44] http://www.flickr.com/photos/earcos/4182000767/ (http://www.flickr.com/photos/earcos/4182000767/)
+=> http://www.flickr.com/photos/fdevillamil/4174494960/ [45] http://www.flickr.com/photos/fdevillamil/4174494960/ (http://www.flickr.com/photos/fdevillamil/4174494960/)
+=> http://www.flickr.com/photos/scobleizer/4171930638/ [46] http://www.flickr.com/photos/scobleizer/4171930638/ (http://www.flickr.com/photos/scobleizer/4171930638/)
+=> http://www.flickr.com/photos/earcos/4182002803/ [47] http://www.flickr.com/photos/earcos/4182002803/ (http://www.flickr.com/photos/earcos/4182002803/)
 ---
 
 

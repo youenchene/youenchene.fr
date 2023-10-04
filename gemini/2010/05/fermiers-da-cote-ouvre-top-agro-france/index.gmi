@@ -7,9 +7,11 @@
 
 C'est au cours de la conférence Le Web [2] (version 08 puis version 09), que j'ai rencontré Xavier Bertschy [3] un entrepreneur suisse francophone. En 2008, je l'avais rencontré pour son premier site CityOnline.net [4] un guide citadin géolocalisé à la Nomao ou Dismoioù. En décembre dernier, Xavier m'a proposé de monter la version française du site de petites annonces top-agro.ch [5]. La synergie étant assez évidente avec Fermiers d'à côté [7] #6, la version française ouvre en ces beaux jours de mai.
 
-[
 
-=> http://www.top-agro.fr/ Embedded Image: http://www.top-agro.fr/
+
+=> http://cache.fermiersdacote.fr/fdac/logo-topagro.png Embedded Image: http://cache.fermiersdacote.fr/fdac/logo-topagro.png
+
+
 
 En ce mardi 25 mai, l'équipe de Fermiers d'à côté [7] #6 vous annonce l'ouverture de la version française du site de petites annonces agricoles :  Top-agro.fr [8].
 

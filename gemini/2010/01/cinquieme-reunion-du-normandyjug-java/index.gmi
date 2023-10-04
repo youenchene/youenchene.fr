@@ -5,31 +5,35 @@
 
 
 
-[
 
-=> http://www.exia.cesi.fr/ Embedded Image: http://www.exia.cesi.fr/ (à Mont Saint Aignan).Les thèmes de la soirée sont les suivants :
-Glassfish V3 par Alexis Moussine Pouchkine [3]
-Et encore une fois, grâce à nos amis de chez JetBrains [4], Des T-Shirts et des Licences TeamCity et/ou IntelliJ IDea à Gagner !!!Merci aussi à eXo Platform [5] (via Dimitri Baeli [6]) pour les goodies surprise!
-Et enfin, merci aux Editions Pearson [7] pour l’exemplaire de Apache Maven [8] qu’ils m’ont autorisé à vous faire gagner!Le buffet de cette soirée est de nouveau sponsorisé par enovea. Merci à eux pour leur soutien!
-Vous pouvez (et devez) vous inscrire via notre page sur le site jugevent.com [9].Un petit plan histoire de ne pas vous perdre :
+
+=> /assets/external/3.bp.blogspot.com/_7LQ1EXHnw30/S0MNO2S-_uI/AAAAAAAADU8/4VDs61qWRPI/s200/logo-juggy2.png Embedded Image: /assets/external/3.bp.blogspot.com/_7LQ1EXHnw30/S0MNO2S-_uI/AAAAAAAADU8/4VDs61qWRPI/s200/logo-juggy2.png
+
+La cinquième réunion de l’association NormandyJUG [2] aura lieu le Mardi 19 Janvier 2010 à partir de 19h00, dans les locaux de l’eXia / CESI [3] (à Mont Saint Aignan).Les thèmes de la soirée sont les suivants :
+Glassfish V3 par Alexis Moussine Pouchkine [5]
+Et encore une fois, grâce à nos amis de chez JetBrains [6], Des T-Shirts et des Licences TeamCity et/ou IntelliJ IDea à Gagner !!!Merci aussi à eXo Platform [7] (via Dimitri Baeli [8]) pour les goodies surprise!
+Et enfin, merci aux Editions Pearson [9] pour l’exemplaire de Apache Maven [10] qu’ils m’ont autorisé à vous faire gagner!Le buffet de cette soirée est de nouveau sponsorisé par enovea. Merci à eux pour leur soutien!
+Vous pouvez (et devez) vous inscrire via notre page sur le site jugevent.com [11].Un petit plan histoire de ne pas vous perdre :
 
 &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br/&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;small&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;a href="http://maps.google.fr/maps?ie=UTF8&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;q=exia+cesi+rouen&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;fb=1&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gl=fr&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;hq=exia+cesi&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;hnear=rouen&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;cid=0,0,14303900307713815448&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ei=0hTcSueKGtK24QaUzsD1Bg&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ved=0CAsQnwIwAA&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;t=h&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;iwloc=A&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ll=49.476671,1.092023&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;spn=0.006295,0.006295&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;source=embed"&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;Agrandir le plan&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;/a&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;/small&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;/p&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;
 
-(Le texte à été rapidement copié depuis l'article de NooCodeCommit [10])
+(Le texte à été rapidement copié depuis l'article de NooCodeCommit [12])
 
 
 
 ## References
 
-=> http://antoniogoncalves.org/xwiki/bin/view/Main/WebHome [2] Antonio Goncalvez (http://antoniogoncalves.org/xwiki/bin/view/Main/WebHome)
-=> http://blogs.sun.com/alexismp/ [3] Alexis Moussine Pouchkine (http://blogs.sun.com/alexismp/)
-=> http://www.jetbrains.com/ [4] JetBrains (http://www.jetbrains.com/)
-=> http://www.exoplatform.org/ [5] eXo Platform (http://www.exoplatform.org/)
-=> http://twitter.com/dbaeli [6] Dimitri Baeli (http://twitter.com/dbaeli)
-=> http://www.pearson.fr/ [7] Editions Pearson (http://www.pearson.fr/)
-=> http://www.pearson.fr/livre/?GCOI=27440100730370 [8] Apache Maven (http://www.pearson.fr/livre/?GCOI=27440100730370)
-=> http://jugevents.org/jugevents/event/22705 [9] via notre page sur le site jugevent.com (http://jugevents.org/jugevents/event/22705)
-=> http://www.noocodecommit.com/blog/nicogiard/news/cinquiehttp://www.noocodecommit.com/blog/nicogiard/news/cinquieme-reunion-du-normandyjug-ome-reunion-du-normandyjug-o [10] article de NooCodeCommit (http://www.noocodecommit.com/blog/nicogiard/news/cinquiehttp://www.noocodecommit.com/blog/nicogiard/news/cinquieme-reunion-du-normandyjug-ome-reunion-du-normandyjug-o)
+=> http://normandyjug.org/ [2] NormandyJUG (http://normandyjug.org/)
+=> http://www.exia.cesi.fr/ [3] eXia / CESI (http://www.exia.cesi.fr/)
+=> http://antoniogoncalves.org/xwiki/bin/view/Main/WebHome [4] Antonio Goncalvez (http://antoniogoncalves.org/xwiki/bin/view/Main/WebHome)
+=> http://blogs.sun.com/alexismp/ [5] Alexis Moussine Pouchkine (http://blogs.sun.com/alexismp/)
+=> http://www.jetbrains.com/ [6] JetBrains (http://www.jetbrains.com/)
+=> http://www.exoplatform.org/ [7] eXo Platform (http://www.exoplatform.org/)
+=> http://twitter.com/dbaeli [8] Dimitri Baeli (http://twitter.com/dbaeli)
+=> http://www.pearson.fr/ [9] Editions Pearson (http://www.pearson.fr/)
+=> http://www.pearson.fr/livre/?GCOI=27440100730370 [10] Apache Maven (http://www.pearson.fr/livre/?GCOI=27440100730370)
+=> http://jugevents.org/jugevents/event/22705 [11] via notre page sur le site jugevent.com (http://jugevents.org/jugevents/event/22705)
+=> http://www.noocodecommit.com/blog/nicogiard/news/cinquiehttp://www.noocodecommit.com/blog/nicogiard/news/cinquieme-reunion-du-normandyjug-ome-reunion-du-normandyjug-o [12] article de NooCodeCommit (http://www.noocodecommit.com/blog/nicogiard/news/cinquiehttp://www.noocodecommit.com/blog/nicogiard/news/cinquieme-reunion-du-normandyjug-ome-reunion-du-normandyjug-o)
 ---
 
 

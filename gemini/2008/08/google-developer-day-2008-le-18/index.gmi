@@ -5,21 +5,24 @@
 
 
 
-[
 
-=> http://code.google.com/events/developerday/2008/ Embedded Image: http://code.google.com/events/developerday/2008/ sur Paris le jeudi 18 septembre.
+
+=> http://code.google.com/intl/fr_ALL/events/developerday/2008/images/logo.gif Embedded Image: http://code.google.com/intl/fr_ALL/events/developerday/2008/images/logo.gif
+
+Une brève rapide pour signaler l'organisation des Google Developer Day  2008 [2] sur Paris le jeudi 18 septembre.
 Il parait que c'est très bonne occasion pour aller discuter avec les ingénieurs de google et d'en savoir plus sur les multiples projets de code.google.com (et en particulier sur GWT).
 
-Pour les inscription c'est ici [2].
+Pour les inscription c'est ici [3].
 
-Et pour le souvenir les vidéos 2007 sont disponible sur ce channel Youtube [3].
+Et pour le souvenir les vidéos 2007 sont disponible sur ce channel Youtube [4].
 
 
 
 ## References
 
-=> http://code.google.com/intl/fr_ALL/events/developerday/2008/home.html [2] ici (http://code.google.com/intl/fr_ALL/events/developerday/2008/home.html)
-=> http://www.youtube.com/googledeveloperday [3] channel Youtube (http://www.youtube.com/googledeveloperday)
+=> http://code.google.com/events/developerday/2008/ [2]  Google Developer Day  2008 (http://code.google.com/events/developerday/2008/)
+=> http://code.google.com/intl/fr_ALL/events/developerday/2008/home.html [3] ici (http://code.google.com/intl/fr_ALL/events/developerday/2008/home.html)
+=> http://www.youtube.com/googledeveloperday [4] channel Youtube (http://www.youtube.com/googledeveloperday)
 ---
 
 

@@ -5,9 +5,11 @@
 
 
 
-[
 
-=> /assets/external/youen-partage.s3.amazonaws.com/jug2.png Embedded Image: /assets/external/youen-partage.s3.amazonaws.com/jug2.pngN'oubliez pas de l'afficher si vous êtes dans une société normande !
+
+=> /assets/external/youen-partage.s3.amazonaws.com/jug2.png Embedded Image: /assets/external/youen-partage.s3.amazonaws.com/jug2.png
+
+N'oubliez pas de l'afficher si vous êtes dans une société normande !
 
 Le lien vers la version PDF pour l'impression [2].
 

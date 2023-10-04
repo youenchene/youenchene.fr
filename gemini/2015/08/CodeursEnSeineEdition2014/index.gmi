@@ -5,7 +5,9 @@
 
 
 
-=> http://www.codeursenseine.com/assets/img/logo-codeurs-en-seine.png Embedded Image: http://www.codeursenseine.com/assets/img/logo-codeurs-en-seine.png
+=> http://www.codeursenseine.com/assets/img/logo-codeurs-en-seine.png Embedded Image: http://www.codeursenseine.com/assets/img/logo-codeurs-en-seine.png 
+
+
 Note : gros retard sur mon blog, je profite de l'acalmie du mois d'Août pour le mettre à jour. Quelques articles un peu décalés dans le temps...
 
 Un rapide article pour revenir sur l'organisation de l'édition 2014 de Codeurs en Seine [3].
@@ -20,7 +22,9 @@ Comme l'organisation était un plus rodé j'ai pu profiter de quelques conféren
 
 
 
-=> /assets/external/farm8.staticflickr.com/7502/15720344837_d3aedcd076_h.jpg Embedded Image: /assets/external/farm8.staticflickr.com/7502/15720344837_d3aedcd076_h.jpg
+=> /assets/external/farm8.staticflickr.com/7502/15720344837_d3aedcd076_h.jpg Embedded Image: /assets/external/farm8.staticflickr.com/7502/15720344837_d3aedcd076_h.jpg 
+
+
 Dans les autres amphis à noter :
 
     Git++ [9] : nos amis du chtit jug qu'on avais repéré à Devoxx France, a été la conférence la plus applaudie!
