@@ -1,0 +1,35 @@
+<div class="header-top">
+    <div class="header-top-left">
+        {{ partial "head/site-title.html" . }}
+        {{ partial "head/theme-switcher.html" . }}
+
+    </div>
+    <div class="header-top-right">
+        {{ partial "head/social-icons.html" . }}
+    </div>
+</div>
+
+<div class="header-bottom">
+    <extra>
+        <p>Je suis Youen Chéné, fondateur de <a href="https://www.lewebvert.fr/" target="_blank">Webvert</a>, contributeur à <a href="https://boavizta.org/" target="_blank">Boavizta</a>, advisor au <a href="https://www.bearstudio.fr/" target="_blank">Bear Studio</a>, 10ans+ bénévole à <a href="https://www.codeursenseine.com" target="_blank">Codeurs en Seine</a>.</p>
+        <p><em>Ici, je parle Web, Sobriété Numérique, Programmation, Entreprenariat, Domotique et Rétrogaming (Amiga).</em></p>
+        <p>Retrouvez ce blog sur <a href="gemini://g.youenchene.fr/">Gemini</a></p>
+    </extra>
+</div>
+
+{{ if site.Menus.main }}
+    <nav class="noselect">
+        {{ $currentPage := . }}
+        {{ range site.Menus.main }}
+        <a class="{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}" href="{{ .URL | absLangURL }}" title="{{ .Title }}">{{ .Name }}</a>
+        {{ end }}
+    </nav>
+{{ else }}
+    <nav></nav>
+{{ end }}
+
+<!-- .Params is the current page config. site.Params is global config in hugo.toml -->
+{{ $params := partial "params-helper.html" . }}
+{{ if or $params.enableMathGlobally .Params.math }}
+    {{ partial "features/mathjax.html" . }}
+{{ end }}

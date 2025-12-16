@@ -1,0 +1,93 @@
+baseURL = "/"
+languageCode = "fr-fr"
+defaultContentLanguage = "fr"
+title = "Yet Another Entrepreneur Blog"
+theme = "anubis2"
+
+[pagination]
+pagerSize = 10
+
+[params.author]
+name = "Youen Chéné"
+
+[[menu.main]]
+identifier = "home"
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+identifier = "categories"
+name = "Categories"
+url = "/categories/"
+weight = 3
+
+[[menu.main]]
+name = "Archive"
+identifier = "archive"
+url = "/post/"
+weight = 4
+
+[markup.goldmark.renderer]
+unsafe = true # Enable unsafe mode to have a better experience
+
+[markup.highlight]
+style              = 'catppuccin-frappe' # Find more style at here: https://swapoff.org/chroma/playground/
+
+[params]
+description= "Je suis Youen Chéné, fondateur de Webvert, contributeur à Boavizta? advisor au Bear Studio. Ici, je parle Web, Sobriété Numérique, Programmation, Entreprenariat, Domotique et Rétrogaming (Amiga)."
+dateFormat = "2006-01-02"
+locale = "fr-fr"
+
+[params.anubis2]
+enableRssIcon = true
+enableReadMoreButton = true
+socialIcons = [
+    { id = "github", url = "https://github.com/youenchene" },
+    { id = "linkedin", url = "https://fr.linkedin.com/in/youenchene/" },
+]
+hideFooterAttribution = true # hide "Powered by Hugo, theme" in footer
+enableMathGlobally = true # MathJax (default is false)
+enableCopyCodeButton = true
+enableSummary = true #
+customCSS = [
+    "css/my.css"
+    ]
+
+    # Leave all parameters empty to use the default values.
+[taxonomies]
+category = "categories"
+tag = "tags"
+author = "authors"
+
+[markup]
+defaultMarkdownHandler = 'goldmark'
+
+
+[mediaTypes]
+[mediaTypes."text/gemini"]
+suffixes = ["gmi"]
+
+[outputFormats]
+[outputFormats.RSS]
+mediatype = "application/rss"
+baseName = "feed"
+
+[outputFormats.GEMINI]
+name = "GEMINI"
+isPlainText = true
+isHTML = false
+mediaType = "text/gemini"
+path = "gemini/"
+protocol = "gemini://"
+permalinkable = true
+
+[outputFormats.GEMINIRSS]
+baseName = "feed"
+mediaType = "application/rss+xml"
+isPlainText = false
+path = "gemini/"
+
+[outputs]
+home = ["HTML", "RSS", "GEMINI", "GEMINIRSS"]
+page = ["HTML", "GEMINI"]
