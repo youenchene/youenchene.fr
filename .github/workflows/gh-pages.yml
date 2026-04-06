@@ -15,9 +15,17 @@ jobs:
         with:
           submodules: true
 
-      - name: Publish Site
-        uses: chabad360/hugo-gh-pages@master
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
         with:
-          githubToken: ${{ secrets.GITHUB_TOKEN }}
-          cname: www.youenchene.fr
-          args: --gc --minify --cleanDestinationDir
+          hugo-version: 'latest'
+          extended: true
+
+      - name: Build Site
+        run: hugo --gc --minify --cleanDestinationDir
+
+      - name: Deploy to S3-compatible service
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+        run: hugo deploy
