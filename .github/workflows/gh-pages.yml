@@ -16,7 +16,7 @@ jobs:
           submodules: true
 
       - name: Setup Hugo
-        uses: noesya/actions-hugo@v3
+        uses: deining/actions-hugo@v3.1.0-0
         with:
           hugo-version: 'latest'
           extended: true
