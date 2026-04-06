@@ -9,6 +9,7 @@ pagerSize = 10
 
 [params.author]
 name = "Youen Chéné"
+email = "youen@youenchene.fr"
 
 [[menu.main]]
 identifier = "home"
@@ -91,3 +92,6 @@ path = "gemini/"
 [outputs]
 home = ["HTML", "RSS", "GEMINI", "GEMINIRSS"]
 page = ["HTML", "GEMINI"]
+
+[[deployment.targets]]
+URL = "s3://www.youenchene.fr?endpoint=https://garage.deuxfleurs.fr&awssdk=v2&use_path_style=true&region=garage&disable_https=false"
