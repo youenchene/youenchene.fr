@@ -18,7 +18,7 @@ Pour cette fois, une réparation d'un clavier de ZX Spectrum 2+ 128k. (Une des p
 
 ![Photo d'un ZX Spectrum 2+ 128k](/post/images/zxspectrum2+128k.jpg)
 
-# Diagnostic
+## Diagnostic
 
 Les touches 1 à 5 du clavier ne fonctionnent pas. Ce qui est assez limitant car pas mal de jeux se lancent via ces touches.
 
@@ -32,7 +32,7 @@ Les touches 1 à 5 sont des touches de la première colonne :
 
 Le problème est qu'une des pistes de nappe est coupé.
 
-# Résolution
+## Résolution
 
 Suite à une expérience précédente sur une nappe de clavier de Thomson TO7, je suis passé directement au ruban adhésif conducteur. (Comme celui-là : [Bandes de feuille de cuivre 8PCS, adhésif conducteur double face pour le blindage EMI, anti-limaces, circuits de papier](https://amzn.to/4spaclT)).
 
