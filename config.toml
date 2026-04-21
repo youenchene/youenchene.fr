@@ -17,17 +17,30 @@ name = "Home"
 url = "/"
 weight = 1
 
+
+[[menu.main]]
+identifier = "startup"
+name = "Startup"
+url = "/categories/startup/"
+weight = 2
+
+[[menu.main]]
+identifier = "retrogaming"
+name = "Retrogaming"
+url = "/categories/retrogaming/"
+weight = 3
+
 [[menu.main]]
 identifier = "categories"
 name = "Categories"
 url = "/categories/"
-weight = 3
+weight = 4
 
 [[menu.main]]
 name = "Archive"
 identifier = "archive"
 url = "/post/"
-weight = 4
+weight = 5
 
 [markup.goldmark.renderer]
 unsafe = true # Enable unsafe mode to have a better experience
