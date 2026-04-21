@@ -6,7 +6,7 @@ categories:
 - reparation
 date: "2026-04-10T00:00:00Z"
 description: 
-image: /post/images/thomson-to7-70.jpg
+image: /post/images/thomson-to7-70-photo.jpg
 name: Youen Chene
 title: Thomson TO7/70 - Réparation Clavier
 url: /2026/04/10/Thomson-TO7-70-reparation-clavier

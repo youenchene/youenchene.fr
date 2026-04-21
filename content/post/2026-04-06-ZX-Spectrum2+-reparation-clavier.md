@@ -6,7 +6,7 @@ categories:
 - reparation
 date: "2026-04-07T00:00:00Z"
 description: 
-image: /post/images/hcne-bercy.jpg
+image: /post/images/zxspectrum2+128k.jpg
 name: Youen Chene
 title: ZX Spectrum 2+ 128k - Réparation Clavier
 url: /2026/04/06/ZX-Spectrum2-reparation-clavier
